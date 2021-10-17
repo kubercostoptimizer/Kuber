@@ -1,0 +1,182 @@
+True,"(u'cast-info-service',)",a1.medium,True
+True,"(u'compose-review-service',)",a1.medium,False
+True,"(u'compose-review-service',)",M6.medium,False
+True,"(u'compose-review-service',)",a1.large,False
+True,"(u'compose-review-service',)",M6.large,False
+True,"(u'compose-review-service',)",a1.xlarge,False
+True,"(u'compose-review-service',)",t3.micro,False
+True,"(u'compose-review-service',)",t3.small,False
+True,"(u'compose-review-service',)",M6.xlarge,False
+True,"(u'compose-review-service',)",t3.large,False
+True,"(u'compose-review-service',)",a1.2xlarge,True
+True,"(u'movie-id-service',)",a1.medium,True
+True,"(u'movie-review-service',)",a1.medium,True
+True,"(u'plot-service',)",a1.medium,True
+True,"(u'rating-service',)",a1.medium,False
+True,"(u'rating-service',)",M6.medium,True
+True,"(u'review-storage-service',)",a1.medium,False
+True,"(u'review-storage-service',)",M6.medium,False
+True,"(u'review-storage-service',)",a1.large,False
+True,"(u'review-storage-service',)",M6.large,False
+True,"(u'review-storage-service',)",a1.xlarge,True
+True,"(u'text-service',)",a1.medium,True
+True,"(u'unique-id-service',)",a1.medium,False
+True,"(u'unique-id-service',)",M6.medium,True
+True,"(u'user-review-service',)",a1.medium,True
+True,"(u'user-service',)",a1.medium,False
+True,"(u'user-service',)",M6.medium,False
+True,"(u'user-service',)",a1.large,True
+True,"(u'cast-info-service', u'compose-review-service')",a1.2xlarge,True
+True,"(u'cast-info-service', u'movie-id-service')",a1.medium,True
+True,"(u'cast-info-service', u'movie-review-service')",a1.medium,True
+True,"(u'cast-info-service', u'plot-service')",a1.medium,True
+True,"(u'cast-info-service', u'rating-service')",M6.medium,False
+True,"(u'cast-info-service', u'rating-service')",a1.large,True
+True,"(u'cast-info-service', u'review-storage-service')",a1.xlarge,True
+True,"(u'cast-info-service', u'text-service')",a1.medium,True
+True,"(u'cast-info-service', u'unique-id-service')",M6.medium,True
+True,"(u'cast-info-service', u'user-review-service')",a1.medium,True
+True,"(u'cast-info-service', u'user-service')",a1.large,False
+True,"(u'cast-info-service', u'user-service')",M6.large,True
+True,"(u'compose-review-service', u'movie-id-service')",a1.2xlarge,True
+True,"(u'compose-review-service', u'movie-review-service')",a1.2xlarge,False
+True,"(u'compose-review-service', u'movie-review-service')",M6.2xlarge,True
+True,"(u'compose-review-service', u'plot-service')",a1.2xlarge,True
+True,"(u'compose-review-service', u'rating-service')",a1.2xlarge,False
+True,"(u'compose-review-service', u'rating-service')",M6.2xlarge,False
+False,"(u'compose-review-service', u'review-storage-service')",a1.medium,False
+False,"(u'compose-review-service', u'review-storage-service')",M6.medium,False
+False,"(u'compose-review-service', u'review-storage-service')",a1.large,False
+False,"(u'compose-review-service', u'review-storage-service')",M6.large,False
+False,"(u'compose-review-service', u'review-storage-service')",a1.xlarge,False
+False,"(u'compose-review-service', u'review-storage-service')",t3.micro,False
+False,"(u'compose-review-service', u'review-storage-service')",t3.small,False
+False,"(u'compose-review-service', u'review-storage-service')",M6.xlarge,False
+False,"(u'compose-review-service', u'review-storage-service')",t3.large,False
+True,"(u'compose-review-service', u'review-storage-service')",a1.2xlarge,True
+True,"(u'compose-review-service', u'text-service')",a1.2xlarge,False
+True,"(u'compose-review-service', u'text-service')",M6.2xlarge,True
+True,"(u'compose-review-service', u'unique-id-service')",a1.2xlarge,False
+True,"(u'compose-review-service', u'unique-id-service')",M6.2xlarge,False
+False,"(u'compose-review-service', u'user-review-service')",a1.medium,False
+False,"(u'compose-review-service', u'user-review-service')",M6.medium,False
+False,"(u'compose-review-service', u'user-review-service')",a1.large,False
+False,"(u'compose-review-service', u'user-review-service')",M6.large,False
+False,"(u'compose-review-service', u'user-review-service')",a1.xlarge,False
+False,"(u'compose-review-service', u'user-review-service')",t3.micro,False
+False,"(u'compose-review-service', u'user-review-service')",t3.small,False
+False,"(u'compose-review-service', u'user-review-service')",M6.xlarge,False
+False,"(u'compose-review-service', u'user-review-service')",t3.large,False
+True,"(u'compose-review-service', u'user-review-service')",a1.2xlarge,True
+True,"(u'compose-review-service', u'user-service')",a1.2xlarge,False
+True,"(u'compose-review-service', u'user-service')",M6.2xlarge,True
+True,"(u'movie-id-service', u'movie-review-service')",a1.medium,False
+True,"(u'movie-id-service', u'movie-review-service')",M6.medium,True
+True,"(u'movie-id-service', u'plot-service')",a1.medium,True
+True,"(u'movie-id-service', u'rating-service')",M6.medium,True
+True,"(u'movie-id-service', u'review-storage-service')",a1.xlarge,False
+True,"(u'movie-id-service', u'review-storage-service')",t3.micro,False
+True,"(u'movie-id-service', u'review-storage-service')",t3.small,False
+True,"(u'movie-id-service', u'review-storage-service')",M6.xlarge,False
+True,"(u'movie-id-service', u'review-storage-service')",t3.large,False
+True,"(u'movie-id-service', u'review-storage-service')",a1.2xlarge,True
+True,"(u'movie-id-service', u'text-service')",a1.medium,False
+True,"(u'movie-id-service', u'text-service')",M6.medium,False
+True,"(u'movie-id-service', u'text-service')",a1.large,True
+True,"(u'movie-id-service', u'unique-id-service')",M6.medium,False
+True,"(u'movie-id-service', u'unique-id-service')",a1.large,True
+True,"(u'movie-id-service', u'user-review-service')",a1.medium,True
+True,"(u'movie-id-service', u'user-service')",a1.large,False
+True,"(u'movie-id-service', u'user-service')",M6.large,False
+True,"(u'movie-id-service', u'user-service')",a1.xlarge,False
+True,"(u'movie-id-service', u'user-service')",t3.micro,False
+True,"(u'movie-id-service', u'user-service')",t3.small,False
+True,"(u'movie-id-service', u'user-service')",M6.xlarge,True
+True,"(u'movie-review-service', u'plot-service')",a1.medium,True
+True,"(u'movie-review-service', u'rating-service')",M6.medium,False
+True,"(u'movie-review-service', u'rating-service')",a1.large,True
+True,"(u'movie-review-service', u'review-storage-service')",a1.xlarge,True
+True,"(u'movie-review-service', u'text-service')",a1.medium,True
+True,"(u'movie-review-service', u'unique-id-service')",M6.medium,True
+True,"(u'movie-review-service', u'user-review-service')",a1.medium,False
+True,"(u'movie-review-service', u'user-review-service')",M6.medium,False
+True,"(u'movie-review-service', u'user-review-service')",a1.large,True
+True,"(u'movie-review-service', u'user-service')",a1.large,False
+True,"(u'movie-review-service', u'user-service')",M6.large,True
+True,"(u'plot-service', u'rating-service')",M6.medium,False
+True,"(u'plot-service', u'rating-service')",a1.large,True
+True,"(u'plot-service', u'review-storage-service')",a1.xlarge,True
+True,"(u'plot-service', u'text-service')",a1.medium,True
+True,"(u'plot-service', u'unique-id-service')",M6.medium,False
+True,"(u'plot-service', u'unique-id-service')",a1.large,True
+True,"(u'plot-service', u'user-review-service')",a1.medium,True
+True,"(u'plot-service', u'user-service')",a1.large,True
+True,"(u'rating-service', u'review-storage-service')",a1.xlarge,False
+True,"(u'rating-service', u'review-storage-service')",t3.micro,False
+True,"(u'rating-service', u'review-storage-service')",t3.small,True
+True,"(u'rating-service', u'text-service')",M6.medium,True
+True,"(u'rating-service', u'unique-id-service')",M6.medium,False
+True,"(u'rating-service', u'unique-id-service')",a1.large,True
+True,"(u'rating-service', u'user-review-service')",M6.medium,False
+True,"(u'rating-service', u'user-review-service')",a1.large,True
+True,"(u'rating-service', u'user-service')",a1.large,False
+True,"(u'rating-service', u'user-service')",M6.large,False
+True,"(u'rating-service', u'user-service')",a1.xlarge,True
+True,"(u'review-storage-service', u'text-service')",a1.xlarge,False
+True,"(u'review-storage-service', u'text-service')",t3.micro,False
+True,"(u'review-storage-service', u'text-service')",t3.small,False
+True,"(u'review-storage-service', u'text-service')",M6.xlarge,False
+True,"(u'review-storage-service', u'text-service')",t3.large,False
+True,"(u'review-storage-service', u'text-service')",a1.2xlarge,False
+True,"(u'review-storage-service', u'text-service')",M6.2xlarge,False
+False,"(u'review-storage-service', u'unique-id-service')",a1.medium,False
+False,"(u'review-storage-service', u'unique-id-service')",M6.medium,False
+False,"(u'review-storage-service', u'unique-id-service')",a1.large,False
+False,"(u'review-storage-service', u'unique-id-service')",M6.large,False
+True,"(u'review-storage-service', u'unique-id-service')",a1.xlarge,False
+True,"(u'review-storage-service', u'unique-id-service')",t3.micro,True
+True,"(u'review-storage-service', u'user-review-service')",a1.xlarge,False
+True,"(u'review-storage-service', u'user-review-service')",t3.micro,True
+True,"(u'review-storage-service', u'user-service')",a1.xlarge,False
+True,"(u'review-storage-service', u'user-service')",t3.micro,False
+True,"(u'review-storage-service', u'user-service')",t3.small,True
+True,"(u'text-service', u'unique-id-service')",M6.medium,False
+True,"(u'text-service', u'unique-id-service')",a1.large,True
+True,"(u'text-service', u'user-review-service')",a1.medium,False
+True,"(u'text-service', u'user-review-service')",M6.medium,False
+True,"(u'text-service', u'user-review-service')",a1.large,True
+True,"(u'text-service', u'user-service')",a1.large,False
+True,"(u'text-service', u'user-service')",M6.large,False
+True,"(u'text-service', u'user-service')",a1.xlarge,True
+True,"(u'unique-id-service', u'user-review-service')",M6.medium,False
+True,"(u'unique-id-service', u'user-review-service')",a1.large,True
+True,"(u'unique-id-service', u'user-service')",a1.large,False
+True,"(u'unique-id-service', u'user-service')",M6.large,False
+True,"(u'unique-id-service', u'user-service')",a1.xlarge,False
+True,"(u'unique-id-service', u'user-service')",t3.micro,False
+True,"(u'unique-id-service', u'user-service')",t3.small,False
+True,"(u'unique-id-service', u'user-service')",M6.xlarge,False
+True,"(u'unique-id-service', u'user-service')",t3.large,False
+True,"(u'unique-id-service', u'user-service')",a1.2xlarge,True
+True,"(u'user-review-service', u'user-service')",a1.large,False
+True,"(u'user-review-service', u'user-service')",M6.large,False
+True,"(u'user-review-service', u'user-service')",a1.xlarge,False
+True,"(u'user-review-service', u'user-service')",t3.micro,True
+True,"(u'cast-info-service', u'compose-review-service', u'movie-id-service')",a1.2xlarge,True
+True,"(u'cast-info-service', u'compose-review-service', u'movie-review-service')",M6.2xlarge,True
+True,"(u'cast-info-service', u'compose-review-service', u'plot-service')",a1.2xlarge,True
+True,"(u'cast-info-service', u'compose-review-service', u'review-storage-service')",a1.2xlarge,True
+True,"(u'cast-info-service', u'compose-review-service', u'text-service')",M6.2xlarge,True
+True,"(u'cast-info-service', u'compose-review-service', u'user-review-service')",a1.2xlarge,True
+True,"(u'cast-info-service', u'compose-review-service', u'user-service')",M6.2xlarge,False
+False,"(u'cast-info-service', u'movie-id-service', u'movie-review-service')",a1.medium,False
+True,"(u'cast-info-service', u'movie-id-service', u'movie-review-service')",M6.medium,True
+True,"(u'cast-info-service', u'movie-id-service', u'plot-service')",a1.medium,True
+True,"(u'cast-info-service', u'movie-id-service', u'rating-service')",a1.large,True
+True,"(u'cast-info-service', u'movie-id-service', u'review-storage-service')",a1.2xlarge,True
+True,"(u'cast-info-service', u'movie-id-service', u'text-service')",a1.large,True
+True,"(u'cast-info-service', u'movie-id-service', u'unique-id-service')",a1.large,True
+True,"(u'cast-info-service', u'movie-id-service', u'user-review-service')",a1.medium,True
+True,"(u'cast-info-service', u'movie-id-service', u'user-service')",M6.xlarge,False
+True,"(u'cast-info-service', u'movie-id-service', u'user-service')",t3.large,True
+True,"(u'cast-info-service', u'movie-review-service', u'plot-service')",a1.medium,True

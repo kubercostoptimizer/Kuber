@@ -1,0 +1,14 @@
+service_name,API_name,performance_target(ms)
+compose-review-service,UploadUniqueId,0.3875
+compose-review-service,UploadText,0.3113
+compose-review-service,UploadMovieId,0.3027
+movie-review-service,UploadMovieReview,15.6283
+user-service,UploadUserWithUsername,0.3379
+movie-id-service,UploadMovieId,2.0965
+unique-id-service,UploadUniqueId,11.2516
+rating-service,UploadRating,0.8549
+review-storage-service,StoreReview,0.35
+user-review-service,UploadUserReview,11.5192
+text-service,UploadText,12.682
+cast-info-service,api,0
+plot-service,api,0

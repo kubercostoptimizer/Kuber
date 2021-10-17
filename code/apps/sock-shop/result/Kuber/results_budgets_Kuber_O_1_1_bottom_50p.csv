@@ -1,0 +1,7 @@
+,0,0.0
+1200.6,1,10.0,set(['payment']),VM1_50p,set([u'orders']),VM11_50p,set([u'front-end']),VM11_50p,set(['carts']),VM5_50p,set([u'shipping']),VM11_50p,set([u'catalogue']),VM11_50p,set([u'user']),VM11_50p
+312.12,2,20.0,set(['user']),VM1_50p,set(['front-end']),VM1_50p,set(['payment']),VM1_50p,set(['shipping']),VM1_50p,set(['catalogue']),VM1_50p,set(['carts']),VM5_50p,set([u'orders']),VM10_50p
+293.76,3,30.0,"set(['catalogue', 'payment'])",VM1_50p,set(['user']),VM1_50p,set(['carts']),VM5_50p,set(['front-end']),VM1_50p,set(['shipping']),VM1_50p,set([u'orders']),VM10_50p
+293.76,4,40.0,set(['front-end']),VM1_50p,"set(['catalogue', 'payment'])",VM1_50p,set(['carts']),VM5_50p,set(['user']),VM1_50p,set(['shipping']),VM1_50p,set([u'orders']),VM10_50p
+257.03999999999996,5,50.0,set(['catalogue']),VM1_50p,"set(['front-end', 'payment'])",VM1_50p,"set(['carts', 'shipping'])",VM5_50p,"set([u'orders', u'user'])",VM10_50p
+238.67999999999998,6,60.0,"set(['front-end', 'payment', 'orders'])",VM10_50p,"set(['catalogue', 'user'])",VM1_50p,"set([u'carts', u'shipping'])",VM5_50p

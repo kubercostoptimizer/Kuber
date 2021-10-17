@@ -1,0 +1,144 @@
+{
+    "Application": {
+        "services": [
+            "user-service",
+            "social-graph-service",
+            "compose-post-service",
+            "post-storage-service",
+            "user-timeline-service",
+            "write-home-timeline-service",
+            "home-timeline-service",
+            "media-service",
+            "text-service",
+            "unique-id-service",
+            "url-shorten-service",
+            "user-mention-service"
+        ],
+        "front-end": "nginx-thrift",
+        "port": "8080",
+        "name": "social-network",
+        "no_slaves": "3"
+    },
+    "Kuber": {
+        "performance_target_offset": "0.5",
+        "vm_selector": "sort_find",
+        "mode": "noprop",
+        "budget": "0"
+    },
+    "Profiling": {
+        "load_gen": {
+            "time_limit": "2m",
+            "throughput": "100",
+            "concurrent": "10"
+        },
+        "analysis": {
+            "percentile": "99",
+            "precision": "4",
+            "outliers_removal": "1"
+        }
+    },
+    "Infrastructure": {
+        "Cloud_provider": "opennebula",
+        "vm_types": [
+            {
+                "cpu_count": "1",
+                "name": "a1.medium",
+                "price": 0.0255,
+                "ram": "2",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "2",
+                "name": "a1.large",
+                "price": 0.051,
+                "ram": "4",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "4",
+                "name": "a1.xlarge",
+                "price": 0.102,
+                "ram": "8",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "8",
+                "name": "a1.2xlarge",
+                "price": 0.204,
+                "ram": "16",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "1",
+                "name": "M6.medium",
+                "price": 0.0385,
+                "ram": "4",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "2",
+                "name": "M6.large",
+                "price": 0.077,
+                "ram": "8",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "4",
+                "name": "M6.xlarge",
+                "price": 0.154,
+                "ram": "16",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "8",
+                "name": "M6.2xlarge",
+                "price": 0.308,
+                "ram": "32",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "cpu_count": "2",
+                "name": "t3.micro",
+                "price": 0.1104,
+                "ram": "1",
+                "computer": "galileo",
+                "machine_type": "gen",
+                "speed": "fast"
+            },
+            {
+                "cpu_count": "2",
+                "name": "t3.small",
+                "price": 0.1208,
+                "ram": "2",
+                "computer": "galileo",
+                "machine_type": "gen",
+                "speed": "fast"
+            },
+            {
+                "cpu_count": "2",
+                "name": "t3.large",
+                "price": 0.1832,
+                "ram": "8",
+                "computer": "galileo",
+                "machine_type": "gen",
+                "speed": "fast"
+            }
+        ]
+    }
+}

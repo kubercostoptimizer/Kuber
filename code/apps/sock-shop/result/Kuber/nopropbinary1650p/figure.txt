@@ -1,0 +1,26 @@
+blockdiag { group { label = '1'; orientation= portrait; cartscatalogueshipping [label = "carts,catalogue,shipping,", width = 160, height = 80];
+cartscatalogueshippingt3micro [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshipping -> cartscatalogueshippingt3micro [dir = none];
+cartscatalogueshippingt3small [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippingt3micro -> cartscatalogueshippingt3small [dir = none];
+cartscatalogueshippinga1medium [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippingt3small -> cartscatalogueshippinga1medium [dir = none];
+cartscatalogueshippingM6medium [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippinga1medium -> cartscatalogueshippingM6medium [dir = none];
+cartscatalogueshippingt3medium [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippingM6medium -> cartscatalogueshippingt3medium [dir = none];
+cartscatalogueshippinga1large [label = "",background ="/wd/code/Infrastructure/static/1.png", width = 80, height = 80,  shape= "circle", color = "red"];
+cartscatalogueshippingt3medium -> cartscatalogueshippinga1large [dir = none];
+cartscatalogueshippingM6large [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippinga1large -> cartscatalogueshippingM6large [dir = none];
+cartscatalogueshippingt3large [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippingM6large -> cartscatalogueshippingt3large [dir = none];
+cartscatalogueshippinga1xlarge [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippingt3large -> cartscatalogueshippinga1xlarge [dir = none];
+cartscatalogueshippingM6xlarge [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippinga1xlarge -> cartscatalogueshippingM6xlarge [dir = none];
+cartscatalogueshippinga12xlarge [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippingM6xlarge -> cartscatalogueshippinga12xlarge [dir = none];
+cartscatalogueshippingM62xlarge [label = "", width = 80, height = 80, shape= "circle"];
+cartscatalogueshippinga12xlarge -> cartscatalogueshippingM62xlarge [dir = none];
+}  cartscatalogueshipping } 

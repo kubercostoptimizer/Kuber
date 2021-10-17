@@ -1,0 +1,31 @@
+66.67199999999998,31,310.0,"set(['catalogue', 'payment', 'shipping', 'user'])",VM1_50p,set(['front-end']),VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,30,310.0,"set(['catalogue', 'payment', 'shipping', 'user'])",VM1_50p,set(['front-end']),VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,29,280.0,"set(['front-end', 'user'])",VM1_50p,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,28,270.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,27,270.0,"set(['payment', 'user'])",VM1_50p,"set(['front-end', 'catalogue', 'shipping'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,26,260.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,set(['orders']),VM2_50p,"set(['front-end', 'user'])",VM1_50p,set([u'carts']),VM6_50p
+66.67199999999998,25,260.0,"set(['front-end', 'payment', 'user'])",VM1_50p,"set(['catalogue', 'shipping'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,24,250.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,23,240.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,22,240.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,21,230.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,20,220.0,"set(['front-end', 'shipping'])",VM1_50p,"set(['catalogue', 'payment', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,19,200.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,18,190.0,set(['orders']),VM2_50p,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set([u'carts']),VM6_50p
+66.67199999999998,17,180.0,"set(['catalogue', 'payment', 'user'])",VM1_50p,"set(['front-end', 'shipping'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,16,180.0,"set(['orders', 'shipping'])",VM2_50p,"set(['front-end', 'payment', 'user'])",VM1_50p,set(['catalogue']),VM1_50p,set([u'carts']),VM6_50p
+66.67199999999998,15,170.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,14,170.0,"set(['front-end', 'payment', 'user'])",VM1_50p,"set(['catalogue', 'shipping'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,13,160.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,set(['carts']),VM6_50p,set(['orders']),VM2_50p,"set([u'front-end', u'user'])",VM1_50p
+66.67199999999998,12,150.0,"set(['catalogue', 'payment', 'shipping'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set(['orders']),VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,11,130.0,"set(['orders', 'shipping'])",VM2_50p,"set(['front-end', 'user'])",VM1_50p,"set(['catalogue', 'payment'])",VM1_50p,set([u'carts']),VM6_50p
+66.67199999999998,10,120.0,"set(['front-end', 'payment'])",VM1_50p,"set(['catalogue', 'user'])",VM1_50p,"set(['orders', 'shipping'])",VM2_50p,set([u'carts']),VM6_50p
+66.67199999999998,9,110.0,"set(['orders', 'shipping'])",VM2_50p,"set(['catalogue', 'payment'])",VM1_50p,"set(['front-end', 'user'])",VM1_50p,set([u'carts']),VM6_50p
+66.67199999999998,8,100.0,"set(['front-end', 'payment'])",VM1_50p,"set(['orders', 'shipping'])",VM2_50p,"set(['catalogue', 'user'])",VM1_50p,set([u'carts']),VM6_50p
+66.67199999999998,7,100.0,"set(['catalogue', 'user'])",VM1_50p,set(['carts']),VM6_50p,"set(['orders', 'shipping'])",VM2_50p,"set([u'front-end', u'payment'])",VM1_50p
+74.15999999999998,6,80.0,"set(['catalogue', 'payment'])",VM1_50p,"set(['orders', 'shipping'])",VM2_50p,set(['user']),VM1_50p,set(['carts']),VM6_50p,set([u'front-end']),VM1_50p
+81.64799999999998,5,70.0,set(['carts']),VM6_50p,set(['orders']),VM2_50p,set(['front-end']),VM1_50p,"set(['payment', 'shipping'])",VM1_50p,set(['user']),VM1_50p,set([u'catalogue']),VM1_50p
+81.64799999999998,4,60.0,set(['user']),VM1_50p,"set(['catalogue', 'payment'])",VM1_50p,set(['orders']),VM2_50p,set(['carts']),VM6_50p,set(['front-end']),VM1_50p,set([u'shipping']),VM1_50p
+81.64799999999998,3,50.0,"set(['front-end', 'payment'])",VM1_50p,set(['orders']),VM2_50p,set(['carts']),VM6_50p,set(['user']),VM1_50p,set(['catalogue']),VM1_50p,set([u'shipping']),VM1_50p
+81.64799999999998,2,50.0,"set(['catalogue', 'payment'])",VM1_50p,set(['orders']),VM2_50p,set(['user']),VM1_50p,set(['carts']),VM6_50p,set(['front-end']),VM1_50p,set([u'shipping']),VM1_50p
+89.13599999999998,1,30.0,set(['user']),VM1_50p,set(['front-end']),VM1_50p,set(['orders']),VM2_50p,set(['carts']),VM6_50p,set(['shipping']),VM1_50p,set(['catalogue']),VM1_50p,set([u'payment']),VM1_50p

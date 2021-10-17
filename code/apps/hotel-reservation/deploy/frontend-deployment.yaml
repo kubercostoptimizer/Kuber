@@ -1,0 +1,35 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose.yml
+    kompose.version: 1.19.0 (f63a961c)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: frontend
+  name: frontend
+spec:
+  replicas: 1
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert -f docker-compose.yml
+        kompose.version: 1.19.0 (f63a961c)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: frontend
+    spec:
+      containers:
+      - command:
+        - frontend
+        image: khv129/hotel_reserv_frontend_single_node
+        name: hotel-reserv-frontend
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 5000
+        resources: {}
+      restartPolicy: Always
+      imagePullSecrets:
+      - name: regcred
+status: {}

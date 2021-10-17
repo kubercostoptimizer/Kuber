@@ -1,0 +1,15 @@
+service_name,API_name,performance_target(ms)
+payment,Authorise,0.0001
+carts,get_cart,7.6053
+carts,updateItem,0.1493
+carts,getItems,87.1833
+carts,merge,15.9045
+carts,addToCart,19.2318
+carts,delete,8.6457
+orders,newOrder,25.7604
+user,GetUsers,0
+user,Login,0
+user,GetAddresses,0
+catalogue,List,0.0001
+catalogue,Get,0.0001
+shipping,api,0

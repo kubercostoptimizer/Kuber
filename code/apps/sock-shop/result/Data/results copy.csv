@@ -1,0 +1,1273 @@
+exp_id,service_combination,vm_type,service_name,API_name,performance_value(ms)
+1,"('payment',)",t3.micro,payment,Authorise,0
+187,"('payment',)",t3.large,payment,Authorise,0
+63,"('payment',)",a1.medium,payment,Authorise,0.0
+94,"('payment',)",M6.medium,payment,Authorise,0.0
+156,"('payment',)",M6.large,payment,Authorise,0.0
+249,"('payment',)",M6.xlarge,payment,Authorise,0
+311,"('payment',)",M6.2xlarge,payment,Authorise,0
+125,"('payment',)",a1.large,payment,Authorise,0
+218,"('payment',)",a1.xlarge,payment,Authorise,0
+280,"('payment',)",a1.2xlarge,payment,Authorise,0.0
+159,"('user',)",M6.large,user,GetUsers,0
+159,"('user',)",M6.large,user,Login,0.0
+159,"('user',)",M6.large,user,GetAddresses,0.0
+252,"('user',)",M6.xlarge,user,GetUsers,0
+252,"('user',)",M6.xlarge,user,Login,0.0
+252,"('user',)",M6.xlarge,user,GetAddresses,0.0
+314,"('user',)",M6.2xlarge,user,GetUsers,0
+314,"('user',)",M6.2xlarge,user,Login,0.0
+314,"('user',)",M6.2xlarge,user,GetAddresses,0.0
+190,"('user',)",t3.large,user,GetUsers,0
+190,"('user',)",t3.large,user,Login,0.0
+190,"('user',)",t3.large,user,GetAddresses,0.0
+128,"('user',)",a1.large,user,GetUsers,0
+128,"('user',)",a1.large,user,Login,0.0
+128,"('user',)",a1.large,user,GetAddresses,0.0
+4,"('user',)",t3.micro,user,GetAddresses,0.0
+4,"('user',)",t3.micro,user,Login,0.0
+4,"('user',)",t3.micro,user,GetUsers,0
+35,"('user',)",t3.small,user,GetUsers,0
+35,"('user',)",t3.small,user,Login,0.0
+35,"('user',)",t3.small,user,GetAddresses,0.0
+66,"('user',)",a1.medium,user,GetUsers,0
+66,"('user',)",a1.medium,user,Login,0.0
+66,"('user',)",a1.medium,user,GetAddresses,0.0
+97,"('user',)",M6.medium,user,GetUsers,0
+97,"('user',)",M6.medium,user,Login,0.0
+97,"('user',)",M6.medium,user,GetAddresses,0.0
+221,"('user',)",a1.xlarge,user,GetAddresses,0.0
+221,"('user',)",a1.xlarge,user,Login,0
+221,"('user',)",a1.xlarge,user,GetUsers,0
+283,"('user',)",a1.2xlarge,user,GetUsers,0
+283,"('user',)",a1.2xlarge,user,Login,0.0
+283,"('user',)",a1.2xlarge,user,GetAddresses,0.0
+191,"('catalogue',)",t3.large,catalogue,List,0
+191,"('catalogue',)",t3.large,catalogue,Get,0
+253,"('catalogue',)",M6.xlarge,catalogue,List,0.0
+253,"('catalogue',)",M6.xlarge,catalogue,Get,0.0
+160,"('catalogue',)",M6.large,catalogue,List,0
+160,"('catalogue',)",M6.large,catalogue,Get,0.0
+129,"('catalogue',)",a1.large,catalogue,List,0
+129,"('catalogue',)",a1.large,catalogue,Get,0.0
+315,"('catalogue',)",M6.2xlarge,catalogue,List,0
+315,"('catalogue',)",M6.2xlarge,catalogue,Get,0.0
+67,"('catalogue',)",a1.medium,catalogue,List,0
+67,"('catalogue',)",a1.medium,catalogue,Get,0
+98,"('catalogue',)",M6.medium,catalogue,List,0.0
+98,"('catalogue',)",M6.medium,catalogue,Get,0.0
+5,"('catalogue',)",t3.micro,catalogue,List,0.0
+5,"('catalogue',)",t3.micro,catalogue,Get,0.0
+284,"('catalogue',)",a1.2xlarge,catalogue,List,0.0
+284,"('catalogue',)",a1.2xlarge,catalogue,Get,0.0
+222,"('catalogue',)",a1.xlarge,catalogue,List,0
+222,"('catalogue',)",a1.xlarge,catalogue,Get,0.0
+2,"('carts',)",t3.micro,carts,get_cart,19.352
+2,"('carts',)",t3.micro,carts,merge,18.4818
+2,"('carts',)",t3.micro,carts,addToCart,25.99
+2,"('carts',)",t3.micro,carts,delete,18.2349
+33,"('carts',)",t3.small,carts,get_cart,10.7236
+33,"('carts',)",t3.small,carts,merge,25.287
+33,"('carts',)",t3.small,carts,addToCart,24.7734
+33,"('carts',)",t3.small,carts,delete,12.313
+95,"('carts',)",M6.medium,carts,get_cart,15.7814
+95,"('carts',)",M6.medium,carts,merge,36.546
+95,"('carts',)",M6.medium,carts,addToCart,41.3153
+95,"('carts',)",M6.medium,carts,delete,17.834
+157,"('carts',)",M6.large,carts,get_cart,10.8534
+157,"('carts',)",M6.large,carts,merge,25.9045
+157,"('carts',)",M6.large,carts,addToCart,24.2831
+157,"('carts',)",M6.large,carts,delete,12.5042
+250,"('carts',)",M6.xlarge,carts,get_cart,10.826
+250,"('carts',)",M6.xlarge,carts,merge,21.617
+250,"('carts',)",M6.xlarge,carts,addToCart,21.054
+250,"('carts',)",M6.xlarge,carts,delete,11.1917
+312,"('carts',)",M6.2xlarge,carts,get_cart,6.2463
+312,"('carts',)",M6.2xlarge,carts,merge,13.194
+312,"('carts',)",M6.2xlarge,carts,addToCart,14.2485
+312,"('carts',)",M6.2xlarge,carts,delete,6.284
+188,"('carts',)",t3.large,carts,get_cart,10.8784
+188,"('carts',)",t3.large,carts,merge,21.996
+188,"('carts',)",t3.large,carts,addToCart,23.5661
+188,"('carts',)",t3.large,carts,delete,14.122
+64,"('carts',)",a1.medium,carts,get_cart,17.022
+64,"('carts',)",a1.medium,carts,merge,33.149
+64,"('carts',)",a1.medium,carts,addToCart,42.2642
+64,"('carts',)",a1.medium,carts,delete,18.8599
+126,"('carts',)",a1.large,carts,get_cart,11.7764
+126,"('carts',)",a1.large,carts,merge,24.378
+126,"('carts',)",a1.large,carts,addToCart,24.0607
+126,"('carts',)",a1.large,carts,delete,12.998
+219,"('carts',)",a1.xlarge,carts,get_cart,11.7247
+219,"('carts',)",a1.xlarge,carts,merge,24.1548
+219,"('carts',)",a1.xlarge,carts,addToCart,24.7081
+219,"('carts',)",a1.xlarge,carts,delete,12.8694
+281,"('carts',)",a1.2xlarge,carts,get_cart,10.8104
+281,"('carts',)",a1.2xlarge,carts,merge,21.469
+281,"('carts',)",a1.2xlarge,carts,addToCart,24.1397
+281,"('carts',)",a1.2xlarge,carts,delete,11.7922
+9,"('payment', 'catalogue')",t3.micro,payment,Authorise,0
+9,"('payment', 'catalogue')",t3.micro,catalogue,List,0
+9,"('payment', 'catalogue')",t3.micro,catalogue,Get,0.0
+71,"('payment', 'catalogue')",a1.medium,payment,Authorise,0.0
+71,"('payment', 'catalogue')",a1.medium,catalogue,List,0
+71,"('payment', 'catalogue')",a1.medium,catalogue,Get,0
+164,"('payment', 'catalogue')",M6.large,payment,Authorise,0
+164,"('payment', 'catalogue')",M6.large,catalogue,List,0.0
+164,"('payment', 'catalogue')",M6.large,catalogue,Get,0
+6,"('payment', 'carts')",t3.micro,payment,Authorise,0.0
+6,"('payment', 'carts')",t3.micro,carts,get_cart,13.7706
+6,"('payment', 'carts')",t3.micro,carts,merge,25.782
+6,"('payment', 'carts')",t3.micro,carts,addToCart,31.734
+6,"('payment', 'carts')",t3.micro,carts,delete,14.2824
+37,"('payment', 'carts')",t3.small,payment,Authorise,0
+37,"('payment', 'carts')",t3.small,carts,get_cart,12.1465
+37,"('payment', 'carts')",t3.small,carts,merge,28.131
+37,"('payment', 'carts')",t3.small,carts,addToCart,27.4643
+37,"('payment', 'carts')",t3.small,carts,delete,14.5005
+192,"('payment', 'carts')",t3.large,payment,Authorise,0.0
+192,"('payment', 'carts')",t3.large,carts,get_cart,11.2183
+192,"('payment', 'carts')",t3.large,carts,merge,26.153
+192,"('payment', 'carts')",t3.large,carts,addToCart,24.9819
+192,"('payment', 'carts')",t3.large,carts,delete,12.597
+99,"('payment', 'carts')",M6.medium,payment,Authorise,0.0
+99,"('payment', 'carts')",M6.medium,carts,get_cart,15.7453
+99,"('payment', 'carts')",M6.medium,carts,merge,36.45
+99,"('payment', 'carts')",M6.medium,carts,addToCart,40.041
+99,"('payment', 'carts')",M6.medium,carts,delete,18.6031
+161,"('payment', 'carts')",M6.large,payment,Authorise,0
+161,"('payment', 'carts')",M6.large,carts,get_cart,12.703
+161,"('payment', 'carts')",M6.large,carts,merge,23.888
+161,"('payment', 'carts')",M6.large,carts,addToCart,29.4271
+161,"('payment', 'carts')",M6.large,carts,delete,14.6943
+254,"('payment', 'carts')",M6.xlarge,payment,Authorise,0.0
+254,"('payment', 'carts')",M6.xlarge,carts,get_cart,10.3697
+254,"('payment', 'carts')",M6.xlarge,carts,merge,21.0141
+254,"('payment', 'carts')",M6.xlarge,carts,addToCart,22.0584
+254,"('payment', 'carts')",M6.xlarge,carts,delete,11.9049
+316,"('payment', 'carts')",M6.2xlarge,payment,Authorise,0
+316,"('payment', 'carts')",M6.2xlarge,carts,get_cart,8.8661
+316,"('payment', 'carts')",M6.2xlarge,carts,merge,22.0498
+316,"('payment', 'carts')",M6.2xlarge,carts,addToCart,20.3429
+316,"('payment', 'carts')",M6.2xlarge,carts,delete,9.576
+130,"('payment', 'carts')",a1.large,payment,Authorise,0.0
+130,"('payment', 'carts')",a1.large,carts,get_cart,11.3854
+130,"('payment', 'carts')",a1.large,carts,merge,20.8
+130,"('payment', 'carts')",a1.large,carts,addToCart,26.657
+130,"('payment', 'carts')",a1.large,carts,delete,11.764
+223,"('payment', 'carts')",a1.xlarge,payment,Authorise,0.0
+223,"('payment', 'carts')",a1.xlarge,carts,get_cart,9.723
+223,"('payment', 'carts')",a1.xlarge,carts,merge,22.6382
+223,"('payment', 'carts')",a1.xlarge,carts,addToCart,21.3779
+223,"('payment', 'carts')",a1.xlarge,carts,delete,11.3586
+285,"('payment', 'carts')",a1.2xlarge,payment,Authorise,0
+285,"('payment', 'carts')",a1.2xlarge,carts,get_cart,9.2239
+285,"('payment', 'carts')",a1.2xlarge,carts,merge,20.632
+285,"('payment', 'carts')",a1.2xlarge,carts,addToCart,21.1232
+285,"('payment', 'carts')",a1.2xlarge,carts,delete,10.6192
+163,"('payment', 'user')",M6.large,payment,Authorise,0
+163,"('payment', 'user')",M6.large,user,GetAddresses,0.0
+163,"('payment', 'user')",M6.large,user,Login,0.0
+163,"('payment', 'user')",M6.large,user,GetUsers,0
+132,"('payment', 'user')",a1.large,payment,Authorise,0
+132,"('payment', 'user')",a1.large,user,GetUsers,0
+132,"('payment', 'user')",a1.large,user,Login,0.0
+132,"('payment', 'user')",a1.large,user,GetAddresses,0.0
+166,"('carts', 'user')",M6.large,carts,get_cart,12.8541
+166,"('carts', 'user')",M6.large,carts,merge,26.926
+166,"('carts', 'user')",M6.large,carts,addToCart,27.524
+166,"('carts', 'user')",M6.large,carts,delete,15.436
+166,"('carts', 'user')",M6.large,user,GetUsers,0
+166,"('carts', 'user')",M6.large,user,Login,0.0
+166,"('carts', 'user')",M6.large,user,GetAddresses,0
+259,"('carts', 'user')",M6.xlarge,carts,get_cart,9.808
+259,"('carts', 'user')",M6.xlarge,carts,merge,21.806
+259,"('carts', 'user')",M6.xlarge,carts,addToCart,20.2421
+259,"('carts', 'user')",M6.xlarge,carts,delete,10.8853
+259,"('carts', 'user')",M6.xlarge,user,GetAddresses,0.0
+259,"('carts', 'user')",M6.xlarge,user,Login,0.0
+259,"('carts', 'user')",M6.xlarge,user,GetUsers,0
+321,"('carts', 'user')",M6.2xlarge,carts,get_cart,10.4636
+321,"('carts', 'user')",M6.2xlarge,carts,merge,23.102
+321,"('carts', 'user')",M6.2xlarge,carts,addToCart,21.7542
+321,"('carts', 'user')",M6.2xlarge,carts,delete,10.582
+321,"('carts', 'user')",M6.2xlarge,user,GetUsers,0
+321,"('carts', 'user')",M6.2xlarge,user,Login,0.0
+321,"('carts', 'user')",M6.2xlarge,user,GetAddresses,0.0
+11,"('carts', 'user')",t3.micro,carts,get_cart,10.4054
+11,"('carts', 'user')",t3.micro,carts,merge,20.547
+11,"('carts', 'user')",t3.micro,carts,addToCart,23.2422
+11,"('carts', 'user')",t3.micro,carts,delete,12.245
+11,"('carts', 'user')",t3.micro,user,GetAddresses,0.0
+11,"('carts', 'user')",t3.micro,user,Login,0.0
+11,"('carts', 'user')",t3.micro,user,GetUsers,0
+197,"('carts', 'user')",t3.large,carts,get_cart,11.6606
+197,"('carts', 'user')",t3.large,carts,merge,22.7354
+197,"('carts', 'user')",t3.large,carts,addToCart,24.5289
+197,"('carts', 'user')",t3.large,carts,delete,13.6551
+197,"('carts', 'user')",t3.large,user,GetUsers,0
+197,"('carts', 'user')",t3.large,user,Login,0.0
+197,"('carts', 'user')",t3.large,user,GetAddresses,0.0
+135,"('carts', 'user')",a1.large,carts,get_cart,13.7392
+135,"('carts', 'user')",a1.large,carts,merge,23.898
+135,"('carts', 'user')",a1.large,carts,addToCart,27.1652
+135,"('carts', 'user')",a1.large,carts,delete,13.357
+135,"('carts', 'user')",a1.large,user,GetUsers,0
+135,"('carts', 'user')",a1.large,user,Login,0.0
+135,"('carts', 'user')",a1.large,user,GetAddresses,0.0
+228,"('carts', 'user')",a1.xlarge,carts,get_cart,11.6664
+228,"('carts', 'user')",a1.xlarge,carts,merge,23.4329
+228,"('carts', 'user')",a1.xlarge,carts,addToCart,23.7591
+228,"('carts', 'user')",a1.xlarge,carts,delete,12.2452
+228,"('carts', 'user')",a1.xlarge,user,GetUsers,0
+228,"('carts', 'user')",a1.xlarge,user,Login,0
+228,"('carts', 'user')",a1.xlarge,user,GetAddresses,0.0
+290,"('carts', 'user')",a1.2xlarge,carts,get_cart,10.1846
+290,"('carts', 'user')",a1.2xlarge,carts,merge,27.3886
+290,"('carts', 'user')",a1.2xlarge,carts,addToCart,21.504
+290,"('carts', 'user')",a1.2xlarge,carts,delete,12.6903
+290,"('carts', 'user')",a1.2xlarge,user,GetUsers,0
+290,"('carts', 'user')",a1.2xlarge,user,Login,0.0
+290,"('carts', 'user')",a1.2xlarge,user,GetAddresses,0.0
+167,"('carts', 'catalogue')",M6.large,carts,get_cart,11.6204
+167,"('carts', 'catalogue')",M6.large,carts,merge,24.531
+167,"('carts', 'catalogue')",M6.large,carts,addToCart,25.3135
+167,"('carts', 'catalogue')",M6.large,carts,delete,12.2695
+167,"('carts', 'catalogue')",M6.large,catalogue,List,0.0
+167,"('carts', 'catalogue')",M6.large,catalogue,Get,0.0
+322,"('carts', 'catalogue')",M6.2xlarge,carts,get_cart,9.4755
+322,"('carts', 'catalogue')",M6.2xlarge,carts,updateItem,0.05
+322,"('carts', 'catalogue')",M6.2xlarge,carts,merge,18.4448
+322,"('carts', 'catalogue')",M6.2xlarge,carts,addToCart,21.9824
+322,"('carts', 'catalogue')",M6.2xlarge,carts,delete,10.3252
+322,"('carts', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+322,"('carts', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+74,"('carts', 'catalogue')",a1.medium,carts,get_cart,18.8017
+74,"('carts', 'catalogue')",a1.medium,carts,merge,37.8459
+74,"('carts', 'catalogue')",a1.medium,carts,addToCart,41.6619
+74,"('carts', 'catalogue')",a1.medium,carts,delete,19.5838
+74,"('carts', 'catalogue')",a1.medium,catalogue,List,0.0
+74,"('carts', 'catalogue')",a1.medium,catalogue,Get,0.0
+136,"('carts', 'catalogue')",a1.large,carts,get_cart,12.992
+136,"('carts', 'catalogue')",a1.large,carts,merge,24.4742
+136,"('carts', 'catalogue')",a1.large,carts,addToCart,26.58
+136,"('carts', 'catalogue')",a1.large,carts,delete,13.4974
+136,"('carts', 'catalogue')",a1.large,catalogue,List,0
+136,"('carts', 'catalogue')",a1.large,catalogue,Get,0.0
+229,"('carts', 'catalogue')",a1.xlarge,carts,get_cart,11.2344
+229,"('carts', 'catalogue')",a1.xlarge,carts,updateItem,0.109
+229,"('carts', 'catalogue')",a1.xlarge,carts,merge,24.092
+229,"('carts', 'catalogue')",a1.xlarge,carts,addToCart,23.4735
+229,"('carts', 'catalogue')",a1.xlarge,carts,delete,12.904
+229,"('carts', 'catalogue')",a1.xlarge,catalogue,List,0
+229,"('carts', 'catalogue')",a1.xlarge,catalogue,Get,0.0
+291,"('carts', 'catalogue')",a1.2xlarge,carts,get_cart,9.4058
+291,"('carts', 'catalogue')",a1.2xlarge,carts,updateItem,0.096
+291,"('carts', 'catalogue')",a1.2xlarge,carts,merge,19.8408
+291,"('carts', 'catalogue')",a1.2xlarge,carts,addToCart,22.4231
+291,"('carts', 'catalogue')",a1.2xlarge,carts,delete,10.7972
+291,"('carts', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+291,"('carts', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+12,"('carts', 'catalogue')",t3.micro,carts,get_cart,10.0291
+12,"('carts', 'catalogue')",t3.micro,carts,delete,11.119
+12,"('carts', 'catalogue')",t3.micro,carts,addToCart,24.5645
+12,"('carts', 'catalogue')",t3.micro,carts,merge,20.275
+12,"('carts', 'catalogue')",t3.micro,catalogue,List,0.0
+12,"('carts', 'catalogue')",t3.micro,catalogue,Get,0.0
+43,"('carts', 'catalogue')",t3.small,carts,get_cart,11.8101
+43,"('carts', 'catalogue')",t3.small,carts,updateItem,0.132
+43,"('carts', 'catalogue')",t3.small,carts,merge,26.756
+43,"('carts', 'catalogue')",t3.small,carts,addToCart,27.8404
+43,"('carts', 'catalogue')",t3.small,carts,delete,14.7332
+43,"('carts', 'catalogue')",t3.small,catalogue,List,0
+43,"('carts', 'catalogue')",t3.small,catalogue,Get,0.0
+198,"('carts', 'catalogue')",t3.large,carts,get_cart,11.7514
+198,"('carts', 'catalogue')",t3.large,carts,updateItem,0.037
+198,"('carts', 'catalogue')",t3.large,carts,merge,24.6931
+198,"('carts', 'catalogue')",t3.large,carts,addToCart,27.2202
+198,"('carts', 'catalogue')",t3.large,carts,delete,12.456
+198,"('carts', 'catalogue')",t3.large,catalogue,List,0.0
+198,"('carts', 'catalogue')",t3.large,catalogue,Get,0.0
+170,"('user', 'catalogue')",M6.large,user,GetUsers,0
+170,"('user', 'catalogue')",M6.large,user,Login,0.0
+170,"('user', 'catalogue')",M6.large,user,GetAddresses,0.0
+170,"('user', 'catalogue')",M6.large,catalogue,List,0.0
+170,"('user', 'catalogue')",M6.large,catalogue,Get,0.0
+139,"('user', 'catalogue')",a1.large,user,GetUsers,0
+139,"('user', 'catalogue')",a1.large,user,Login,0.0
+139,"('user', 'catalogue')",a1.large,user,GetAddresses,0.0
+139,"('user', 'catalogue')",a1.large,catalogue,List,0.0
+139,"('user', 'catalogue')",a1.large,catalogue,Get,0
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,payment,Authorise,0.0
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,carts,get_cart,16.7626
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,carts,merge,47.124
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,carts,addToCart,36.3944
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,carts,delete,19.9622
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,user,GetUsers,0
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,user,Login,0.0
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,user,GetAddresses,0.0
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,catalogue,List,0.0
+121,"('payment', 'carts', 'user', 'catalogue')",M6.medium,catalogue,Get,0.0
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,payment,Authorise,0
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,carts,get_cart,12.7926
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,carts,merge,25.1958
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,carts,addToCart,28.2916
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,carts,delete,13.9428
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,user,GetUsers,0
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,user,Login,0.0
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+183,"('payment', 'carts', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,payment,Authorise,0
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,carts,get_cart,10.522
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,carts,merge,24.8363
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,carts,addToCart,20.7974
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,carts,delete,11.5427
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,user,Login,0.0
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+276,"('payment', 'carts', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,payment,Authorise,0
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,carts,get_cart,9.7932
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,carts,delete,10.9583
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,carts,addToCart,21.2971
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,carts,merge,21.1993
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,user,GetAddresses,0.0
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,user,Login,0
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+338,"('payment', 'carts', 'user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,payment,Authorise,0.0
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,carts,get_cart,15.6748
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,carts,merge,34.9102
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,carts,addToCart,33.528
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,carts,delete,17.026
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,user,GetUsers,0
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,user,Login,0.0
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,user,GetAddresses,0.0
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,catalogue,List,0.0
+90,"('payment', 'carts', 'user', 'catalogue')",a1.medium,catalogue,Get,0.0
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,payment,Authorise,0
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,carts,get_cart,14.8027
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,carts,merge,27.358
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,carts,addToCart,29.0466
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,carts,delete,14.3884
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,user,GetAddresses,0.0
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,user,Login,0.0
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,user,GetUsers,0
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,catalogue,List,0
+152,"('payment', 'carts', 'user', 'catalogue')",a1.large,catalogue,Get,0.0
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,payment,Authorise,0.0
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,carts,get_cart,10.1603
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,carts,merge,24.8996
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,carts,addToCart,22.5659
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,carts,delete,12.0652
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,user,GetAddresses,0.0
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,user,Login,0.0
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,user,GetUsers,0
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,catalogue,List,0
+245,"('payment', 'carts', 'user', 'catalogue')",a1.xlarge,catalogue,Get,0.0
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,payment,Authorise,0.0
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,carts,get_cart,10.1284
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,carts,merge,24.1194
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,carts,addToCart,22.4176
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,carts,delete,11.0605
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,user,GetAddresses,0.0
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,user,Login,0
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,user,GetUsers,0
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+307,"('payment', 'carts', 'user', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,payment,Authorise,0
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,carts,get_cart,11.2564
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,carts,merge,24.5356
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,carts,addToCart,25.8161
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,carts,delete,12.8168
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,user,GetUsers,0
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,user,Login,0.0
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,user,GetAddresses,0.0
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,catalogue,List,0.0
+28,"('payment', 'carts', 'user', 'catalogue')",t3.micro,catalogue,Get,0.0
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,payment,Authorise,0.0
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,carts,get_cart,14.902
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,carts,merge,23.5294
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,carts,addToCart,26.5116
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,carts,delete,13.6548
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,user,GetUsers,0
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,user,Login,0.0
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,catalogue,List,0
+59,"('payment', 'carts', 'user', 'catalogue')",t3.small,catalogue,Get,0.0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,payment,Authorise,0.0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,payment,Authorise,0.0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,carts,get_cart,11.2394
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,carts,merge,25.37
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,carts,addToCart,23.3767
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,carts,delete,12.9891
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,user,GetUsers,0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,user,Login,0.0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,user,GetAddresses,0.0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,catalogue,List,0.0
+214,"('payment', 'carts', 'user', 'catalogue')",t3.large,catalogue,Get,0.0
+80,"('payment', 'carts', 'catalogue')",a1.medium,payment,Authorise,0
+80,"('payment', 'carts', 'catalogue')",a1.medium,carts,get_cart,17.4342
+80,"('payment', 'carts', 'catalogue')",a1.medium,carts,merge,34.2114
+80,"('payment', 'carts', 'catalogue')",a1.medium,carts,addToCart,40.0792
+80,"('payment', 'carts', 'catalogue')",a1.medium,carts,delete,18.6482
+80,"('payment', 'carts', 'catalogue')",a1.medium,catalogue,List,0.0
+80,"('payment', 'carts', 'catalogue')",a1.medium,catalogue,Get,0.0
+142,"('payment', 'carts', 'catalogue')",a1.large,payment,Authorise,0
+142,"('payment', 'carts', 'catalogue')",a1.large,payment,Authorise,0.0
+142,"('payment', 'carts', 'catalogue')",a1.large,carts,get_cart,10.7284
+142,"('payment', 'carts', 'catalogue')",a1.large,carts,merge,23.507
+142,"('payment', 'carts', 'catalogue')",a1.large,carts,addToCart,24.166
+142,"('payment', 'carts', 'catalogue')",a1.large,carts,delete,12.5253
+142,"('payment', 'carts', 'catalogue')",a1.large,catalogue,List,0.0
+142,"('payment', 'carts', 'catalogue')",a1.large,catalogue,Get,0.0
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,payment,Authorise,0
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,carts,get_cart,10.9102
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,carts,merge,22.8012
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,carts,addToCart,21.1144
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,carts,delete,12.39
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,catalogue,List,0.0
+235,"('payment', 'carts', 'catalogue')",a1.xlarge,catalogue,Get,0.0
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,payment,Authorise,0.0
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,carts,get_cart,10.329
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,carts,merge,23.138
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,carts,addToCart,24.6599
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,carts,delete,11.986
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+297,"('payment', 'carts', 'catalogue')",a1.2xlarge,catalogue,Get,0
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,payment,Authorise,0
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,carts,get_cart,5.3575
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,carts,merge,10.8912
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,carts,addToCart,12.6061
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,carts,delete,5.5722
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,catalogue,List,0
+328,"('payment', 'carts', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+18,"('payment', 'carts', 'catalogue')",t3.micro,payment,Authorise,0.0
+18,"('payment', 'carts', 'catalogue')",t3.micro,carts,get_cart,10.0656
+18,"('payment', 'carts', 'catalogue')",t3.micro,carts,merge,20.5995
+18,"('payment', 'carts', 'catalogue')",t3.micro,carts,addToCart,21.2552
+18,"('payment', 'carts', 'catalogue')",t3.micro,carts,delete,11.3027
+18,"('payment', 'carts', 'catalogue')",t3.micro,catalogue,List,0.0
+18,"('payment', 'carts', 'catalogue')",t3.micro,catalogue,Get,0.0
+49,"('payment', 'carts', 'catalogue')",t3.small,payment,Authorise,0
+49,"('payment', 'carts', 'catalogue')",t3.small,carts,get_cart,12.1671
+49,"('payment', 'carts', 'catalogue')",t3.small,carts,merge,25.0707
+49,"('payment', 'carts', 'catalogue')",t3.small,carts,addToCart,27.1661
+49,"('payment', 'carts', 'catalogue')",t3.small,carts,delete,14.0911
+49,"('payment', 'carts', 'catalogue')",t3.small,catalogue,List,0.0
+49,"('payment', 'carts', 'catalogue')",t3.small,catalogue,Get,0.0
+204,"('payment', 'carts', 'catalogue')",t3.large,payment,Authorise,0
+204,"('payment', 'carts', 'catalogue')",t3.large,carts,get_cart,10.2737
+204,"('payment', 'carts', 'catalogue')",t3.large,carts,merge,23.8723
+204,"('payment', 'carts', 'catalogue')",t3.large,carts,addToCart,24.5187
+204,"('payment', 'carts', 'catalogue')",t3.large,carts,delete,12.0826
+204,"('payment', 'carts', 'catalogue')",t3.large,catalogue,List,0.0
+204,"('payment', 'carts', 'catalogue')",t3.large,catalogue,Get,0.0
+172,"('payment', 'carts', 'user')",M6.large,payment,Authorise,0
+172,"('payment', 'carts', 'user')",M6.large,carts,get_cart,12.974
+172,"('payment', 'carts', 'user')",M6.large,carts,merge,23.653
+172,"('payment', 'carts', 'user')",M6.large,carts,addToCart,31.4792
+172,"('payment', 'carts', 'user')",M6.large,carts,delete,13.574
+172,"('payment', 'carts', 'user')",M6.large,user,GetUsers,0
+172,"('payment', 'carts', 'user')",M6.large,user,Login,0.0
+172,"('payment', 'carts', 'user')",M6.large,user,GetAddresses,0.0
+265,"('payment', 'carts', 'user')",M6.xlarge,payment,Authorise,0
+265,"('payment', 'carts', 'user')",M6.xlarge,carts,get_cart,11.0001
+265,"('payment', 'carts', 'user')",M6.xlarge,carts,merge,23.3796
+265,"('payment', 'carts', 'user')",M6.xlarge,carts,addToCart,22.5892
+265,"('payment', 'carts', 'user')",M6.xlarge,carts,delete,12.1038
+265,"('payment', 'carts', 'user')",M6.xlarge,user,GetUsers,0
+265,"('payment', 'carts', 'user')",M6.xlarge,user,Login,0.0
+265,"('payment', 'carts', 'user')",M6.xlarge,user,GetAddresses,0.0
+327,"('payment', 'carts', 'user')",M6.2xlarge,payment,Authorise,0.0
+327,"('payment', 'carts', 'user')",M6.2xlarge,carts,get_cart,5.626
+327,"('payment', 'carts', 'user')",M6.2xlarge,carts,merge,16.5225
+327,"('payment', 'carts', 'user')",M6.2xlarge,carts,addToCart,13.2953
+327,"('payment', 'carts', 'user')",M6.2xlarge,carts,delete,6.0127
+327,"('payment', 'carts', 'user')",M6.2xlarge,user,GetUsers,0
+327,"('payment', 'carts', 'user')",M6.2xlarge,user,Login,0.0
+327,"('payment', 'carts', 'user')",M6.2xlarge,user,GetAddresses,0.0
+79,"('payment', 'carts', 'user')",a1.medium,payment,Authorise,0
+79,"('payment', 'carts', 'user')",a1.medium,carts,get_cart,17.0994
+79,"('payment', 'carts', 'user')",a1.medium,carts,merge,39.891
+79,"('payment', 'carts', 'user')",a1.medium,carts,addToCart,47.903
+79,"('payment', 'carts', 'user')",a1.medium,carts,delete,18.6561
+79,"('payment', 'carts', 'user')",a1.medium,user,GetAddresses,0
+79,"('payment', 'carts', 'user')",a1.medium,user,Login,0.0
+79,"('payment', 'carts', 'user')",a1.medium,user,GetUsers,0
+141,"('payment', 'carts', 'user')",a1.large,payment,Authorise,0.0
+141,"('payment', 'carts', 'user')",a1.large,carts,get_cart,10.7129
+141,"('payment', 'carts', 'user')",a1.large,carts,merge,21.9233
+141,"('payment', 'carts', 'user')",a1.large,carts,addToCart,23.3509
+141,"('payment', 'carts', 'user')",a1.large,carts,delete,11.2474
+141,"('payment', 'carts', 'user')",a1.large,user,GetUsers,0
+141,"('payment', 'carts', 'user')",a1.large,user,Login,0.0
+141,"('payment', 'carts', 'user')",a1.large,user,GetAddresses,0.0
+234,"('payment', 'carts', 'user')",a1.xlarge,payment,Authorise,0.0
+234,"('payment', 'carts', 'user')",a1.xlarge,carts,get_cart,9.9568
+234,"('payment', 'carts', 'user')",a1.xlarge,carts,merge,22.8261
+234,"('payment', 'carts', 'user')",a1.xlarge,carts,addToCart,20.1995
+234,"('payment', 'carts', 'user')",a1.xlarge,carts,delete,12.16
+234,"('payment', 'carts', 'user')",a1.xlarge,user,GetUsers,0
+234,"('payment', 'carts', 'user')",a1.xlarge,user,Login,0.0
+234,"('payment', 'carts', 'user')",a1.xlarge,user,GetAddresses,0.0
+296,"('payment', 'carts', 'user')",a1.2xlarge,payment,Authorise,0.0
+296,"('payment', 'carts', 'user')",a1.2xlarge,carts,get_cart,9.5062
+296,"('payment', 'carts', 'user')",a1.2xlarge,carts,merge,18.5162
+296,"('payment', 'carts', 'user')",a1.2xlarge,carts,addToCart,20.9784
+296,"('payment', 'carts', 'user')",a1.2xlarge,carts,delete,10.2308
+296,"('payment', 'carts', 'user')",a1.2xlarge,user,GetUsers,0
+296,"('payment', 'carts', 'user')",a1.2xlarge,user,Login,0
+296,"('payment', 'carts', 'user')",a1.2xlarge,user,GetAddresses,0.0
+17,"('payment', 'carts', 'user')",t3.micro,payment,Authorise,0
+17,"('payment', 'carts', 'user')",t3.micro,carts,get_cart,11.5492
+17,"('payment', 'carts', 'user')",t3.micro,carts,merge,21.414
+17,"('payment', 'carts', 'user')",t3.micro,carts,addToCart,23.4763
+17,"('payment', 'carts', 'user')",t3.micro,carts,delete,12.6133
+17,"('payment', 'carts', 'user')",t3.micro,user,GetAddresses,0.0
+17,"('payment', 'carts', 'user')",t3.micro,user,Login,0.0
+17,"('payment', 'carts', 'user')",t3.micro,user,GetUsers,0
+48,"('payment', 'carts', 'user')",t3.small,payment,Authorise,0
+48,"('payment', 'carts', 'user')",t3.small,carts,get_cart,12.0449
+48,"('payment', 'carts', 'user')",t3.small,carts,merge,27.715
+48,"('payment', 'carts', 'user')",t3.small,carts,addToCart,23.8777
+48,"('payment', 'carts', 'user')",t3.small,carts,delete,13.2697
+48,"('payment', 'carts', 'user')",t3.small,user,GetAddresses,0.0
+48,"('payment', 'carts', 'user')",t3.small,user,Login,0
+48,"('payment', 'carts', 'user')",t3.small,user,GetUsers,0
+176,"('payment', 'user', 'catalogue')",M6.large,payment,Authorise,0
+176,"('payment', 'user', 'catalogue')",M6.large,user,GetUsers,0
+176,"('payment', 'user', 'catalogue')",M6.large,user,Login,0.0
+176,"('payment', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+176,"('payment', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+176,"('payment', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+269,"('payment', 'user', 'catalogue')",M6.xlarge,payment,Authorise,0.0
+269,"('payment', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+269,"('payment', 'user', 'catalogue')",M6.xlarge,user,Login,0.0
+269,"('payment', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+269,"('payment', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+269,"('payment', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+331,"('payment', 'user', 'catalogue')",M6.2xlarge,payment,Authorise,0
+331,"('payment', 'user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+331,"('payment', 'user', 'catalogue')",M6.2xlarge,user,Login,0.0
+331,"('payment', 'user', 'catalogue')",M6.2xlarge,user,GetAddresses,0.0
+331,"('payment', 'user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+331,"('payment', 'user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+83,"('payment', 'user', 'catalogue')",a1.medium,payment,Authorise,0.0
+83,"('payment', 'user', 'catalogue')",a1.medium,user,GetAddresses,0.0
+83,"('payment', 'user', 'catalogue')",a1.medium,user,Login,0.0
+83,"('payment', 'user', 'catalogue')",a1.medium,user,GetUsers,0
+83,"('payment', 'user', 'catalogue')",a1.medium,catalogue,List,0
+83,"('payment', 'user', 'catalogue')",a1.medium,catalogue,Get,0.0
+145,"('payment', 'user', 'catalogue')",a1.large,payment,Authorise,0
+145,"('payment', 'user', 'catalogue')",a1.large,user,GetUsers,0
+145,"('payment', 'user', 'catalogue')",a1.large,user,Login,0.0
+145,"('payment', 'user', 'catalogue')",a1.large,user,GetAddresses,0.0
+145,"('payment', 'user', 'catalogue')",a1.large,catalogue,List,0.0
+145,"('payment', 'user', 'catalogue')",a1.large,catalogue,Get,0
+238,"('payment', 'user', 'catalogue')",a1.xlarge,payment,Authorise,0
+238,"('payment', 'user', 'catalogue')",a1.xlarge,user,GetUsers,0
+238,"('payment', 'user', 'catalogue')",a1.xlarge,user,Login,0.0
+238,"('payment', 'user', 'catalogue')",a1.xlarge,user,GetAddresses,0.0
+238,"('payment', 'user', 'catalogue')",a1.xlarge,catalogue,List,0.0
+238,"('payment', 'user', 'catalogue')",a1.xlarge,catalogue,Get,0.0
+21,"('payment', 'user', 'catalogue')",t3.micro,payment,Authorise,0
+21,"('payment', 'user', 'catalogue')",t3.micro,user,GetUsers,0
+21,"('payment', 'user', 'catalogue')",t3.micro,user,Login,0.0
+21,"('payment', 'user', 'catalogue')",t3.micro,user,GetAddresses,0.0
+21,"('payment', 'user', 'catalogue')",t3.micro,catalogue,List,0.0
+21,"('payment', 'user', 'catalogue')",t3.micro,catalogue,Get,0.0
+52,"('payment', 'user', 'catalogue')",t3.small,payment,Authorise,0.0
+52,"('payment', 'user', 'catalogue')",t3.small,user,GetUsers,0
+52,"('payment', 'user', 'catalogue')",t3.small,user,Login,0.0
+52,"('payment', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+52,"('payment', 'user', 'catalogue')",t3.small,catalogue,List,0.0
+52,"('payment', 'user', 'catalogue')",t3.small,catalogue,Get,0.0
+207,"('payment', 'user', 'catalogue')",t3.large,payment,Authorise,0
+207,"('payment', 'user', 'catalogue')",t3.large,user,GetAddresses,0.0
+207,"('payment', 'user', 'catalogue')",t3.large,user,Login,0.0
+207,"('payment', 'user', 'catalogue')",t3.large,user,GetUsers,0
+207,"('payment', 'user', 'catalogue')",t3.large,catalogue,List,0
+207,"('payment', 'user', 'catalogue')",t3.large,catalogue,Get,0.0
+179,"('carts', 'user', 'catalogue')",M6.large,carts,get_cart,11.9234
+179,"('carts', 'user', 'catalogue')",M6.large,carts,merge,28.085
+179,"('carts', 'user', 'catalogue')",M6.large,carts,addToCart,30.2282
+179,"('carts', 'user', 'catalogue')",M6.large,carts,delete,12.8823
+179,"('carts', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+179,"('carts', 'user', 'catalogue')",M6.large,user,Login,0.0
+179,"('carts', 'user', 'catalogue')",M6.large,user,GetUsers,0
+179,"('carts', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+179,"('carts', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+272,"('carts', 'user', 'catalogue')",M6.xlarge,carts,get_cart,9.8003
+272,"('carts', 'user', 'catalogue')",M6.xlarge,carts,merge,17.5426
+272,"('carts', 'user', 'catalogue')",M6.xlarge,carts,addToCart,21.8178
+272,"('carts', 'user', 'catalogue')",M6.xlarge,carts,delete,11.8514
+272,"('carts', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+272,"('carts', 'user', 'catalogue')",M6.xlarge,user,Login,0.0
+272,"('carts', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+272,"('carts', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+272,"('carts', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,carts,get_cart,7.0644
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,carts,merge,14.8546
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,carts,addToCart,14.8545
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,carts,delete,6.4032
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,user,Login,0.0
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,user,GetAddresses,0.0
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+334,"('carts', 'user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+148,"('carts', 'user', 'catalogue')",a1.large,carts,get_cart,12.787
+148,"('carts', 'user', 'catalogue')",a1.large,carts,merge,24.3747
+148,"('carts', 'user', 'catalogue')",a1.large,carts,addToCart,27.2509
+148,"('carts', 'user', 'catalogue')",a1.large,carts,delete,14.0637
+148,"('carts', 'user', 'catalogue')",a1.large,user,GetUsers,0
+148,"('carts', 'user', 'catalogue')",a1.large,user,Login,0.0
+148,"('carts', 'user', 'catalogue')",a1.large,user,GetAddresses,0.0
+148,"('carts', 'user', 'catalogue')",a1.large,catalogue,List,0.0
+148,"('carts', 'user', 'catalogue')",a1.large,catalogue,Get,0.0
+241,"('carts', 'user', 'catalogue')",a1.xlarge,carts,get_cart,10.0851
+241,"('carts', 'user', 'catalogue')",a1.xlarge,carts,merge,20.961
+241,"('carts', 'user', 'catalogue')",a1.xlarge,carts,addToCart,21.5517
+241,"('carts', 'user', 'catalogue')",a1.xlarge,carts,delete,11.5699
+241,"('carts', 'user', 'catalogue')",a1.xlarge,user,GetUsers,0
+241,"('carts', 'user', 'catalogue')",a1.xlarge,user,Login,0.0
+241,"('carts', 'user', 'catalogue')",a1.xlarge,user,GetAddresses,0.0
+241,"('carts', 'user', 'catalogue')",a1.xlarge,catalogue,List,0
+241,"('carts', 'user', 'catalogue')",a1.xlarge,catalogue,Get,0.0
+24,"('carts', 'user', 'catalogue')",t3.micro,carts,get_cart,10.4724
+24,"('carts', 'user', 'catalogue')",t3.micro,carts,merge,24.724
+24,"('carts', 'user', 'catalogue')",t3.micro,carts,addToCart,23.1457
+24,"('carts', 'user', 'catalogue')",t3.micro,carts,delete,12.0993
+24,"('carts', 'user', 'catalogue')",t3.micro,user,GetAddresses,0.0
+24,"('carts', 'user', 'catalogue')",t3.micro,user,Login,0.0
+24,"('carts', 'user', 'catalogue')",t3.micro,user,GetUsers,0
+24,"('carts', 'user', 'catalogue')",t3.micro,catalogue,List,0.0
+24,"('carts', 'user', 'catalogue')",t3.micro,catalogue,Get,0.0
+55,"('carts', 'user', 'catalogue')",t3.small,carts,get_cart,10.3635
+55,"('carts', 'user', 'catalogue')",t3.small,carts,merge,23.6825
+55,"('carts', 'user', 'catalogue')",t3.small,carts,addToCart,22.4528
+55,"('carts', 'user', 'catalogue')",t3.small,carts,delete,11.1569
+55,"('carts', 'user', 'catalogue')",t3.small,user,GetUsers,0
+55,"('carts', 'user', 'catalogue')",t3.small,user,Login,0.0
+55,"('carts', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+55,"('carts', 'user', 'catalogue')",t3.small,catalogue,List,0
+55,"('carts', 'user', 'catalogue')",t3.small,catalogue,Get,0
+39,"('payment', 'user')",t3.small,payment,Authorise,0
+39,"('payment', 'user')",t3.small,user,GetAddresses,0.0
+39,"('payment', 'user')",t3.small,user,Login,0.0
+39,"('payment', 'user')",t3.small,user,GetUsers,0
+257,"('payment', 'catalogue')",M6.xlarge,payment,Authorise,0.0
+257,"('payment', 'catalogue')",M6.xlarge,catalogue,List,0.0
+257,"('payment', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+8,"('payment', 'user')",t3.micro,payment,Authorise,0.0
+8,"('payment', 'user')",t3.micro,user,GetAddresses,0.0
+8,"('payment', 'user')",t3.micro,user,Login,0
+8,"('payment', 'user')",t3.micro,user,GetUsers,0
+77,"('user', 'catalogue')",a1.medium,user,GetUsers,0
+77,"('user', 'catalogue')",a1.medium,user,Login,0.0
+77,"('user', 'catalogue')",a1.medium,user,GetAddresses,0.0
+77,"('user', 'catalogue')",a1.medium,catalogue,List,0.0
+77,"('user', 'catalogue')",a1.medium,catalogue,Get,0.0
+70,"('payment', 'user')",a1.medium,payment,Authorise,0
+70,"('payment', 'user')",a1.medium,user,GetAddresses,0.0
+70,"('payment', 'user')",a1.medium,user,Login,0.0
+70,"('payment', 'user')",a1.medium,user,GetUsers,0
+323,"('orders', 'user')",M6.2xlarge,user,GetUsers,0
+323,"('orders', 'user')",M6.2xlarge,user,Login,0.0
+323,"('orders', 'user')",M6.2xlarge,user,GetAddresses,0.0
+13,"('orders', 'user')",t3.micro,user,GetUsers,0
+13,"('orders', 'user')",t3.micro,user,Login,0.0
+13,"('orders', 'user')",t3.micro,user,GetAddresses,0.0
+44,"('orders', 'user')",t3.small,user,GetUsers,0
+44,"('orders', 'user')",t3.small,user,Login,0.0
+44,"('orders', 'user')",t3.small,user,GetAddresses,0.0
+137,"('orders', 'user')",a1.large,user,GetUsers,0
+137,"('orders', 'user')",a1.large,user,Login,0.0
+137,"('orders', 'user')",a1.large,user,GetAddresses,0.0
+14,"('orders', 'catalogue')",t3.micro,catalogue,List,0.0
+14,"('orders', 'catalogue')",t3.micro,catalogue,Get,0.0
+45,"('orders', 'catalogue')",t3.small,catalogue,List,0.0
+45,"('orders', 'catalogue')",t3.small,catalogue,Get,0.0
+76,"('orders', 'catalogue')",a1.medium,catalogue,List,0.0
+76,"('orders', 'catalogue')",a1.medium,catalogue,Get,0.0
+138,"('orders', 'catalogue')",a1.large,catalogue,List,0.0
+138,"('orders', 'catalogue')",a1.large,catalogue,Get,0.0
+324,"('orders', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+324,"('orders', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+15,"('user', 'catalogue')",t3.micro,user,GetUsers,0
+15,"('user', 'catalogue')",t3.micro,user,Login,0.0
+15,"('user', 'catalogue')",t3.micro,user,GetAddresses,0.0
+15,"('user', 'catalogue')",t3.micro,catalogue,List,0
+15,"('user', 'catalogue')",t3.micro,catalogue,Get,0.0
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,carts,get_cart,22.7162
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,carts,merge,41.069
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,carts,addToCart,55.6726
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,carts,delete,26.7534
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,user,GetUsers,0
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,user,Login,0.0
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,user,GetAddresses,0.0
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,catalogue,List,0.0
+123,"('carts', 'orders', 'user', 'catalogue')",M6.medium,catalogue,Get,0.0
+256,"('payment', 'user')",M6.xlarge,payment,Authorise,0
+256,"('payment', 'user')",M6.xlarge,user,GetUsers,0
+256,"('payment', 'user')",M6.xlarge,user,Login,0.0
+256,"('payment', 'user')",M6.xlarge,user,GetAddresses,0.0
+194,"('payment', 'user')",t3.large,payment,Authorise,0
+194,"('payment', 'user')",t3.large,user,GetUsers,0
+194,"('payment', 'user')",t3.large,user,Login,0
+194,"('payment', 'user')",t3.large,user,GetAddresses,0
+318,"('payment', 'user')",M6.2xlarge,payment,Authorise,0
+318,"('payment', 'user')",M6.2xlarge,user,GetAddresses,0.0
+318,"('payment', 'user')",M6.2xlarge,user,Login,0.0
+318,"('payment', 'user')",M6.2xlarge,user,GetUsers,0
+195,"('payment', 'catalogue')",t3.large,payment,Authorise,0
+195,"('payment', 'catalogue')",t3.large,catalogue,List,0
+195,"('payment', 'catalogue')",t3.large,catalogue,Get,0
+41,"('carts', 'orders')",t3.small,carts,get_cart,13.1597
+41,"('carts', 'orders')",t3.small,carts,merge,28.7038
+41,"('carts', 'orders')",t3.small,carts,addToCart,26.3561
+41,"('carts', 'orders')",t3.small,carts,delete,13.3309
+196,"('carts', 'orders')",t3.large,carts,get_cart,22.4208
+196,"('carts', 'orders')",t3.large,carts,merge,40.7637
+196,"('carts', 'orders')",t3.large,carts,addToCart,43.0608
+196,"('carts', 'orders')",t3.large,carts,delete,20.3541
+227,"('carts', 'orders')",a1.xlarge,carts,get_cart,10.5784
+227,"('carts', 'orders')",a1.xlarge,carts,merge,24.5845
+227,"('carts', 'orders')",a1.xlarge,carts,addToCart,20.1209
+227,"('carts', 'orders')",a1.xlarge,carts,delete,11.7507
+289,"('carts', 'orders')",a1.2xlarge,carts,get_cart,10.7797
+289,"('carts', 'orders')",a1.2xlarge,carts,merge,18.7604
+289,"('carts', 'orders')",a1.2xlarge,carts,addToCart,21.5695
+289,"('carts', 'orders')",a1.2xlarge,carts,delete,11.288
+258,"('carts', 'orders')",M6.xlarge,carts,get_cart,11.521
+258,"('carts', 'orders')",M6.xlarge,carts,merge,24.9802
+258,"('carts', 'orders')",M6.xlarge,carts,addToCart,22.7711
+258,"('carts', 'orders')",M6.xlarge,carts,delete,12.2713
+320,"('carts', 'orders')",M6.2xlarge,carts,get_cart,11.9516
+320,"('carts', 'orders')",M6.2xlarge,carts,merge,20.8036
+320,"('carts', 'orders')",M6.2xlarge,carts,addToCart,21.8723
+320,"('carts', 'orders')",M6.2xlarge,carts,delete,11.3843
+325,"('user', 'catalogue')",M6.2xlarge,user,GetAddresses,0
+325,"('user', 'catalogue')",M6.2xlarge,user,Login,0.0
+325,"('user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+325,"('user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+325,"('user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+40,"('payment', 'catalogue')",t3.small,payment,Authorise,0.0
+40,"('payment', 'catalogue')",t3.small,catalogue,List,0.0
+40,"('payment', 'catalogue')",t3.small,catalogue,Get,0.0
+201,"('user', 'catalogue')",t3.large,user,GetAddresses,0.0
+201,"('user', 'catalogue')",t3.large,user,Login,0.0
+201,"('user', 'catalogue')",t3.large,user,GetUsers,0
+201,"('user', 'catalogue')",t3.large,catalogue,List,0
+201,"('user', 'catalogue')",t3.large,catalogue,Get,0.0
+263,"('user', 'catalogue')",M6.xlarge,user,GetUsers,0
+263,"('user', 'catalogue')",M6.xlarge,user,Login,0.0
+263,"('user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+263,"('user', 'catalogue')",M6.xlarge,catalogue,List,0
+263,"('user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+46,"('user', 'catalogue')",t3.small,user,GetUsers,0
+46,"('user', 'catalogue')",t3.small,user,Login,0
+46,"('user', 'catalogue')",t3.small,user,GetAddresses,0.0
+46,"('user', 'catalogue')",t3.small,catalogue,List,0
+46,"('user', 'catalogue')",t3.small,catalogue,Get,0.0
+102,"('payment', 'catalogue')",M6.medium,payment,Authorise,0.0
+102,"('payment', 'catalogue')",M6.medium,catalogue,List,0.0
+102,"('payment', 'catalogue')",M6.medium,catalogue,Get,0
+108,"('user', 'catalogue')",M6.medium,user,GetUsers,0
+108,"('user', 'catalogue')",M6.medium,user,Login,0.0
+108,"('user', 'catalogue')",M6.medium,user,GetAddresses,0.0
+108,"('user', 'catalogue')",M6.medium,catalogue,List,0.0
+108,"('user', 'catalogue')",M6.medium,catalogue,Get,0.0
+226,"('payment', 'catalogue')",a1.xlarge,payment,Authorise,0.0
+226,"('payment', 'catalogue')",a1.xlarge,catalogue,List,0.0
+226,"('payment', 'catalogue')",a1.xlarge,catalogue,Get,0.0
+32,"('payment',)",t3.small,payment,Authorise,0.0
+36,"('catalogue',)",t3.small,catalogue,List,0
+36,"('catalogue',)",t3.small,catalogue,Get,0.0
+300,"('payment', 'user', 'catalogue')",a1.2xlarge,payment,Authorise,0
+300,"('payment', 'user', 'catalogue')",a1.2xlarge,user,GetUsers,0
+300,"('payment', 'user', 'catalogue')",a1.2xlarge,user,Login,0.0
+300,"('payment', 'user', 'catalogue')",a1.2xlarge,user,GetAddresses,0.0
+300,"('payment', 'user', 'catalogue')",a1.2xlarge,catalogue,List,0
+300,"('payment', 'user', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+232,"('user', 'catalogue')",a1.xlarge,user,GetAddresses,0.0
+232,"('user', 'catalogue')",a1.xlarge,user,Login,0.0
+232,"('user', 'catalogue')",a1.xlarge,user,GetUsers,0
+232,"('user', 'catalogue')",a1.xlarge,catalogue,List,0
+232,"('user', 'catalogue')",a1.xlarge,catalogue,Get,0
+133,"('payment', 'catalogue')",a1.large,payment,Authorise,0
+133,"('payment', 'catalogue')",a1.large,catalogue,List,0
+133,"('payment', 'catalogue')",a1.large,catalogue,Get,0
+173,"('payment', 'carts', 'catalogue')",M6.large,payment,Authorise,0.0
+173,"('payment', 'carts', 'catalogue')",M6.large,carts,get_cart,10.5725
+173,"('payment', 'carts', 'catalogue')",M6.large,carts,merge,24.1571
+173,"('payment', 'carts', 'catalogue')",M6.large,carts,addToCart,30
+173,"('payment', 'carts', 'catalogue')",M6.large,carts,delete,14.1568
+173,"('payment', 'carts', 'catalogue')",M6.large,catalogue,List,0.0
+173,"('payment', 'carts', 'catalogue')",M6.large,catalogue,Get,0.0
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,payment,Authorise,0
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,carts,get_cart,9.6464
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,carts,merge,22.9897
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,carts,addToCart,23.9802
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,carts,delete,11.4884
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,catalogue,List,0.0
+266,"('payment', 'carts', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+110,"('payment', 'carts', 'user')",M6.medium,payment,Authorise,0.0
+110,"('payment', 'carts', 'user')",M6.medium,carts,get_cart,15.6781
+110,"('payment', 'carts', 'user')",M6.medium,carts,merge,35.7602
+110,"('payment', 'carts', 'user')",M6.medium,carts,addToCart,38.7818
+110,"('payment', 'carts', 'user')",M6.medium,carts,delete,18.1081
+110,"('payment', 'carts', 'user')",M6.medium,user,GetUsers,0
+110,"('payment', 'carts', 'user')",M6.medium,user,Login,0.0
+110,"('payment', 'carts', 'user')",M6.medium,user,GetAddresses,0.0
+42,"('carts', 'user')",t3.small,carts,get_cart,11.2496
+42,"('carts', 'user')",t3.small,carts,merge,20.5904
+42,"('carts', 'user')",t3.small,carts,addToCart,26.9643
+42,"('carts', 'user')",t3.small,carts,delete,13.6384
+42,"('carts', 'user')",t3.small,user,GetUsers,0
+42,"('carts', 'user')",t3.small,user,Login,0.0
+42,"('carts', 'user')",t3.small,user,GetAddresses,0.0
+
+7,"('payment', 'orders')",t3.micro,payment,Authorise,0.0
+7,"('payment', 'orders')",t3.micro,orders,newOrder,39.9147
+38,"('payment', 'orders')",t3.small,payment,Authorise,0.0
+38,"('payment', 'orders')",t3.small,orders,newOrder,41.7806
+162,"('payment', 'orders')",M6.large,payment,Authorise,0.0
+162,"('payment', 'orders')",M6.large,orders,newOrder,28.1665
+255,"('payment', 'orders')",M6.xlarge,payment,Authorise,0
+255,"('payment', 'orders')",M6.xlarge,orders,newOrder,16.8513
+317,"('payment', 'orders')",M6.2xlarge,payment,Authorise,0.0
+317,"('payment', 'orders')",M6.2xlarge,orders,newOrder,13.5552
+286,"('payment', 'orders')",a1.2xlarge,payment,Authorise,0.0
+286,"('payment', 'orders')",a1.2xlarge,orders,newOrder,19.805
+
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.micro,payment,Authorise,10000
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,payment,Authorise,0.0
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,carts,get_cart,10.6057
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,carts,merge,21.4828
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,carts,addToCart,28.5237
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,carts,delete,12.3823
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,orders,newOrder,31.3158
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,user,GetUsers,0
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,user,Login,0.0
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,catalogue,List,0.0
+62,"('payment', 'carts', 'orders', 'user', 'catalogue')",t3.small,catalogue,Get,0.0
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,payment,Authorise,0.0
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,carts,get_cart,12.1608
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,carts,merge,23.6331
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,carts,addToCart,25.8307
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,carts,delete,14.362
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,orders,newOrder,48.3468
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,user,GetUsers,0
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,user,Login,0
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+186,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,payment,Authorise,0.0
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,get_cart,10.3036
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,merge,23.841
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,addToCart,23.3711
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,delete,12.4416
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,orders,newOrder,21.3664
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,user,Login,0.0
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+279,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,payment,Authorise,0
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,get_cart,8.8648
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,merge,21.0452
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,addToCart,22.9625
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,delete,10.5348
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,orders,newOrder,33.4386
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,user,GetAddresses,0.0
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,user,Login,0.0
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+341,"('payment', 'carts', 'orders', 'user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,payment,Authorise,0.0
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,get_cart,10.1541
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,merge,24.7018
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,addToCart,23.4563
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,delete,12.0156
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,orders,newOrder,25.069
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,user,GetAddresses,0.0
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,user,Login,0
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,user,GetUsers,0
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+310,"('payment', 'carts', 'orders', 'user', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+
+34,"('orders',)",t3.small,orders,newOrder,26.9982
+3,"('orders',)",t3.micro,orders,newOrder,80.8419
+189,"('orders',)",t3.large,orders,newOrder,30.4549
+65,"('orders',)",a1.medium,orders,newOrder,75.8687
+127,"('orders',)",a1.large,orders,newOrder,32.7626
+220,"('orders',)",a1.xlarge,orders,newOrder,30.2572
+282,"('orders',)",a1.2xlarge,orders,newOrder,12.1416
+96,"('orders',)",M6.medium,orders,newOrder,95.6899
+158,"('orders',)",M6.large,orders,newOrder,24.4266
+251,"('orders',)",M6.xlarge,orders,newOrder,13.6041
+313,"('orders',)",M6.2xlarge,orders,newOrder,11.9743
+
+29,"('payment', 'orders', 'user', 'catalogue')",t3.micro,payment,Authorise,10000
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,payment,Authorise,0.0
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,orders,newOrder,45.6257
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,user,GetUsers,0
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,user,Login,0.0
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,catalogue,List,0.0
+60,"('payment', 'orders', 'user', 'catalogue')",t3.small,catalogue,Get,0.0
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,payment,Authorise,0.0
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,orders,newOrder,30.0963
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,user,Login,0.0
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,user,GetUsers,0
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+184,"('payment', 'orders', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,payment,Authorise,0
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,orders,newOrder,26.9649
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,user,Login,0
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+277,"('payment', 'orders', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,payment,Authorise,0.0
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,orders,newOrder,14.6521
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,user,Login,0.0
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,user,GetAddresses,0
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+339,"('payment', 'orders', 'user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,payment,Authorise,0
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,orders,newOrder,16.9434
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,user,GetAddresses,0.0
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,user,Login,0.0
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,user,GetUsers,0
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+308,"('payment', 'orders', 'user', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,carts,get_cart,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,carts,merge,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,carts,addToCart,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,carts,delete,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,orders,newOrder,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,user,GetUsers,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,user,Login,10000
+30,"('carts', 'orders', 'user', 'catalogue')",t3.micro,user,GetAddresses,10000
+30,"('orders', 'user', 'catalogue')",t3.micro,catalogue,List,10000
+30,"('payment', 'orders', 'user')",t3.micro,payment,Authorise,10000
+30,"('payment', 'carts', 'orders', 'user')",t3.micro,payment,Authorise,10000
+30,"('carts', 'orders', 'user')",t3.micro,user,GetAddresses,10000
+30,"(u'payment', u'carts', u'orders', u'catalogue')",t3.micro,payment,Authorise,10000
+30,"(u'payment', u'orders', u'catalogue')",t3.micro,payment,Authorise,10000
+30,"(u'carts', u'orders', u'catalogue')",t3.micro,catalogue,List,10000
+30,"(u'payment', u'carts', u'orders')",t3.micro,payment,Authorise,10000
+
+
+
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,carts,get_cart,11.5609
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,carts,merge,24.7868
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,carts,addToCart,26.0103
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,carts,delete,14.4869
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,orders,newOrder,50.0727
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,user,GetUsers,0
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,user,Login,0.0
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,catalogue,List,0.0
+61,"('carts', 'orders', 'user', 'catalogue')",t3.small,catalogue,Get,0.0
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,carts,get_cart,11.9342
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,carts,merge,23.6803
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,carts,addToCart,27.0289
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,carts,delete,14.4677
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,orders,newOrder,38.3679
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,user,Login,0.0
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,user,GetUsers,0
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+185,"('carts', 'orders', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,payment,Authorise,0.0
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,carts,get_cart,12.6078
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,carts,merge,26.0807
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,carts,addToCart,26.0325
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,carts,delete,12.8515
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,orders,newOrder,35.045
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,catalogue,List,0.0
+58,"('payment', 'carts', 'orders', 'catalogue')",t3.small,catalogue,Get,0.0
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,payment,Authorise,0.0
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,carts,get_cart,12.0424
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,carts,merge,26.8493
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,carts,addToCart,28.2702
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,carts,delete,14.1088
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,orders,newOrder,46.0512
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,catalogue,List,0.0
+182,"('payment', 'carts', 'orders', 'catalogue')",M6.large,catalogue,Get,0.0
+57,"('payment', 'carts', 'orders', 'user')",t3.small,payment,Authorise,0.0
+57,"('payment', 'carts', 'orders', 'user')",t3.small,carts,get_cart,12.7399
+57,"('payment', 'carts', 'orders', 'user')",t3.small,carts,merge,27.8301
+57,"('payment', 'carts', 'orders', 'user')",t3.small,carts,addToCart,29.8907
+57,"('payment', 'carts', 'orders', 'user')",t3.small,carts,delete,14.0073
+57,"('payment', 'carts', 'orders', 'user')",t3.small,orders,newOrder,38.0126
+57,"('payment', 'carts', 'orders', 'user')",t3.small,user,GetUsers,0
+57,"('payment', 'carts', 'orders', 'user')",t3.small,user,Login,0.0
+57,"('payment', 'carts', 'orders', 'user')",t3.small,user,GetAddresses,0.0
+181,"('payment', 'carts', 'orders', 'user')",M6.large,payment,Authorise,0.0
+181,"('payment', 'carts', 'orders', 'user')",M6.large,carts,get_cart,17.245
+181,"('payment', 'carts', 'orders', 'user')",M6.large,carts,merge,24.6915
+181,"('payment', 'carts', 'orders', 'user')",M6.large,carts,addToCart,37.5498
+181,"('payment', 'carts', 'orders', 'user')",M6.large,carts,delete,18.316
+181,"('payment', 'carts', 'orders', 'user')",M6.large,orders,newOrder,91.1572
+181,"('payment', 'carts', 'orders', 'user')",M6.large,user,GetUsers,0
+181,"('payment', 'carts', 'orders', 'user')",M6.large,user,Login,0.0
+181,"('payment', 'carts', 'orders', 'user')",M6.large,user,GetAddresses,0.0
+56,"('orders', 'user', 'catalogue')",t3.small,orders,newOrder,49.4465
+56,"('orders', 'user', 'catalogue')",t3.small,user,GetUsers,0
+56,"('orders', 'user', 'catalogue')",t3.small,user,Login,0.0
+56,"('orders', 'user', 'catalogue')",t3.small,user,GetAddresses,0.0
+56,"('orders', 'user', 'catalogue')",t3.small,catalogue,List,0.0
+56,"('orders', 'user', 'catalogue')",t3.small,catalogue,Get,0.0
+180,"('orders', 'user', 'catalogue')",M6.large,orders,newOrder,30.9212
+180,"('orders', 'user', 'catalogue')",M6.large,user,GetUsers,0
+180,"('orders', 'user', 'catalogue')",M6.large,user,Login,0.0
+180,"('orders', 'user', 'catalogue')",M6.large,user,GetAddresses,0.0
+180,"('orders', 'user', 'catalogue')",M6.large,catalogue,List,0.0
+180,"('orders', 'user', 'catalogue')",M6.large,catalogue,Get,0.0
+54,"('carts', 'orders', 'catalogue')",t3.small,carts,get_cart,11.5911
+54,"('carts', 'orders', 'catalogue')",t3.small,carts,merge,29.194
+54,"('carts', 'orders', 'catalogue')",t3.small,carts,addToCart,25.7435
+54,"('carts', 'orders', 'catalogue')",t3.small,carts,delete,12.7728
+54,"('carts', 'orders', 'catalogue')",t3.small,orders,newOrder,42.054
+54,"('carts', 'orders', 'catalogue')",t3.small,catalogue,List,0.0
+54,"('carts', 'orders', 'catalogue')",t3.small,catalogue,Get,0.0
+178,"('carts', 'orders', 'catalogue')",M6.large,carts,get_cart,11.9942
+178,"('carts', 'orders', 'catalogue')",M6.large,carts,merge,24.6178
+178,"('carts', 'orders', 'catalogue')",M6.large,carts,addToCart,28.1176
+178,"('carts', 'orders', 'catalogue')",M6.large,carts,delete,13.3386
+178,"('carts', 'orders', 'catalogue')",M6.large,orders,newOrder,45.798
+178,"('carts', 'orders', 'catalogue')",M6.large,catalogue,List,0.0
+178,"('carts', 'orders', 'catalogue')",M6.large,catalogue,Get,0.0
+53,"('carts', 'orders', 'user')",t3.small,carts,get_cart,11.6697
+53,"('carts', 'orders', 'user')",t3.small,carts,merge,23.3121
+53,"('carts', 'orders', 'user')",t3.small,carts,addToCart,25.1931
+53,"('carts', 'orders', 'user')",t3.small,carts,delete,12.7046
+53,"('carts', 'orders', 'user')",t3.small,orders,newOrder,28.2064
+53,"('carts', 'orders', 'user')",t3.small,user,GetUsers,0
+53,"('carts', 'orders', 'user')",t3.small,user,Login,0.0
+53,"('carts', 'orders', 'user')",t3.small,user,GetAddresses,0.0
+53,"(u'payment', u'orders', u'catalogue')",t3.small,payment,Authorise,10000
+175,"('payment', 'orders', 'catalogue')",M6.large,payment,Authorise,0.0
+175,"('payment', 'orders', 'catalogue')",M6.large,orders,newOrder,69.4671
+175,"('payment', 'orders', 'catalogue')",M6.large,catalogue,List,0.0
+175,"('payment', 'orders', 'catalogue')",M6.large,catalogue,Get,0
+50,"('payment', 'orders', 'user')",t3.small,payment,Authorise,0.0
+50,"('payment', 'orders', 'user')",t3.small,orders,newOrder,27.2828
+50,"('payment', 'orders', 'user')",t3.small,user,GetUsers,0
+50,"('payment', 'orders', 'user')",t3.small,user,Login,0.0
+50,"('payment', 'orders', 'user')",t3.small,user,GetAddresses,0.0
+50,"(u'payment', u'carts', u'orders')",t3.small,payment,Authorise,10000
+171,"('payment', 'carts', 'orders')",M6.large,payment,Authorise,0.0
+171,"('payment', 'carts', 'orders')",M6.large,carts,get_cart,11.5708
+171,"('payment', 'carts', 'orders')",M6.large,carts,merge,23.1178
+171,"('payment', 'carts', 'orders')",M6.large,carts,addToCart,25.6974
+171,"('payment', 'carts', 'orders')",M6.large,carts,delete,12.7587
+171,"('payment', 'carts', 'orders')",M6.large,orders,newOrder,37.7805
+169,"('orders', 'catalogue')",M6.large,orders,newOrder,29.1865
+169,"('orders', 'catalogue')",M6.large,catalogue,List,0.0
+169,"('orders', 'catalogue')",M6.large,catalogue,Get,0.0
+
+165,"('carts', 'orders')",M6.large,carts,get_cart,11.7098
+165,"('carts', 'orders')",M6.large,carts,merge,28.9169
+165,"('carts', 'orders')",M6.large,carts,addToCart,28.2525
+165,"('carts', 'orders')",M6.large,carts,delete,13.3025
+168,"('orders', 'user')",M6.large,orders,newOrder,27.0186
+168,"('orders', 'user')",M6.large,user,GetAddresses,0.0
+168,"('orders', 'user')",M6.large,user,Login,0.0
+168,"('orders', 'user')",M6.large,user,GetUsers,0
+174,"('payment', 'orders', 'user')",M6.large,payment,Authorise,0.0
+174,"('payment', 'orders', 'user')",M6.large,orders,newOrder,39.2995
+174,"('payment', 'orders', 'user')",M6.large,user,GetUsers,0
+174,"('payment', 'orders', 'user')",M6.large,user,Login,0.0
+174,"('payment', 'orders', 'user')",M6.large,user,GetAddresses,0.0
+267,"('payment', 'orders', 'user')",M6.xlarge,payment,Authorise,0.0
+267,"('payment', 'orders', 'user')",M6.xlarge,orders,newOrder,71.2036
+267,"('payment', 'orders', 'user')",M6.xlarge,user,GetUsers,0
+267,"('payment', 'orders', 'user')",M6.xlarge,user,Login,0.0
+267,"('payment', 'orders', 'user')",M6.xlarge,user,GetAddresses,0.0
+298,"('payment', 'orders', 'user')",a1.2xlarge,payment,Authorise,0.0
+298,"('payment', 'orders', 'user')",a1.2xlarge,orders,newOrder,30.1177
+298,"('payment', 'orders', 'user')",a1.2xlarge,user,GetUsers,0
+298,"('payment', 'orders', 'user')",a1.2xlarge,user,Login,0
+298,"('payment', 'orders', 'user')",a1.2xlarge,user,GetAddresses,0.0
+329,"('payment', 'orders', 'user')",M6.2xlarge,payment,Authorise,0
+329,"('payment', 'orders', 'user')",M6.2xlarge,orders,newOrder,17.5975
+329,"('payment', 'orders', 'user')",M6.2xlarge,user,GetUsers,0
+329,"('payment', 'orders', 'user')",M6.2xlarge,user,Login,0.0
+329,"('payment', 'orders', 'user')",M6.2xlarge,user,GetAddresses,0
+268,"('payment', 'orders', 'catalogue')",M6.xlarge,payment,Authorise,0.0
+268,"('payment', 'orders', 'catalogue')",M6.xlarge,orders,newOrder,32.4399
+268,"('payment', 'orders', 'catalogue')",M6.xlarge,catalogue,List,0.0
+268,"('payment', 'orders', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+299,"('payment', 'orders', 'catalogue')",a1.2xlarge,payment,Authorise,0.0
+299,"('payment', 'orders', 'catalogue')",a1.2xlarge,orders,newOrder,108.8978
+299,"('payment', 'orders', 'catalogue')",a1.2xlarge,catalogue,List,0
+299,"('payment', 'orders', 'catalogue')",a1.2xlarge,catalogue,Get,0
+330,"('payment', 'orders', 'catalogue')",M6.2xlarge,payment,Authorise,0.0
+330,"('payment', 'orders', 'catalogue')",M6.2xlarge,orders,newOrder,12.3381
+330,"('payment', 'orders', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+330,"('payment', 'orders', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+273,"('orders', 'user', 'catalogue')",M6.xlarge,orders,newOrder,32.3582
+273,"('orders', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+273,"('orders', 'user', 'catalogue')",M6.xlarge,user,Login,0.0
+273,"('orders', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+273,"('orders', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+273,"('orders', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+304,"('orders', 'user', 'catalogue')",a1.2xlarge,orders,newOrder,14.9244
+304,"('orders', 'user', 'catalogue')",a1.2xlarge,user,GetUsers,0
+304,"('orders', 'user', 'catalogue')",a1.2xlarge,user,Login,0.0
+304,"('orders', 'user', 'catalogue')",a1.2xlarge,user,GetAddresses,0.0
+304,"('orders', 'user', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+304,"('orders', 'user', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+
+
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,get_cart,8.9026
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,merge,19.8209
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,addToCart,21.5338
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,carts,delete,10.6174
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,user,GetUsers,0
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,user,Login,0.0
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,user,GetAddresses,0.0
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+340,"('carts', 'orders', 'user', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,payment,Authorise,0
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,carts,get_cart,8.5865
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,carts,merge,20.8564
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,carts,addToCart,20.743
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,carts,delete,10.2559
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,orders,newOrder,12.5787
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+337,"('payment', 'carts', 'orders', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,payment,Authorise,0.0
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,carts,get_cart,9.9428
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,carts,merge,22.6705
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,carts,addToCart,22.8367
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,carts,delete,11.7006
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,orders,newOrder,70.7428
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,user,GetUsers,0
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,user,Login,0.0
+336,"('payment', 'carts', 'orders', 'user')",M6.2xlarge,user,GetAddresses,0.0
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,get_cart,9.3985
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,merge,18.319
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,addToCart,21.0514
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,carts,delete,10.832
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,orders,newOrder,22.8823
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,user,GetUsers,0
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,user,Login,0.0
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,user,GetAddresses,0.0
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,catalogue,List,0.0
+278,"('carts', 'orders', 'user', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,get_cart,9.8601
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,merge,23.625
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,addToCart,23.0791
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,carts,delete,12.0157
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,orders,newOrder,19.6986
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,user,GetUsers,0
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,user,Login,0.0
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,user,GetAddresses,0.0
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+309,"('carts', 'orders', 'user', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,carts,get_cart,8.6056
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,carts,merge,21.5851
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,carts,addToCart,20.6164
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,carts,delete,9.8486
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,orders,newOrder,9.2311
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,catalogue,List,0.0
+333,"('carts', 'orders', 'catalogue')",M6.2xlarge,catalogue,Get,0.0
+332,"('carts', 'orders', 'user')",M6.2xlarge,carts,get_cart,8.5686
+332,"('carts', 'orders', 'user')",M6.2xlarge,carts,merge,19.9829
+332,"('carts', 'orders', 'user')",M6.2xlarge,carts,addToCart,22.1204
+332,"('carts', 'orders', 'user')",M6.2xlarge,carts,delete,10.7285
+332,"('carts', 'orders', 'user')",M6.2xlarge,orders,newOrder,18.1794
+332,"('carts', 'orders', 'user')",M6.2xlarge,user,GetUsers,0
+332,"('carts', 'orders', 'user')",M6.2xlarge,user,Login,0
+332,"('carts', 'orders', 'user')",M6.2xlarge,user,GetAddresses,0.0
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,payment,Authorise,0.0
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,carts,get_cart,8.6093
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,carts,merge,18.9406
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,carts,addToCart,20.756
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,carts,delete,10.7504
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,orders,newOrder,27.3827
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,catalogue,List,0.0
+275,"('payment', 'carts', 'orders', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,payment,Authorise,0
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,carts,get_cart,9.517
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,carts,merge,26.307
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,carts,addToCart,24.6771
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,carts,delete,12.239
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,orders,newOrder,35.2054
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+306,"('payment', 'carts', 'orders', 'catalogue')",a1.2xlarge,catalogue,Get,0.0
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,payment,Authorise,0
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,carts,get_cart,9.2289
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,carts,merge,21.1447
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,carts,addToCart,22.8719
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,carts,delete,11.1755
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,orders,newOrder,18.2347
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,user,GetUsers,0
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,user,Login,0
+274,"('payment', 'carts', 'orders', 'user')",M6.xlarge,user,GetAddresses,0.0
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,payment,Authorise,0.0
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,carts,get_cart,10.0251
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,carts,merge,27.1553
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,carts,addToCart,24.2786
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,carts,delete,12.3106
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,orders,newOrder,12.586
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,user,GetUsers,0
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,user,Login,0.0
+305,"('payment', 'carts', 'orders', 'user')",a1.2xlarge,user,GetAddresses,0.0
+326,"('payment', 'carts', 'orders')",M6.2xlarge,payment,Authorise,0.0
+326,"('payment', 'carts', 'orders')",M6.2xlarge,carts,get_cart,15.5165
+326,"('payment', 'carts', 'orders')",M6.2xlarge,carts,merge,17.9814
+326,"('payment', 'carts', 'orders')",M6.2xlarge,carts,addToCart,34.1383
+326,"('payment', 'carts', 'orders')",M6.2xlarge,carts,delete,18.1689
+326,"('payment', 'carts', 'orders')",M6.2xlarge,orders,newOrder,12.7813
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,carts,get_cart,9.0892
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,carts,merge,17.9306
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,carts,addToCart,22.6924
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,carts,delete,10.4785
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,orders,newOrder,25.5535
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,catalogue,List,0
+271,"('carts', 'orders', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+262,"('orders', 'catalogue')",M6.xlarge,orders,newOrder,18.9935
+262,"('orders', 'catalogue')",M6.xlarge,catalogue,List,0.0
+262,"('orders', 'catalogue')",M6.xlarge,catalogue,Get,0.0
+270,"('carts', 'orders', 'user')",M6.xlarge,carts,get_cart,9.6586
+270,"('carts', 'orders', 'user')",M6.xlarge,carts,merge,22.7096
+270,"('carts', 'orders', 'user')",M6.xlarge,carts,addToCart,23.7506
+270,"('carts', 'orders', 'user')",M6.xlarge,carts,delete,11.175
+270,"('carts', 'orders', 'user')",M6.xlarge,orders,newOrder,32.9323
+270,"('carts', 'orders', 'user')",M6.xlarge,user,GetUsers,0
+270,"('carts', 'orders', 'user')",M6.xlarge,user,Login,0.0
+270,"('carts', 'orders', 'user')",M6.xlarge,user,GetAddresses,0.0
+261,"('orders', 'user')",M6.xlarge,orders,newOrder,19.9611
+261,"('orders', 'user')",M6.xlarge,user,GetUsers,0
+261,"('orders', 'user')",M6.xlarge,user,Login,0.0
+261,"('orders', 'user')",M6.xlarge,user,GetAddresses,0.0
+264,"('payment', 'carts', 'orders')",M6.xlarge,payment,Authorise,0.0
+264,"('payment', 'carts', 'orders')",M6.xlarge,carts,get_cart,10.269
+264,"('payment', 'carts', 'orders')",M6.xlarge,carts,merge,18.7924
+264,"('payment', 'carts', 'orders')",M6.xlarge,carts,addToCart,23.6767
+264,"('payment', 'carts', 'orders')",M6.xlarge,carts,delete,10.6726
+264,"('payment', 'carts', 'orders')",M6.xlarge,orders,newOrder,25.7587
+
+292,"('orders', 'user')",a1.2xlarge,orders,newOrder,12.5491
+292,"('orders', 'user')",a1.2xlarge,user,GetUsers,0
+292,"('orders', 'user')",a1.2xlarge,user,Login,0.0
+292,"('orders', 'user')",a1.2xlarge,user,GetAddresses,0.0
+293,"('orders', 'catalogue')",a1.2xlarge,orders,newOrder,33.7225
+293,"('orders', 'catalogue')",a1.2xlarge,catalogue,List,0.0
+293,"('orders', 'catalogue')",a1.2xlarge,catalogue,Get,0.0

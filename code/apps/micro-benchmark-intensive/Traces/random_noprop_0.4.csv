@@ -1,0 +1,195 @@
+True,"(u'comservice1',)",t3.small,False
+True,"(u'comservice1',)",a1.2xlarge,True
+True,"(u'comservice2',)",t3.large,False
+True,"(u'comservice2',)",a1.2xlarge,True
+True,"(u'comservice3',)",t3.micro,False
+True,"(u'comservice3',)",M6.2xlarge,True
+True,"(u'comservice4',)",t3.large,False
+True,"(u'comservice4',)",t3.small,False
+True,"(u'comservice4',)",M6.2xlarge,True
+True,"(u'comservice5',)",a1.xlarge,True
+True,"(u'comservice1', u'comservice2')",t3.small,False
+True,"(u'comservice1', u'comservice2')",t3.large,False
+True,"(u'comservice1', u'comservice2')",a1.2xlarge,True
+True,"(u'comservice1', u'comservice3')",t3.micro,False
+True,"(u'comservice1', u'comservice3')",t3.small,False
+True,"(u'comservice1', u'comservice3')",a1.xlarge,True
+True,"(u'comservice1', u'comservice4')",t3.small,False
+True,"(u'comservice1', u'comservice4')",t3.large,False
+True,"(u'comservice1', u'comservice4')",M6.medium,False
+True,"(u'comservice1', u'comservice4')",a1.medium,False
+True,"(u'comservice1', u'comservice4')",a1.large,False
+True,"(u'comservice1', u'comservice4')",M6.2xlarge,True
+True,"(u'comservice1', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice5')",M6.xlarge,True
+True,"(u'comservice2', u'comservice3')",t3.micro,False
+True,"(u'comservice2', u'comservice3')",t3.large,False
+True,"(u'comservice2', u'comservice3')",t3.small,False
+True,"(u'comservice2', u'comservice3')",M6.medium,False
+True,"(u'comservice2', u'comservice3')",M6.2xlarge,True
+True,"(u'comservice2', u'comservice4')",t3.small,False
+True,"(u'comservice2', u'comservice4')",t3.large,False
+True,"(u'comservice2', u'comservice4')",a1.xlarge,True
+True,"(u'comservice2', u'comservice5')",t3.large,False
+True,"(u'comservice2', u'comservice5')",M6.xlarge,True
+True,"(u'comservice3', u'comservice4')",t3.micro,False
+True,"(u'comservice3', u'comservice4')",t3.small,False
+True,"(u'comservice3', u'comservice4')",t3.large,False
+True,"(u'comservice3', u'comservice4')",a1.large,False
+True,"(u'comservice3', u'comservice4')",a1.2xlarge,True
+True,"(u'comservice3', u'comservice5')",t3.micro,False
+True,"(u'comservice3', u'comservice5')",M6.medium,False
+True,"(u'comservice3', u'comservice5')",t3.medium,False
+True,"(u'comservice3', u'comservice5')",a1.large,False
+True,"(u'comservice3', u'comservice5')",a1.xlarge,True
+True,"(u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice4', u'comservice5')",M6.xlarge,True
+True,"(u'comservice1', u'comservice2', u'comservice3')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice3')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice3')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3')",M6.xlarge,True
+True,"(u'comservice1', u'comservice2', u'comservice4')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",a1.large,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",t3.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",M6.large,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",M6.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",a1.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice4')",M6.xlarge,True
+True,"(u'comservice1', u'comservice2', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",a1.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",M6.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",t3.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice5')",a1.2xlarge,True
+True,"(u'comservice1', u'comservice3', u'comservice4')",t3.micro,False
+True,"(u'comservice1', u'comservice3', u'comservice4')",t3.small,False
+True,"(u'comservice1', u'comservice3', u'comservice4')",a1.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice4')",M6.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice4')",a1.large,False
+True,"(u'comservice1', u'comservice3', u'comservice4')",t3.large,False
+True,"(u'comservice1', u'comservice3', u'comservice4')",M6.xlarge,True
+True,"(u'comservice1', u'comservice3', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice3', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice3', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice5')",t3.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice5')",a1.large,False
+True,"(u'comservice1', u'comservice3', u'comservice5')",a1.2xlarge,True
+True,"(u'comservice1', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice4', u'comservice5')",a1.medium,False
+True,"(u'comservice1', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice4', u'comservice5')",a1.large,False
+True,"(u'comservice1', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice1', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice4', u'comservice5')",M6.xlarge,True
+True,"(u'comservice2', u'comservice3', u'comservice4')",t3.micro,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",t3.small,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",M6.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",a1.large,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",t3.large,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",t3.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",a1.xlarge,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",M6.2xlarge,False
+True,"(u'comservice2', u'comservice3', u'comservice4')",M6.xlarge,True
+True,"(u'comservice2', u'comservice3', u'comservice5')",t3.micro,False
+True,"(u'comservice2', u'comservice3', u'comservice5')",t3.small,False
+True,"(u'comservice2', u'comservice3', u'comservice5')",M6.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice5')",t3.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice5')",a1.large,False
+True,"(u'comservice2', u'comservice3', u'comservice5')",t3.large,False
+True,"(u'comservice2', u'comservice3', u'comservice5')",M6.xlarge,True
+True,"(u'comservice2', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice2', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice2', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice2', u'comservice4', u'comservice5')",M6.2xlarge,False
+True,"(u'comservice2', u'comservice4', u'comservice5')",a1.medium,False
+True,"(u'comservice2', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice2', u'comservice4', u'comservice5')",a1.2xlarge,True
+True,"(u'comservice3', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice3', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice3', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice3', u'comservice4', u'comservice5')",t3.medium,False
+True,"(u'comservice3', u'comservice4', u'comservice5')",a1.large,False
+True,"(u'comservice3', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice3', u'comservice4', u'comservice5')",M6.xlarge,True
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",t3.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",a1.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",M6.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",a1.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",M6.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",M6.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",a1.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",t3.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",a1.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",a1.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",M6.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",M6.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",M6.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",a1.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",t3.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",a1.large,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",M6.large,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",a1.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",M6.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",M6.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",a1.2xlarge,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",a1.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",t3.medium,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",a1.large,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",M6.large,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",a1.2xlarge,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",M6.xlarge,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",a1.xlarge,False
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",M6.2xlarge,True
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.medium,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.large,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.xlarge,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.2xlarge,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.2xlarge,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.xlarge,False
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.micro,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.small,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.medium,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.large,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",a1.2xlarge,False
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",M6.2xlarge,False

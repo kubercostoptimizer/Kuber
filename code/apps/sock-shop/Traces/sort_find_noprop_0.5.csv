@@ -1,0 +1,1057 @@
+True,"(u'payment',)",a1.medium,True
+True,"(u'carts',)",a1.medium,False
+True,"(u'carts',)",M6.medium,False
+True,"(u'carts',)",a1.large,False
+True,"(u'carts',)",M6.large,False
+True,"(u'carts',)",a1.xlarge,True
+True,"(u'orders',)",a1.medium,False
+True,"(u'orders',)",M6.medium,False
+True,"(u'orders',)",a1.large,False
+True,"(u'orders',)",M6.large,False
+True,"(u'orders',)",a1.xlarge,False
+True,"(u'orders',)",t3.micro,False
+True,"(u'orders',)",t3.small,False
+True,"(u'orders',)",M6.xlarge,False
+True,"(u'orders',)",t3.large,False
+True,"(u'orders',)",a1.2xlarge,True
+True,"(u'user',)",a1.medium,True
+True,"(u'catalogue',)",a1.medium,True
+True,"(u'shipping',)",a1.medium,True
+True,"(u'front-end',)",a1.medium,True
+True,"(u'payment', u'carts')",a1.medium,False
+True,"(u'payment', u'carts')",M6.medium,False
+True,"(u'payment', u'carts')",a1.large,False
+True,"(u'payment', u'carts')",M6.large,False
+True,"(u'payment', u'carts')",a1.xlarge,False
+True,"(u'payment', u'carts')",t3.micro,False
+True,"(u'payment', u'carts')",t3.small,False
+True,"(u'payment', u'carts')",M6.xlarge,False
+True,"(u'payment', u'carts')",t3.large,True
+True,"(u'payment', u'orders')",a1.medium,False
+True,"(u'payment', u'orders')",M6.medium,False
+True,"(u'payment', u'orders')",a1.large,False
+True,"(u'payment', u'orders')",M6.large,False
+True,"(u'payment', u'orders')",a1.xlarge,False
+True,"(u'payment', u'orders')",t3.micro,False
+True,"(u'payment', u'orders')",t3.small,False
+True,"(u'payment', u'orders')",M6.xlarge,False
+True,"(u'payment', u'orders')",t3.large,False
+True,"(u'payment', u'orders')",a1.2xlarge,True
+True,"(u'payment', u'user')",a1.medium,False
+True,"(u'payment', u'user')",M6.medium,True
+True,"(u'payment', u'catalogue')",a1.medium,True
+True,"(u'payment', u'shipping')",a1.medium,True
+True,"(u'payment', u'front-end')",a1.medium,True
+True,"(u'carts', u'orders')",a1.medium,False
+True,"(u'carts', u'orders')",M6.medium,False
+True,"(u'carts', u'orders')",a1.large,False
+True,"(u'carts', u'orders')",M6.large,False
+True,"(u'carts', u'orders')",a1.xlarge,False
+True,"(u'carts', u'orders')",t3.micro,False
+True,"(u'carts', u'orders')",t3.small,False
+True,"(u'carts', u'orders')",M6.xlarge,False
+True,"(u'carts', u'orders')",t3.large,False
+True,"(u'carts', u'orders')",a1.2xlarge,False
+True,"(u'carts', u'orders')",M6.2xlarge,False
+True,"(u'carts', u'user')",a1.medium,False
+True,"(u'carts', u'user')",M6.medium,False
+True,"(u'carts', u'user')",a1.large,False
+True,"(u'carts', u'user')",M6.large,False
+True,"(u'carts', u'user')",a1.xlarge,False
+True,"(u'carts', u'user')",t3.micro,False
+True,"(u'carts', u'user')",t3.small,False
+True,"(u'carts', u'user')",M6.xlarge,True
+True,"(u'carts', u'catalogue')",a1.medium,False
+True,"(u'carts', u'catalogue')",M6.medium,False
+True,"(u'carts', u'catalogue')",a1.large,False
+True,"(u'carts', u'catalogue')",M6.large,False
+True,"(u'carts', u'catalogue')",a1.xlarge,False
+True,"(u'carts', u'catalogue')",t3.micro,False
+True,"(u'carts', u'catalogue')",t3.small,False
+True,"(u'carts', u'catalogue')",M6.xlarge,False
+True,"(u'carts', u'catalogue')",t3.large,False
+True,"(u'carts', u'catalogue')",a1.2xlarge,False
+True,"(u'carts', u'catalogue')",M6.2xlarge,False
+True,"(u'carts', u'shipping')",a1.medium,False
+True,"(u'carts', u'shipping')",M6.medium,False
+True,"(u'carts', u'shipping')",a1.large,False
+True,"(u'carts', u'shipping')",M6.large,False
+True,"(u'carts', u'shipping')",a1.xlarge,True
+True,"(u'carts', u'front-end')",a1.medium,False
+True,"(u'carts', u'front-end')",M6.medium,False
+True,"(u'carts', u'front-end')",a1.large,False
+True,"(u'carts', u'front-end')",M6.large,False
+True,"(u'carts', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'front-end')",t3.micro,False
+True,"(u'carts', u'front-end')",t3.small,False
+True,"(u'carts', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'front-end')",t3.large,False
+True,"(u'carts', u'front-end')",a1.2xlarge,True
+True,"(u'orders', u'user')",a1.medium,False
+True,"(u'orders', u'user')",M6.medium,False
+True,"(u'orders', u'user')",a1.large,False
+True,"(u'orders', u'user')",M6.large,False
+True,"(u'orders', u'user')",a1.xlarge,False
+True,"(u'orders', u'user')",t3.micro,False
+True,"(u'orders', u'user')",t3.small,False
+True,"(u'orders', u'user')",M6.xlarge,False
+True,"(u'orders', u'user')",t3.large,False
+True,"(u'orders', u'user')",a1.2xlarge,True
+True,"(u'orders', u'catalogue')",a1.medium,False
+True,"(u'orders', u'catalogue')",M6.medium,False
+True,"(u'orders', u'catalogue')",a1.large,False
+True,"(u'orders', u'catalogue')",M6.large,False
+True,"(u'orders', u'catalogue')",a1.xlarge,False
+True,"(u'orders', u'catalogue')",t3.micro,False
+True,"(u'orders', u'catalogue')",t3.small,False
+True,"(u'orders', u'catalogue')",M6.xlarge,False
+True,"(u'orders', u'catalogue')",t3.large,False
+True,"(u'orders', u'catalogue')",a1.2xlarge,False
+True,"(u'orders', u'catalogue')",M6.2xlarge,False
+True,"(u'orders', u'shipping')",a1.medium,False
+True,"(u'orders', u'shipping')",M6.medium,False
+True,"(u'orders', u'shipping')",a1.large,False
+True,"(u'orders', u'shipping')",M6.large,False
+True,"(u'orders', u'shipping')",a1.xlarge,False
+True,"(u'orders', u'shipping')",t3.micro,False
+True,"(u'orders', u'shipping')",t3.small,False
+True,"(u'orders', u'shipping')",M6.xlarge,False
+True,"(u'orders', u'shipping')",t3.large,False
+True,"(u'orders', u'shipping')",a1.2xlarge,True
+True,"(u'orders', u'front-end')",a1.medium,False
+True,"(u'orders', u'front-end')",M6.medium,False
+True,"(u'orders', u'front-end')",a1.large,False
+True,"(u'orders', u'front-end')",M6.large,False
+True,"(u'orders', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'front-end')",t3.micro,False
+True,"(u'orders', u'front-end')",t3.small,False
+True,"(u'orders', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'front-end')",t3.large,False
+True,"(u'orders', u'front-end')",a1.2xlarge,True
+True,"(u'user', u'catalogue')",a1.medium,True
+True,"(u'user', u'shipping')",a1.medium,True
+True,"(u'user', u'front-end')",a1.medium,True
+True,"(u'catalogue', u'shipping')",a1.medium,True
+True,"(u'catalogue', u'front-end')",a1.medium,False
+True,"(u'catalogue', u'front-end')",M6.medium,True
+True,"(u'shipping', u'front-end')",a1.medium,True
+True,"(u'payment', u'carts', u'orders')",a1.medium,False
+True,"(u'payment', u'carts', u'orders')",M6.medium,False
+True,"(u'payment', u'carts', u'orders')",a1.large,False
+True,"(u'payment', u'carts', u'orders')",M6.large,False
+True,"(u'payment', u'carts', u'orders')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders')",t3.micro,False
+True,"(u'payment', u'carts', u'orders')",t3.small,False
+True,"(u'payment', u'carts', u'orders')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders')",t3.large,False
+True,"(u'payment', u'carts', u'orders')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user')",a1.medium,False
+True,"(u'payment', u'carts', u'user')",M6.medium,False
+True,"(u'payment', u'carts', u'user')",a1.large,False
+True,"(u'payment', u'carts', u'user')",M6.large,False
+True,"(u'payment', u'carts', u'user')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user')",t3.micro,False
+True,"(u'payment', u'carts', u'user')",t3.small,False
+True,"(u'payment', u'carts', u'user')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user')",t3.large,False
+True,"(u'payment', u'carts', u'user')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user')",M6.2xlarge,True
+True,"(u'payment', u'carts', u'catalogue')",a1.medium,False
+True,"(u'payment', u'carts', u'catalogue')",M6.medium,False
+True,"(u'payment', u'carts', u'catalogue')",a1.large,False
+True,"(u'payment', u'carts', u'catalogue')",M6.large,False
+True,"(u'payment', u'carts', u'catalogue')",a1.xlarge,False
+True,"(u'payment', u'carts', u'catalogue')",t3.micro,False
+True,"(u'payment', u'carts', u'catalogue')",t3.small,False
+True,"(u'payment', u'carts', u'catalogue')",M6.xlarge,False
+True,"(u'payment', u'carts', u'catalogue')",t3.large,False
+True,"(u'payment', u'carts', u'catalogue')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'shipping')",M6.2xlarge,True
+True,"(u'payment', u'carts', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user')",a1.medium,False
+True,"(u'payment', u'orders', u'user')",M6.medium,False
+True,"(u'payment', u'orders', u'user')",a1.large,False
+True,"(u'payment', u'orders', u'user')",M6.large,False
+True,"(u'payment', u'orders', u'user')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user')",t3.micro,False
+True,"(u'payment', u'orders', u'user')",t3.small,False
+True,"(u'payment', u'orders', u'user')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user')",t3.large,False
+True,"(u'payment', u'orders', u'user')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue')",a1.medium,False
+True,"(u'payment', u'orders', u'catalogue')",M6.medium,False
+True,"(u'payment', u'orders', u'catalogue')",a1.large,False
+True,"(u'payment', u'orders', u'catalogue')",M6.large,False
+True,"(u'payment', u'orders', u'catalogue')",a1.xlarge,False
+True,"(u'payment', u'orders', u'catalogue')",t3.micro,False
+True,"(u'payment', u'orders', u'catalogue')",t3.small,False
+True,"(u'payment', u'orders', u'catalogue')",M6.xlarge,False
+True,"(u'payment', u'orders', u'catalogue')",t3.large,False
+True,"(u'payment', u'orders', u'catalogue')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'shipping')",a1.medium,False
+True,"(u'payment', u'orders', u'shipping')",M6.medium,False
+True,"(u'payment', u'orders', u'shipping')",a1.large,False
+True,"(u'payment', u'orders', u'shipping')",M6.large,False
+True,"(u'payment', u'orders', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'orders', u'shipping')",t3.micro,False
+True,"(u'payment', u'orders', u'shipping')",t3.small,False
+True,"(u'payment', u'orders', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'orders', u'shipping')",t3.large,False
+True,"(u'payment', u'orders', u'shipping')",a1.2xlarge,True
+True,"(u'payment', u'orders', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'front-end')",a1.2xlarge,True
+True,"(u'payment', u'user', u'catalogue')",a1.medium,False
+True,"(u'payment', u'user', u'catalogue')",M6.medium,True
+True,"(u'payment', u'user', u'shipping')",a1.medium,False
+True,"(u'payment', u'user', u'shipping')",M6.medium,True
+True,"(u'payment', u'user', u'front-end')",a1.medium,False
+True,"(u'payment', u'user', u'front-end')",M6.medium,True
+True,"(u'payment', u'catalogue', u'shipping')",a1.medium,True
+True,"(u'payment', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'catalogue', u'front-end')",M6.medium,True
+True,"(u'payment', u'shipping', u'front-end')",a1.medium,True
+True,"(u'carts', u'orders', u'user')",a1.medium,False
+True,"(u'carts', u'orders', u'user')",M6.medium,False
+True,"(u'carts', u'orders', u'user')",a1.large,False
+True,"(u'carts', u'orders', u'user')",M6.large,False
+True,"(u'carts', u'orders', u'user')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user')",t3.micro,False
+True,"(u'carts', u'orders', u'user')",t3.small,False
+True,"(u'carts', u'orders', u'user')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user')",t3.large,False
+True,"(u'carts', u'orders', u'user')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue')",a1.medium,False
+True,"(u'carts', u'orders', u'catalogue')",M6.medium,False
+True,"(u'carts', u'orders', u'catalogue')",a1.large,False
+True,"(u'carts', u'orders', u'catalogue')",M6.large,False
+True,"(u'carts', u'orders', u'catalogue')",a1.xlarge,False
+True,"(u'carts', u'orders', u'catalogue')",t3.micro,False
+True,"(u'carts', u'orders', u'catalogue')",t3.small,False
+True,"(u'carts', u'orders', u'catalogue')",M6.xlarge,False
+True,"(u'carts', u'orders', u'catalogue')",t3.large,False
+True,"(u'carts', u'orders', u'catalogue')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'shipping')",a1.medium,False
+True,"(u'carts', u'orders', u'shipping')",M6.medium,False
+True,"(u'carts', u'orders', u'shipping')",a1.large,False
+True,"(u'carts', u'orders', u'shipping')",M6.large,False
+True,"(u'carts', u'orders', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'orders', u'shipping')",t3.micro,False
+True,"(u'carts', u'orders', u'shipping')",t3.small,False
+True,"(u'carts', u'orders', u'shipping')",M6.xlarge,False
+True,"(u'carts', u'orders', u'shipping')",t3.large,False
+True,"(u'carts', u'orders', u'shipping')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'shipping')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'user', u'catalogue')",a1.medium,False
+True,"(u'carts', u'user', u'catalogue')",M6.medium,False
+True,"(u'carts', u'user', u'catalogue')",a1.large,False
+True,"(u'carts', u'user', u'catalogue')",M6.large,False
+True,"(u'carts', u'user', u'catalogue')",a1.xlarge,False
+True,"(u'carts', u'user', u'catalogue')",t3.micro,False
+True,"(u'carts', u'user', u'catalogue')",t3.small,False
+True,"(u'carts', u'user', u'catalogue')",M6.xlarge,False
+True,"(u'carts', u'user', u'catalogue')",t3.large,False
+True,"(u'carts', u'user', u'catalogue')",a1.2xlarge,False
+True,"(u'carts', u'user', u'catalogue')",M6.2xlarge,False
+True,"(u'carts', u'user', u'shipping')",a1.medium,False
+True,"(u'carts', u'user', u'shipping')",M6.medium,False
+True,"(u'carts', u'user', u'shipping')",a1.large,False
+True,"(u'carts', u'user', u'shipping')",M6.large,False
+True,"(u'carts', u'user', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'user', u'shipping')",t3.micro,False
+True,"(u'carts', u'user', u'shipping')",t3.small,False
+True,"(u'carts', u'user', u'shipping')",M6.xlarge,True
+True,"(u'carts', u'user', u'front-end')",a1.medium,False
+True,"(u'carts', u'user', u'front-end')",M6.medium,False
+True,"(u'carts', u'user', u'front-end')",a1.large,False
+True,"(u'carts', u'user', u'front-end')",M6.large,False
+True,"(u'carts', u'user', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'user', u'front-end')",t3.micro,False
+True,"(u'carts', u'user', u'front-end')",t3.small,False
+True,"(u'carts', u'user', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'user', u'front-end')",t3.large,False
+True,"(u'carts', u'user', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'user', u'front-end')",M6.2xlarge,True
+True,"(u'carts', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'carts', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'carts', u'catalogue', u'shipping')",a1.large,False
+True,"(u'carts', u'catalogue', u'shipping')",M6.large,False
+True,"(u'carts', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'carts', u'catalogue', u'shipping')",t3.small,False
+True,"(u'carts', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'carts', u'catalogue', u'shipping')",t3.large,False
+True,"(u'carts', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'carts', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'carts', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'carts', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'carts', u'catalogue', u'front-end')",a1.large,False
+True,"(u'carts', u'catalogue', u'front-end')",M6.large,False
+True,"(u'carts', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'carts', u'catalogue', u'front-end')",t3.small,False
+True,"(u'carts', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'catalogue', u'front-end')",t3.large,False
+True,"(u'carts', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'shipping', u'front-end')",a1.2xlarge,True
+True,"(u'orders', u'user', u'catalogue')",a1.medium,False
+True,"(u'orders', u'user', u'catalogue')",M6.medium,False
+True,"(u'orders', u'user', u'catalogue')",a1.large,False
+True,"(u'orders', u'user', u'catalogue')",M6.large,False
+True,"(u'orders', u'user', u'catalogue')",a1.xlarge,False
+True,"(u'orders', u'user', u'catalogue')",t3.micro,False
+True,"(u'orders', u'user', u'catalogue')",t3.small,False
+True,"(u'orders', u'user', u'catalogue')",M6.xlarge,False
+True,"(u'orders', u'user', u'catalogue')",t3.large,False
+True,"(u'orders', u'user', u'catalogue')",a1.2xlarge,False
+True,"(u'orders', u'user', u'catalogue')",M6.2xlarge,False
+True,"(u'orders', u'user', u'shipping')",a1.medium,False
+True,"(u'orders', u'user', u'shipping')",M6.medium,False
+True,"(u'orders', u'user', u'shipping')",a1.large,False
+True,"(u'orders', u'user', u'shipping')",M6.large,False
+True,"(u'orders', u'user', u'shipping')",a1.xlarge,False
+True,"(u'orders', u'user', u'shipping')",t3.micro,False
+True,"(u'orders', u'user', u'shipping')",t3.small,False
+True,"(u'orders', u'user', u'shipping')",M6.xlarge,False
+True,"(u'orders', u'user', u'shipping')",t3.large,False
+True,"(u'orders', u'user', u'shipping')",a1.2xlarge,True
+True,"(u'orders', u'user', u'front-end')",a1.medium,False
+True,"(u'orders', u'user', u'front-end')",M6.medium,False
+True,"(u'orders', u'user', u'front-end')",a1.large,False
+True,"(u'orders', u'user', u'front-end')",M6.large,False
+True,"(u'orders', u'user', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'user', u'front-end')",t3.micro,False
+True,"(u'orders', u'user', u'front-end')",t3.small,False
+True,"(u'orders', u'user', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'user', u'front-end')",t3.large,False
+True,"(u'orders', u'user', u'front-end')",a1.2xlarge,True
+True,"(u'orders', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'orders', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'orders', u'catalogue', u'shipping')",a1.large,False
+True,"(u'orders', u'catalogue', u'shipping')",M6.large,False
+True,"(u'orders', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'orders', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'orders', u'catalogue', u'shipping')",t3.small,False
+True,"(u'orders', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'orders', u'catalogue', u'shipping')",t3.large,False
+True,"(u'orders', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'orders', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'orders', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'orders', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'orders', u'catalogue', u'front-end')",a1.large,False
+True,"(u'orders', u'catalogue', u'front-end')",M6.large,False
+True,"(u'orders', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'orders', u'catalogue', u'front-end')",t3.small,False
+True,"(u'orders', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'catalogue', u'front-end')",t3.large,False
+True,"(u'orders', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'orders', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'orders', u'shipping', u'front-end')",a1.medium,False
+True,"(u'orders', u'shipping', u'front-end')",M6.medium,False
+True,"(u'orders', u'shipping', u'front-end')",a1.large,False
+True,"(u'orders', u'shipping', u'front-end')",M6.large,False
+True,"(u'orders', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'shipping', u'front-end')",t3.micro,False
+True,"(u'orders', u'shipping', u'front-end')",t3.small,False
+True,"(u'orders', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'shipping', u'front-end')",t3.large,False
+True,"(u'orders', u'shipping', u'front-end')",a1.2xlarge,True
+True,"(u'user', u'catalogue', u'shipping')",a1.medium,True
+True,"(u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'user', u'catalogue', u'front-end')",M6.medium,True
+True,"(u'user', u'shipping', u'front-end')",a1.medium,True
+True,"(u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'catalogue', u'shipping', u'front-end')",M6.medium,True
+True,"(u'payment', u'carts', u'orders', u'user')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping')",M6.2xlarge,True
+True,"(u'payment', u'carts', u'user', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'shipping')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'shipping')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'shipping')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'shipping')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",a1.large,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",M6.large,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",t3.small,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",t3.large,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'shipping', u'front-end')",a1.2xlarge,True
+True,"(u'payment', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'user', u'catalogue', u'shipping')",M6.medium,True
+True,"(u'payment', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'user', u'catalogue', u'front-end')",M6.medium,True
+True,"(u'payment', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'user', u'shipping', u'front-end')",M6.medium,True
+True,"(u'payment', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'catalogue', u'shipping', u'front-end')",M6.medium,True
+True,"(u'carts', u'orders', u'user', u'catalogue')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'shipping')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'shipping')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'shipping')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'shipping')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'shipping')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'shipping')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",a1.large,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",M6.large,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",t3.small,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",t3.large,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",a1.large,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",M6.large,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",t3.small,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",t3.large,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",a1.large,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",M6.large,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",t3.small,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",t3.large,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'user', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",a1.large,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",M6.large,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",t3.small,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",t3.large,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",a1.large,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",M6.large,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",t3.small,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",t3.large,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",M6.medium,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",a1.large,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",M6.large,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",t3.micro,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",t3.small,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",t3.large,False
+True,"(u'orders', u'user', u'shipping', u'front-end')",a1.2xlarge,True
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'orders', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,True
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'user', u'catalogue', u'shipping', u'front-end')",a1.large,True
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'shipping')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'catalogue', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'user', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'orders', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'carts', u'user', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'payment', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.medium,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.micro,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.small,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",t3.large,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",a1.2xlarge,False
+True,"(u'carts', u'orders', u'user', u'catalogue', u'shipping', u'front-end')",M6.2xlarge,False

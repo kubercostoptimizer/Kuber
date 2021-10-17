@@ -1,0 +1,139 @@
+{
+    "Application": {
+        "services": [
+            "payment",
+            "carts",
+            "orders",
+            "user",
+            "catalogue",
+            "shipping",
+            "front-end"
+        ],
+        "front-end": "front-end",
+        "port": "80",
+        "name": "sock-shop",
+        "no_slaves": "3"
+    },
+    "Kuber": {
+        "performance_target_offset": "0.5",
+        "vm_selector": "sort_find",
+        "mode": "noprop",
+        "budget": "0"
+    },
+    "Profiling": {
+        "load_gen": {
+            "time_limit": "2m",
+            "throughput": "100",
+            "concurrent": "10"
+        },
+        "analysis": {
+            "percentile": "99",
+            "precision": "4",
+            "outliers_removal": "1"
+        }
+    },
+    "Infrastructure": {
+        "Cloud_provider": "opennebula",
+        "vm_types": [
+            {
+                "ram": "2",
+                "name": "a1.medium",
+                "price": 0.0255,
+                "cpu_count": "1",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "ram": "4",
+                "name": "a1.large",
+                "price": 0.051,
+                "cpu_count": "2",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "ram": "8",
+                "name": "a1.xlarge",
+                "price": 0.102,
+                "cpu_count": "4",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "ram": "16",
+                "name": "a1.2xlarge",
+                "price": 0.204,
+                "cpu_count": "8",
+                "computer": "leibnitz",
+                "machine_type": "gen",
+                "speed": "slow"
+            },
+            {
+                "ram": "4",
+                "name": "M6.medium",
+                "price": 0.0385,
+                "cpu_count": "1",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "ram": "8",
+                "name": "M6.large",
+                "price": 0.077,
+                "cpu_count": "2",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "ram": "16",
+                "name": "M6.xlarge",
+                "price": 0.154,
+                "cpu_count": "4",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "ram": "32",
+                "name": "M6.2xlarge",
+                "price": 0.308,
+                "cpu_count": "8",
+                "computer": "newton",
+                "machine_type": "mem",
+                "speed": "slow"
+            },
+            {
+                "ram": "1",
+                "name": "t3.micro",
+                "price": 0.1104,
+                "cpu_count": "2",
+                "computer": "galileo",
+                "machine_type": "gen",
+                "speed": "fast"
+            },
+            {
+                "ram": "2",
+                "name": "t3.small",
+                "price": 0.1208,
+                "cpu_count": "2",
+                "computer": "galileo",
+                "machine_type": "gen",
+                "speed": "fast"
+            },
+            {
+                "ram": "8",
+                "name": "t3.large",
+                "price": 0.1832,
+                "cpu_count": "2",
+                "computer": "galileo",
+                "machine_type": "gen",
+                "speed": "fast"
+            }
+        ]
+    }
+}

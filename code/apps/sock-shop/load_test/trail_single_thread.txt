@@ -1,0 +1,280 @@
+
+Start of newOrder
+line 65 time 57303
+line 67 time 307885
+line 77 time 17725466
+line 83 time 26616687
+line 89 time 27494667
+line 95 time 29348168
+itemsFuture external call 29466591
+paymentRequest external call 69923226
+paymentFuture external call 75708068
+customerFuture external call 76102234
+CustomerOrder external call 78647771
+Final duration 290591568
+
+Start of newOrder
+line 65 time 5353
+line 67 time 94410
+line 77 time 2294045
+line 83 time 3870081
+line 89 time 22410099
+line 95 time 23775191
+itemsFuture external call 23912462
+paymentRequest external call 24280525
+paymentFuture external call 25261336
+customerFuture external call 26000297
+CustomerOrder external call 26805751
+Final duration 40609150
+
+Start of newOrder
+line 65 time 2208
+line 67 time 101135
+line 77 time 1480971
+line 83 time 2095457
+line 89 time 3802424
+line 95 time 6170106
+itemsFuture external call 6347304
+paymentRequest external call 6619177
+paymentFuture external call 13332594
+customerFuture external call 13687185
+CustomerOrder external call 14248903
+Final duration 30237392
+
+Start of newOrder
+line 65 time 2055
+line 67 time 73971
+line 77 time 816913
+line 83 time 2020653
+line 89 time 3080429
+line 95 time 4221033
+itemsFuture external call 4374448
+paymentRequest external call 4832870
+paymentFuture external call 5771087
+customerFuture external call 6077981
+CustomerOrder external call 6641903
+Final duration 14525630
+
+Start of newOrder
+line 65 time 5785
+line 67 time 69866
+line 77 time 1058857
+line 83 time 2719744
+line 89 time 4312204
+line 95 time 4946957
+itemsFuture external call 5017230
+paymentRequest external call 5419363
+paymentFuture external call 6336745
+customerFuture external call 6970872
+CustomerOrder external call 7839578
+Final duration 30063854
+
+Start of newOrder
+line 65 time 1743
+line 67 time 136203
+line 77 time 765758
+line 83 time 3233637
+line 89 time 4800446
+line 95 time 5279868
+itemsFuture external call 5344997
+paymentRequest external call 5607038
+paymentFuture external call 6473279
+customerFuture external call 6746861
+CustomerOrder external call 7316486
+Final duration 19632530
+
+Start of newOrder
+line 65 time 1800
+line 67 time 64924
+line 77 time 641705
+line 83 time 1785522
+line 89 time 3364129
+line 95 time 12665937
+itemsFuture external call 12773163
+paymentRequest external call 13125542
+paymentFuture external call 14514091
+customerFuture external call 14913035
+CustomerOrder external call 15488932
+Final duration 33847968
+
+Start of newOrder
+line 65 time 5887
+line 67 time 67801
+line 77 time 1131573
+line 83 time 1755051
+line 89 time 3262109
+line 95 time 6219706
+itemsFuture external call 6301721
+paymentRequest external call 6804675
+paymentFuture external call 8228612
+customerFuture external call 8652159
+CustomerOrder external call 9131824
+Final duration 20002619
+
+Start of newOrder
+line 65 time 1765
+line 67 time 54011
+line 77 time 805906
+line 83 time 2291579
+line 89 time 4103065
+line 95 time 13288185
+itemsFuture external call 14148589
+paymentRequest external call 14389087
+paymentFuture external call 15407271
+customerFuture external call 15706934
+CustomerOrder external call 16332087
+Final duration 24337257
+
+Start of newOrder
+line 65 time 5497
+line 67 time 62734
+line 77 time 1238552
+line 83 time 9033125
+line 89 time 10524622
+line 95 time 11859121
+itemsFuture external call 11909764
+paymentRequest external call 12215053
+paymentFuture external call 13331537
+customerFuture external call 13655635
+CustomerOrder external call 14300977
+Final duration 22681745
+
+Start of newOrder
+line 65 time 1793
+line 67 time 49009
+line 77 time 945379
+line 83 time 1343950
+line 89 time 2644402
+line 95 time 3714924
+itemsFuture external call 3812235
+paymentRequest external call 3996604
+paymentFuture external call 5110797
+customerFuture external call 5541123
+CustomerOrder external call 6173988
+Final duration 14911859
+
+Start of newOrder
+line 65 time 1585
+line 67 time 46068
+line 77 time 974301
+line 83 time 2548817
+line 89 time 3675089
+line 95 time 5106595
+itemsFuture external call 5170403
+paymentRequest external call 5471132
+paymentFuture external call 6139404
+customerFuture external call 6489513
+CustomerOrder external call 6975917
+Final duration 16853591
+
+Start of newOrder
+line 65 time 1829
+line 67 time 59271
+line 77 time 1025025
+line 83 time 2676836
+line 89 time 3242052
+line 95 time 4675952
+itemsFuture external call 4743999
+paymentRequest external call 5011670
+paymentFuture external call 6060386
+customerFuture external call 6369789
+CustomerOrder external call 6884211
+Final duration 14905967
+
+Start of newOrder
+line 65 time 2220
+line 67 time 83393
+line 77 time 1899496
+line 83 time 4270554
+line 89 time 7433736
+line 95 time 8923033
+itemsFuture external call 9098986
+paymentRequest external call 9377630
+paymentFuture external call 10707131
+customerFuture external call 11036293
+CustomerOrder external call 11821876
+Final duration 24470176
+
+Start of newOrder
+line 65 time 5767
+line 67 time 67161
+line 77 time 941037
+line 83 time 1509158
+line 89 time 2733536
+line 95 time 3922892
+itemsFuture external call 3985446
+paymentRequest external call 4402749
+paymentFuture external call 5282915
+customerFuture external call 5928719
+CustomerOrder external call 6970872
+Final duration 20427360
+
+Start of newOrder
+line 65 time 5453
+line 67 time 62966
+line 77 time 748335
+line 83 time 2546954
+line 89 time 4153429
+line 95 time 5321856
+itemsFuture external call 5386399
+paymentRequest external call 5552659
+paymentFuture external call 6222282
+customerFuture external call 6508519
+CustomerOrder external call 7051395
+Final duration 14740489
+
+Start of newOrder
+line 65 time 2052
+line 67 time 49921
+line 77 time 810083
+line 83 time 2600645
+line 89 time 4041897
+line 95 time 5480861
+itemsFuture external call 5565390
+paymentRequest external call 5794114
+paymentFuture external call 6507987
+customerFuture external call 6716970
+CustomerOrder external call 7371088
+Final duration 19275862
+
+Start of newOrder
+line 65 time 1749
+line 67 time 54424
+line 77 time 818325
+line 83 time 3046982
+line 89 time 7263124
+line 95 time 8244772
+itemsFuture external call 8296663
+paymentRequest external call 8674457
+paymentFuture external call 9694361
+customerFuture external call 10187521
+CustomerOrder external call 11074193
+Final duration 25730211
+
+Start of newOrder
+line 65 time 1252
+line 67 time 51247
+line 77 time 848008
+line 83 time 2794466
+line 89 time 3845942
+line 95 time 4802392
+itemsFuture external call 4856872
+paymentRequest external call 5130163
+paymentFuture external call 11828609
+customerFuture external call 12229958
+CustomerOrder external call 13238284
+Final duration 23729801
+
+Start of newOrder
+line 65 time 1717
+line 67 time 43871
+line 77 time 556133
+line 83 time 2032300
+line 89 time 3607786
+line 95 time 4403628
+itemsFuture external call 4456344
+paymentRequest external call 4784271
+paymentFuture external call 5743979
+customerFuture external call 6138472
+CustomerOrder external call 6743719
+Final duration 12968098

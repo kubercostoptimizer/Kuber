@@ -1,0 +1,64 @@
+True,"(u'frontend',)",a1.medium,False
+True,"(u'frontend',)",M6.medium,False
+True,"(u'frontend',)",a1.large,True
+True,"(u'geo',)",a1.medium,True
+True,"(u'profile',)",a1.medium,True
+True,"(u'rate',)",a1.medium,True
+True,"(u'recommendation',)",a1.medium,True
+True,"(u'reservation',)",a1.medium,True
+True,"(u'search',)",a1.medium,True
+True,"(u'user',)",a1.medium,False
+True,"(u'user',)",M6.medium,True
+True,"(u'frontend', u'geo')",a1.large,True
+True,"(u'frontend', u'profile')",a1.large,True
+True,"(u'frontend', u'rate')",a1.large,False
+True,"(u'frontend', u'rate')",M6.large,False
+True,"(u'frontend', u'rate')",a1.xlarge,False
+True,"(u'frontend', u'rate')",t3.micro,False
+True,"(u'frontend', u'rate')",t3.small,False
+True,"(u'frontend', u'recommendation')",a1.large,False
+True,"(u'frontend', u'recommendation')",M6.large,False
+True,"(u'frontend', u'recommendation')",a1.xlarge,True
+True,"(u'frontend', u'reservation')",a1.large,False
+True,"(u'frontend', u'reservation')",M6.large,False
+True,"(u'frontend', u'reservation')",a1.xlarge,True
+True,"(u'frontend', u'search')",a1.large,True
+True,"(u'frontend', u'user')",a1.large,True
+True,"(u'geo', u'profile')",a1.medium,True
+True,"(u'geo', u'rate')",a1.medium,False
+True,"(u'geo', u'rate')",M6.medium,True
+True,"(u'geo', u'recommendation')",a1.medium,True
+True,"(u'geo', u'reservation')",a1.medium,True
+True,"(u'geo', u'search')",a1.medium,True
+True,"(u'geo', u'user')",M6.medium,True
+True,"(u'profile', u'rate')",a1.medium,False
+True,"(u'profile', u'rate')",M6.medium,False
+True,"(u'profile', u'rate')",a1.large,True
+True,"(u'profile', u'recommendation')",a1.medium,True
+True,"(u'profile', u'reservation')",a1.medium,True
+True,"(u'profile', u'search')",a1.medium,False
+True,"(u'profile', u'search')",M6.medium,False
+True,"(u'profile', u'search')",a1.large,True
+True,"(u'profile', u'user')",M6.medium,False
+True,"(u'profile', u'user')",a1.large,True
+True,"(u'rate', u'recommendation')",a1.medium,False
+True,"(u'rate', u'recommendation')",M6.medium,True
+True,"(u'rate', u'reservation')",a1.medium,True
+True,"(u'rate', u'search')",a1.medium,True
+True,"(u'rate', u'user')",M6.medium,False
+True,"(u'recommendation', u'reservation')",a1.medium,True
+True,"(u'recommendation', u'search')",a1.medium,True
+True,"(u'recommendation', u'user')",M6.medium,False
+True,"(u'reservation', u'search')",a1.medium,False
+True,"(u'frontend', u'geo', u'profile')",a1.large,False
+True,"(u'frontend', u'geo', u'search')",a1.large,True
+True,"(u'frontend', u'geo', u'user')",a1.large,False
+True,"(u'frontend', u'profile', u'search')",a1.large,True
+True,"(u'frontend', u'profile', u'user')",a1.large,False
+True,"(u'frontend', u'profile', u'user')",M6.large,False
+True,"(u'frontend', u'search', u'user')",a1.large,True
+True,"(u'geo', u'profile', u'recommendation')",a1.medium,False
+True,"(u'geo', u'profile', u'recommendation')",M6.medium,False
+True,"(u'geo', u'profile', u'reservation')",a1.medium,False
+True,"(u'geo', u'rate', u'recommendation')",M6.medium,False
+True,"(u'geo', u'rate', u'reservation')",M6.medium,True

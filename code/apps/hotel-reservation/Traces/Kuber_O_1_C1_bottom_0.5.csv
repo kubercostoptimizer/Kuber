@@ -1,0 +1,788 @@
+True,"(u'frontend',)",a1.medium,False
+True,"(u'frontend',)",M6.medium,False
+True,"(u'frontend',)",a1.large,True
+True,"(u'geo',)",a1.medium,True
+True,"(u'profile',)",a1.medium,True
+True,"(u'rate',)",a1.medium,True
+True,"(u'recommendation',)",a1.medium,True
+True,"(u'reservation',)",a1.medium,True
+True,"(u'search',)",a1.medium,True
+True,"(u'user',)",a1.medium,False
+True,"(u'user',)",M6.medium,True
+True,"(u'frontend', u'geo')",a1.large,True
+True,"(u'frontend', u'profile')",a1.large,True
+True,"(u'frontend', u'rate')",a1.large,False
+True,"(u'frontend', u'rate')",M6.large,False
+True,"(u'frontend', u'rate')",a1.xlarge,False
+True,"(u'frontend', u'rate')",t3.micro,False
+True,"(u'frontend', u'rate')",t3.small,False
+True,"(u'frontend', u'recommendation')",a1.large,False
+True,"(u'frontend', u'recommendation')",M6.large,False
+True,"(u'frontend', u'recommendation')",a1.xlarge,True
+True,"(u'frontend', u'reservation')",a1.large,False
+True,"(u'frontend', u'reservation')",M6.large,False
+True,"(u'frontend', u'reservation')",a1.xlarge,True
+True,"(u'frontend', u'search')",a1.large,True
+True,"(u'frontend', u'user')",a1.large,True
+True,"(u'geo', u'profile')",a1.medium,True
+True,"(u'geo', u'rate')",a1.medium,False
+True,"(u'geo', u'rate')",M6.medium,True
+True,"(u'geo', u'recommendation')",a1.medium,True
+True,"(u'geo', u'reservation')",a1.medium,True
+True,"(u'geo', u'search')",a1.medium,True
+True,"(u'geo', u'user')",M6.medium,True
+True,"(u'profile', u'rate')",a1.medium,False
+True,"(u'profile', u'rate')",M6.medium,False
+True,"(u'profile', u'rate')",a1.large,True
+True,"(u'profile', u'recommendation')",a1.medium,True
+True,"(u'profile', u'reservation')",a1.medium,True
+True,"(u'profile', u'search')",a1.medium,False
+True,"(u'profile', u'search')",M6.medium,False
+True,"(u'profile', u'search')",a1.large,True
+True,"(u'profile', u'user')",M6.medium,False
+True,"(u'profile', u'user')",a1.large,True
+True,"(u'rate', u'recommendation')",a1.medium,False
+True,"(u'rate', u'recommendation')",M6.medium,True
+True,"(u'rate', u'reservation')",a1.medium,True
+True,"(u'rate', u'search')",a1.medium,True
+True,"(u'rate', u'user')",M6.medium,False
+True,"(u'recommendation', u'reservation')",a1.medium,True
+True,"(u'recommendation', u'search')",a1.medium,True
+True,"(u'recommendation', u'user')",M6.medium,False
+True,"(u'reservation', u'search')",a1.medium,False
+True,"(u'frontend', u'geo', u'profile')",a1.large,False
+True,"(u'frontend', u'geo', u'search')",a1.large,True
+True,"(u'frontend', u'geo', u'user')",a1.large,False
+True,"(u'frontend', u'profile', u'search')",a1.large,True
+True,"(u'frontend', u'profile', u'user')",a1.large,False
+True,"(u'frontend', u'profile', u'user')",M6.large,False
+True,"(u'frontend', u'search', u'user')",a1.large,True
+True,"(u'geo', u'profile', u'recommendation')",a1.medium,False
+True,"(u'geo', u'profile', u'recommendation')",M6.medium,False
+True,"(u'geo', u'profile', u'reservation')",a1.medium,False
+True,"(u'geo', u'rate', u'recommendation')",M6.medium,False
+True,"(u'geo', u'rate', u'reservation')",M6.medium,True
+False,"(u'geo', u'rate', u'reservation')",a1.medium,False
+False,"(u'geo', u'rate', u'search')",a1.medium,False
+False,"(u'geo', u'rate', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'user')",M6.medium,False
+False,"(u'geo', u'recommendation', u'user')",a1.medium,False
+False,"(u'geo', u'recommendation', u'user')",M6.medium,False
+False,"(u'geo', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation')",M6.medium,False
+False,"(u'profile', u'rate', u'reservation')",a1.medium,False
+False,"(u'profile', u'rate', u'reservation')",M6.medium,False
+False,"(u'profile', u'rate', u'search')",a1.medium,False
+False,"(u'profile', u'rate', u'search')",M6.medium,False
+False,"(u'profile', u'rate', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'user')",M6.medium,False
+False,"(u'profile', u'recommendation', u'search')",a1.medium,False
+False,"(u'profile', u'recommendation', u'search')",M6.medium,False
+False,"(u'profile', u'recommendation', u'user')",a1.medium,False
+False,"(u'profile', u'recommendation', u'user')",M6.medium,False
+False,"(u'profile', u'reservation', u'search')",a1.medium,False
+False,"(u'profile', u'reservation', u'search')",M6.medium,False
+False,"(u'profile', u'reservation', u'user')",a1.medium,False
+False,"(u'profile', u'reservation', u'user')",M6.medium,False
+False,"(u'profile', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'search', u'user')",M6.medium,False
+False,"(u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'rate', u'search', u'user')",a1.medium,False
+False,"(u'rate', u'search', u'user')",M6.medium,False
+False,"(u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'reservation')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'reservation')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'search')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'search')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'search')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation')",t3.small,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'search')",t3.small,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'user')",t3.small,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'rate', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'geo', u'profile', u'rate', u'recommendation')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'reservation', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'profile', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'profile', u'rate', u'reservation', u'search')",M6.medium,False
+False,"(u'profile', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'profile', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'profile', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'profile', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'profile', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'profile', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'profile', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'profile', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'profile', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'profile', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'rate', u'recommendation', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'recommendation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'profile', u'rate', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'profile', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'geo', u'rate', u'recommendation', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.large,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.xlarge,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",t3.micro,False
+False,"(u'frontend', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",t3.small,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",a1.medium,False
+False,"(u'geo', u'profile', u'rate', u'recommendation', u'reservation', u'search', u'user')",M6.medium,False

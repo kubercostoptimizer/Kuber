@@ -1,0 +1,60 @@
+S_B,0.0312,1.7736000000000005,71,"set([u'comservice5', u'comservice3'])",VM1_80p_5,"set([u'comservice2', u'comservice1'])",VM1_80p_5,set([u'comservice4']),VM1_80p_5
+S_T,0.0312,0.8644999999999997,51,"set([u'comservice5', u'comservice3'])",VM1_80p_5,"set([u'comservice2', u'comservice1'])",VM1_80p_5,set([u'comservice4']),VM1_80p_5
+S_M,0.0312,0.9164999999999998,56,"set([u'comservice3', u'comservice1'])",VM1_80p_5,"set([u'comservice5', u'comservice4'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+S_N,0.0312,2.303200000000003,94,"set([u'comservice3', u'comservice1'])",VM1_80p_5,"set([u'comservice5', u'comservice4'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+
+B_T,0.0801,2.434000000000001,71,"set([u'comservice5', u'comservice3', u'comservice2', u'comservice1'])",VM5_80p_5,set([u'comservice4']),VM4_80p_5
+B_B,0.102,5.339000000000005,71,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM9_80p_5
+B_M,0.0801,1.9041999999999994,45,"set([u'comservice5', u'comservice3', u'comservice2', u'comservice1'])",VM5_80p_5,set([u'comservice4']),VM4_80p_5
+B_N,0.0801,6.369200000000003,119,"set([u'comservice5', u'comservice3', u'comservice2', u'comservice1'])",VM5_80p_5,set([u'comservice4']),VM4_80p_5
+
+R_T,0.0385,0.22889999999999994,9,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM4_80p_5
+R_M,0.0416,0.7537999999999999,20,"set([u'comservice5', u'comservice4', u'comservice3'])",VM2_80p_5,"set([u'comservice2', u'comservice1'])",VM2_80p_5
+R_B,0.0832,4.494299999999999,41,"set([u'comservice2', u'comservice1'])",VM5_80p_5,"set([u'comservice5', u'comservice4', u'comservice3'])",VM5_80p_5
+R_N,0.0385,3.3320999999999987,49,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM4_80p_5
+
+S_B,0.0312,1.0814999999999997,56,"set([u'comservice5', u'comservice3'])",VM1_40p_5,"set([u'comservice2', u'comservice1'])",VM1_40p_5,set([u'comservice4']),VM1_40p_5
+S_M,0.0312,0.7635000000000001,50,"set([u'comservice3', u'comservice1'])",VM1_40p_5,"set([u'comservice5', u'comservice4'])",VM1_40p_5,set([u'comservice2']),VM1_40p_5
+S_N,0.0312,1.2941999999999994,69,"set([u'comservice5', u'comservice4'])",VM1_40p_5,"set([u'comservice3', u'comservice1'])",VM1_40p_5,set([u'comservice2']),VM1_40p_5
+S_T,0.0312,0.7114999999999998,45,"set([u'comservice5', u'comservice3'])",VM1_40p_5,"set([u'comservice2', u'comservice1'])",VM1_40p_5,set([u'comservice4']),VM1_40p_5
+
+B_T,0.0312,0.7198999999999998,41,"set([u'comservice3', u'comservice1'])",VM1_40p_5,"set([u'comservice5', u'comservice2'])",VM1_40p_5,set([u'comservice4']),VM1_40p_5
+B_B,0.0312,3.0450000000000017,102,"set([u'comservice5', u'comservice3'])",VM1_40p_5,"set([u'comservice2', u'comservice1'])",VM1_40p_5,set([u'comservice4']),VM1_40p_5
+B_M,0.0312,0.7718999999999999,46,"set([u'comservice3', u'comservice1'])",VM1_40p_5,"set([u'comservice5', u'comservice4'])",VM1_40p_5,set([u'comservice2']),VM1_40p_5
+B_N,0.0312,3.0705000000000044,103,"set([u'comservice3', u'comservice1'])",VM1_40p_5,set([u'comservice2']),VM1_40p_5,"set([u'comservice5', u'comservice4'])",VM1_40p_5
+
+R_B,0.0385,3.6091,33,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM4_40p_5
+R_N,0.0416,2.7909000000000006,34,"set([u'comservice5', u'comservice3'])",VM1_40p_5,"set([u'comservice2', u'comservice1'])",VM1_40p_5,set([u'comservice4']),VM2_40p_5
+R_T,0.0385,0.23359999999999995,9,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM4_40p_5
+R_M,0.0385,0.1727,9,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM4_40p_5
+
+
+S_T,0.0416,0.0416,1,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+S_B,0.0416,1.2896,31,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+S_M,0.0416,0.0416,1,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+S_N,0.0416,1.2896,31,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+
+S_T,0.0416,0.0416,1,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_80p_5
+S_B,0.0416,1.2896,31,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_80p_5
+S_M,0.0416,0.0416,1,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_80p_5
+S_N,0.0416,1.2896,31,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_80p_5
+
+B_T,0.0832,2.5132,38,"set([u'comservice5', u'comservice3'])",VM1_80p_5,"set([u'comservice4', u'comservice2', u'comservice1'])",VM1_80p_5
+B_B,0.102,8.367000000000004,77,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM5_80p_5
+B_M,0.102,2.587,38,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM5_80p_5
+B_N,0.0832,8.064200000000001,93,"set([u'comservice4', u'comservice3', u'comservice1'])",VM1_80p_5,"set([u'comservice5', u'comservice2'])",VM1_80p_5
+
+B_T,0.0416,0.17579999999999998,3,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+B_B,0.102,8.367000000000004,77,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM5_40p_5
+B_M,0.0416,0.17579999999999998,3,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+B_N,0.0416,7.083799999999999,93,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5
+
+R_T,0.0832,0.4473999999999999,8,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_B,0.0832,4.9926,36,"set([u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_80p_5,set([u'comservice5']),VM1_80p_5
+R_M,0.0832,0.47339999999999993,8,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2'])",VM1_80p_5,set([u'comservice1']),VM1_80p_5
+R_N,0.0416,4.619000000000001,39,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_80p_5
+
+R_M,0.051,0.2528,5,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM2_40p_5
+R_N,0.0832,4.473399999999999,31,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice1'])",VM1_40p_5,set([u'comservice2']),VM1_40p_5
+R_T,0.0832,0.4473999999999999,8,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice1'])",VM1_40p_5,set([u'comservice2']),VM1_40p_5
+R_B,0.0416,4.013800000000001,33,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM1_40p_5

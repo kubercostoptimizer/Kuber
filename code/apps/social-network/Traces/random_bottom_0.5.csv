@@ -1,0 +1,16 @@
+True,"(u'user-service',)",t3.small,True
+True,"(u'social-graph-service',)",t3.large,True
+True,"(u'compose-post-service',)",M6.large,False
+True,"(u'compose-post-service',)",M6.medium,False
+True,"(u'compose-post-service',)",a1.xlarge,False
+True,"(u'compose-post-service',)",a1.large,False
+True,"(u'compose-post-service',)",t3.large,True
+True,"(u'post-storage-service',)",t3.small,True
+True,"(u'user-timeline-service',)",M6.medium,True
+True,"(u'write-home-timeline-service',)",a1.large,True
+True,"(u'home-timeline-service',)",a1.large,True
+True,"(u'media-service',)",a1.2xlarge,True
+True,"(u'text-service',)",t3.large,True
+True,"(u'unique-id-service',)",t3.micro,True
+True,"(u'url-shorten-service',)",a1.2xlarge,True
+True,"(u'user-mention-service',)",t3.large,True

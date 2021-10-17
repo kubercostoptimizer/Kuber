@@ -1,0 +1,14 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: DestinationRule
+metadata:
+  name: reservation
+spec:
+  host: reservation.hotel-reservation.svc.cluster.local
+  trafficPolicy:
+    connectionPool:
+      tcp:
+        maxConnections: 1
+        connectTimeout: 30ms
+      http:
+        http2MaxRequests: 1
+        maxRequestsPerConnection: 1

@@ -1,0 +1,24 @@
+184.32,24,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,23,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,22,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,21,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,20,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,19,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,18,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,17,195,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,16,193,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,15,180,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,14,170,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,13,158,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,12,146,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,11,139,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,10,129,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,9,112,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,8,100,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,7,85,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+184.32,6,67,"set(['comservice4', 'comservice2', 'comservice1'])",VM10_40p_5,"set([u'comservice5', u'comservice3'])",VM9_40p_5
+220.32,5,60,"set(['comservice3', 'comservice1'])",VM9_40p_5,"set(['comservice4', 'comservice2'])",VM9_40p_5,set([u'comservice5']),VM9_40p_5
+220.32,4,43,"set(['comservice3', 'comservice1'])",VM9_40p_5,"set(['comservice4', 'comservice2'])",VM9_40p_5,set([u'comservice5']),VM9_40p_5
+515.52,3,30,"set(['comservice3', 'comservice1'])",VM9_40p_5,set(['comservice2']),VM11_40p_5,set(['comservice4']),VM12_40p_5,set([u'comservice5']),VM9_40p_5
+515.52,2,20,"set(['comservice3', 'comservice1'])",VM9_40p_5,set(['comservice5']),VM9_40p_5,set(['comservice2']),VM11_40p_5,set([u'comservice4']),VM12_40p_5
+,1,0

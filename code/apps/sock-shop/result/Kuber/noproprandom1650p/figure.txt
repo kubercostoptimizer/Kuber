@@ -1,0 +1,26 @@
+blockdiag { group { label = '0'; orientation= portrait; paymentcartsfront-end [label = "payment,carts,front-end,", width = 160, height = 80];
+paymentcartsfront-endt3micro [label = "",background ="/wd/code/Infrastructure/static/1.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-end -> paymentcartsfront-endt3micro [dir = none];
+paymentcartsfront-endt3small [label = "",background ="/wd/code/Infrastructure/static/2.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endt3micro -> paymentcartsfront-endt3small [dir = none];
+paymentcartsfront-enda1medium [label = "",background ="/wd/code/Infrastructure/static/3.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endt3small -> paymentcartsfront-enda1medium [dir = none];
+paymentcartsfront-endM6medium [label = "",background ="/wd/code/Infrastructure/static/4.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-enda1medium -> paymentcartsfront-endM6medium [dir = none];
+paymentcartsfront-endt3medium [label = "",background ="/wd/code/Infrastructure/static/5.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endM6medium -> paymentcartsfront-endt3medium [dir = none];
+paymentcartsfront-enda1large [label = "",background ="/wd/code/Infrastructure/static/6.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endt3medium -> paymentcartsfront-enda1large [dir = none];
+paymentcartsfront-endM6large [label = "",background ="/wd/code/Infrastructure/static/7.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-enda1large -> paymentcartsfront-endM6large [dir = none];
+paymentcartsfront-endt3large [label = "",background ="/wd/code/Infrastructure/static/8.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endM6large -> paymentcartsfront-endt3large [dir = none];
+paymentcartsfront-enda1xlarge [label = "",background ="/wd/code/Infrastructure/static/9.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endt3large -> paymentcartsfront-enda1xlarge [dir = none];
+paymentcartsfront-endM6xlarge [label = "",background ="/wd/code/Infrastructure/static/10.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-enda1xlarge -> paymentcartsfront-endM6xlarge [dir = none];
+paymentcartsfront-enda12xlarge [label = "",background ="/wd/code/Infrastructure/static/11.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-endM6xlarge -> paymentcartsfront-enda12xlarge [dir = none];
+paymentcartsfront-endM62xlarge [label = "",background ="/wd/code/Infrastructure/static/12.png", width = 80, height = 80,  shape= "circle", color = "red"];
+paymentcartsfront-enda12xlarge -> paymentcartsfront-endM62xlarge [dir = none];
+}  paymentcartsfront-end } 

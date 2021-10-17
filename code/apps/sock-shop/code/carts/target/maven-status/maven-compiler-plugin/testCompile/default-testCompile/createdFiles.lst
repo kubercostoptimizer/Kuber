@@ -1,0 +1,13 @@
+works/weave/socks/cart/controllers/UnitHealthCheckController.class
+works/weave/socks/cart/repositories/ITCartRepository.class
+works/weave/socks/cart/cart/UnitCartResource.class
+works/weave/socks/cart/cart/UnitCartContentsResource.class
+works/weave/socks/cart/item/UnitFoundItem.class
+works/weave/socks/cart/controllers/UnitCartsController.class
+works/weave/socks/cart/item/UnitItemResource.class
+works/weave/socks/cart/controllers/UnitHealthCheckController$HealthCheckControllerTestConfiguration.class
+works/weave/socks/cart/controllers/UnitItemsController.class
+works/weave/socks/cart/repositories/ITItemRepository.class
+works/weave/socks/cart/action/UnitFirstResultOrDefault.class
+works/weave/socks/cart/controllers/UnitItemsController$ItemsControllerTestConfiguration.class
+works/weave/socks/cart/controllers/UnitCartsController$ItemsControllerTestConfiguration.class

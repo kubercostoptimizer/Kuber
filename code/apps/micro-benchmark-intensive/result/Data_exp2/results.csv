@@ -1,0 +1,633 @@
+exp_id,service_combination,vm_type,service_name,API_name,performance_value(ms)
+315,"('comservice5',)",M6.2xlarge,comservice5,run,0.001
+156,"('comservice1',)",M6.large,comservice1,run,0.001
+157,"('comservice2',)",M6.large,comservice2,run,0.001
+158,"('comservice3',)",M6.large,comservice3,run,0.0009
+159,"('comservice4',)",M6.large,comservice4,run,0.001
+160,"('comservice5',)",M6.large,comservice5,run,0.001
+186,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice1,run,0.0053
+186,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice2,run,0.001
+186,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice3,run,0.001
+186,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.0009
+186,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.001
+66,"('comservice4',)",a1.medium,comservice4,run,0.001
+67,"('comservice5',)",a1.medium,comservice5,run,0.001
+93,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice1,run,0.0136
+93,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice2,run,0.0107
+93,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice3,run,0.0072
+93,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.0009
+93,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.0062
+65,"('comservice3',)",a1.medium,comservice3,run,0.002
+1,"('comservice1',)",t3.micro,comservice1,run,0.001
+2,"('comservice2',)",t3.micro,comservice2,run,0.001
+3,"('comservice3',)",t3.micro,comservice3,run,0.001
+4,"('comservice4',)",t3.micro,comservice4,run,0.001
+5,"('comservice5',)",t3.micro,comservice5,run,0.001
+31,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice1,run,0.001
+31,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice2,run,0.0
+31,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice3,run,0.001
+31,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.0019
+31,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.001
+249,"('comservice1',)",M6.xlarge,comservice1,run,0.001
+250,"('comservice2',)",M6.xlarge,comservice2,run,0.001
+251,"('comservice3',)",M6.xlarge,comservice3,run,0.0
+252,"('comservice4',)",M6.xlarge,comservice4,run,0.0019
+253,"('comservice5',)",M6.xlarge,comservice5,run,0.002
+94,"('comservice1',)",M6.medium,comservice1,run,0.0
+95,"('comservice2',)",M6.medium,comservice2,run,0.0019
+98,"('comservice5',)",M6.medium,comservice5,run,0.0
+97,"('comservice4',)",M6.medium,comservice4,run,0.0017
+125,"('comservice1',)",a1.large,comservice1,run,0.001
+126,"('comservice2',)",a1.large,comservice2,run,0.0018
+129,"('comservice5',)",a1.large,comservice5,run,0.0011
+128,"('comservice4',)",a1.large,comservice4,run,0.0
+127,"('comservice3',)",a1.large,comservice3,run,0.001
+155,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice1,run,0.0
+155,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice2,run,0.0
+155,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice3,run,0.001
+155,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice4,run,0.001
+155,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice5,run,0.0
+191,"('comservice5',)",t3.large,comservice5,run,0.001
+190,"('comservice4',)",t3.large,comservice4,run,0.001
+189,"('comservice3',)",t3.large,comservice3,run,0.001
+187,"('comservice1',)",t3.large,comservice1,run,0.001
+217,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice1,run,0.0
+217,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice2,run,0.001
+217,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice3,run,0.001
+217,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice4,run,0.001
+217,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice5,run,0.001
+64,"('comservice2',)",a1.medium,comservice2,run,0.001
+63,"('comservice1',)",a1.medium,comservice1,run,0.001
+188,"('comservice2',)",t3.large,comservice2,run,0.0008
+96,"('comservice3',)",M6.medium,comservice3,run,0.001
+26,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.micro,comservice1,run,0.001
+26,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.micro,comservice2,run,0.0018
+26,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.micro,comservice3,run,0.0018
+26,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.micro,comservice4,run,0.0017
+124,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice1,run,0.001
+124,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice2,run,0.0298
+124,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice3,run,0.001
+124,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice4,run,0.0036
+124,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice5,run,0.0055
+19,"('comservice1', 'comservice3', 'comservice4')",t3.micro,comservice1,run,0.001
+19,"('comservice1', 'comservice3', 'comservice4')",t3.micro,comservice3,run,0.001
+19,"('comservice1', 'comservice3', 'comservice4')",t3.micro,comservice4,run,0.001
+88,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.medium,comservice1,run,0.001
+88,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.medium,comservice2,run,0.0008
+88,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.medium,comservice3,run,0.0008
+88,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.medium,comservice4,run,0.0018
+279,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.xlarge,comservice1,run,0.001
+279,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.xlarge,comservice2,run,0.001
+279,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.xlarge,comservice3,run,0.0
+279,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.xlarge,comservice4,run,0.0028
+279,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.xlarge,comservice5,run,0.001
+33,"('comservice2',)",t3.small,comservice2,run,0.001
+35,"('comservice4',)",t3.small,comservice4,run,0.001
+42,"('comservice2', 'comservice4')",t3.small,comservice2,run,0.001
+42,"('comservice2', 'comservice4')",t3.small,comservice4,run,0.001
+281,"('comservice2',)",a1.2xlarge,comservice2,run,0.0018
+220,"('comservice3',)",a1.xlarge,comservice3,run,0.002
+313,"('comservice3',)",M6.2xlarge,comservice3,run,0.0008
+221,"('comservice4',)",a1.xlarge,comservice4,run,0.001
+36,"('comservice5',)",t3.small,comservice5,run,0.001
+161,"('comservice1', 'comservice2')",M6.large,comservice1,run,0.001
+161,"('comservice1', 'comservice2')",M6.large,comservice2,run,0.0038
+6,"('comservice1', 'comservice2')",t3.micro,comservice1,run,0.001
+6,"('comservice1', 'comservice2')",t3.micro,comservice2,run,0.001
+282,"('comservice3',)",a1.2xlarge,comservice3,run,0.001
+286,"('comservice1', 'comservice3')",a1.2xlarge,comservice1,run,0.0
+286,"('comservice1', 'comservice3')",a1.2xlarge,comservice3,run,0.001
+280,"('comservice1',)",a1.2xlarge,comservice1,run,0.001
+32,"('comservice1',)",t3.small,comservice1,run,0.001
+39,"('comservice1', 'comservice4')",t3.small,comservice1,run,0.001
+39,"('comservice1', 'comservice4')",t3.small,comservice4,run,0.0008
+133,"('comservice1', 'comservice5')",a1.large,comservice1,run,0.001
+133,"('comservice1', 'comservice5')",a1.large,comservice5,run,0.001
+258,"('comservice2', 'comservice3')",M6.xlarge,comservice2,run,0.001
+258,"('comservice2', 'comservice3')",M6.xlarge,comservice3,run,0.001
+166,"('comservice2', 'comservice4')",M6.large,comservice2,run,0.001
+166,"('comservice2', 'comservice4')",M6.large,comservice4,run,0.001
+43,"('comservice2', 'comservice5')",t3.small,comservice2,run,0.001
+43,"('comservice2', 'comservice5')",t3.small,comservice5,run,0.0019
+12,"('comservice2', 'comservice5')",t3.micro,comservice2,run,0.0009
+12,"('comservice2', 'comservice5')",t3.micro,comservice5,run,0.002
+74,"('comservice2', 'comservice5')",a1.medium,comservice2,run,0.0044
+74,"('comservice2', 'comservice5')",a1.medium,comservice5,run,0.004
+312,"('comservice2',)",M6.2xlarge,comservice2,run,0.001
+322,"('comservice2', 'comservice5')",M6.2xlarge,comservice2,run,0.001
+322,"('comservice2', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+168,"('comservice3', 'comservice4')",M6.large,comservice3,run,0.0028
+168,"('comservice3', 'comservice4')",M6.large,comservice4,run,0.001
+13,"('comservice3', 'comservice4')",t3.micro,comservice3,run,0.001
+13,"('comservice3', 'comservice4')",t3.micro,comservice4,run,0.001
+284,"('comservice5',)",a1.2xlarge,comservice5,run,0.001
+293,"('comservice3', 'comservice5')",a1.2xlarge,comservice3,run,0.001
+293,"('comservice3', 'comservice5')",a1.2xlarge,comservice5,run,0.001
+139,"('comservice4', 'comservice5')",a1.large,comservice4,run,0.001
+139,"('comservice4', 'comservice5')",a1.large,comservice5,run,0.001
+264,"('comservice1', 'comservice2', 'comservice3')",M6.xlarge,comservice1,run,0.001
+264,"('comservice1', 'comservice2', 'comservice3')",M6.xlarge,comservice2,run,0.0
+264,"('comservice1', 'comservice2', 'comservice3')",M6.xlarge,comservice3,run,0.001
+17,"('comservice1', 'comservice2', 'comservice4')",t3.micro,comservice1,run,0.001
+17,"('comservice1', 'comservice2', 'comservice4')",t3.micro,comservice2,run,0.001
+17,"('comservice1', 'comservice2', 'comservice4')",t3.micro,comservice4,run,0.0028
+48,"('comservice1', 'comservice2', 'comservice4')",t3.small,comservice1,run,0.001
+48,"('comservice1', 'comservice2', 'comservice4')",t3.small,comservice2,run,0.0019
+48,"('comservice1', 'comservice2', 'comservice4')",t3.small,comservice4,run,0.001
+203,"('comservice1', 'comservice2', 'comservice4')",t3.large,comservice1,run,0.0027
+203,"('comservice1', 'comservice2', 'comservice4')",t3.large,comservice2,run,0.001
+203,"('comservice1', 'comservice2', 'comservice4')",t3.large,comservice4,run,0.001
+79,"('comservice1', 'comservice2', 'comservice4')",a1.medium,comservice1,run,0.0038
+79,"('comservice1', 'comservice2', 'comservice4')",a1.medium,comservice2,run,0.001
+79,"('comservice1', 'comservice2', 'comservice4')",a1.medium,comservice4,run,0.0051
+218,"('comservice1',)",a1.xlarge,comservice1,run,0.001
+219,"('comservice2',)",a1.xlarge,comservice2,run,0.001
+234,"('comservice1', 'comservice2', 'comservice4')",a1.xlarge,comservice1,run,0.0008
+234,"('comservice1', 'comservice2', 'comservice4')",a1.xlarge,comservice2,run,0.0008
+234,"('comservice1', 'comservice2', 'comservice4')",a1.xlarge,comservice4,run,0.001
+222,"('comservice5',)",a1.xlarge,comservice5,run,0.001
+235,"('comservice1', 'comservice2', 'comservice5')",a1.xlarge,comservice1,run,0.001
+235,"('comservice1', 'comservice2', 'comservice5')",a1.xlarge,comservice2,run,0.001
+235,"('comservice1', 'comservice2', 'comservice5')",a1.xlarge,comservice5,run,0.001
+175,"('comservice1', 'comservice3', 'comservice5')",M6.large,comservice1,run,0.001
+175,"('comservice1', 'comservice3', 'comservice5')",M6.large,comservice3,run,0.0068
+175,"('comservice1', 'comservice3', 'comservice5')",M6.large,comservice5,run,0.0
+113,"('comservice1', 'comservice3', 'comservice5')",M6.medium,comservice1,run,0.0
+113,"('comservice1', 'comservice3', 'comservice5')",M6.medium,comservice3,run,0.0018
+113,"('comservice1', 'comservice3', 'comservice5')",M6.medium,comservice5,run,0.001
+311,"('comservice1',)",M6.2xlarge,comservice1,run,0.001
+330,"('comservice1', 'comservice3', 'comservice5')",M6.2xlarge,comservice1,run,0.0
+330,"('comservice1', 'comservice3', 'comservice5')",M6.2xlarge,comservice3,run,0.001
+330,"('comservice1', 'comservice3', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+238,"('comservice1', 'comservice4', 'comservice5')",a1.xlarge,comservice1,run,0.0009
+238,"('comservice1', 'comservice4', 'comservice5')",a1.xlarge,comservice4,run,0.0009
+238,"('comservice1', 'comservice4', 'comservice5')",a1.xlarge,comservice5,run,0.0019
+21,"('comservice1', 'comservice4', 'comservice5')",t3.micro,comservice1,run,0.001
+21,"('comservice1', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.0018
+21,"('comservice1', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.001
+176,"('comservice1', 'comservice4', 'comservice5')",M6.large,comservice1,run,0.001
+176,"('comservice1', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.001
+176,"('comservice1', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.001
+22,"('comservice2', 'comservice3', 'comservice4')",t3.micro,comservice2,run,0.001
+22,"('comservice2', 'comservice3', 'comservice4')",t3.micro,comservice3,run,0.001
+22,"('comservice2', 'comservice3', 'comservice4')",t3.micro,comservice4,run,0.001
+178,"('comservice2', 'comservice3', 'comservice5')",M6.large,comservice2,run,0.001
+178,"('comservice2', 'comservice3', 'comservice5')",M6.large,comservice3,run,0.001
+178,"('comservice2', 'comservice3', 'comservice5')",M6.large,comservice5,run,0.001
+241,"('comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice2,run,0.001
+241,"('comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice4,run,0.0027
+241,"('comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice5,run,0.001
+179,"('comservice2', 'comservice4', 'comservice5')",M6.large,comservice2,run,0.0008
+179,"('comservice2', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.001
+179,"('comservice2', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.0018
+210,"('comservice2', 'comservice4', 'comservice5')",t3.large,comservice2,run,0.0019
+210,"('comservice2', 'comservice4', 'comservice5')",t3.large,comservice4,run,0.001
+210,"('comservice2', 'comservice4', 'comservice5')",t3.large,comservice5,run,0.001
+314,"('comservice4',)",M6.2xlarge,comservice4,run,0.001
+334,"('comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice2,run,0.001
+334,"('comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice4,run,0.0018
+334,"('comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice5,run,0.0008
+149,"('comservice3', 'comservice4', 'comservice5')",a1.large,comservice3,run,0.0
+149,"('comservice3', 'comservice4', 'comservice5')",a1.large,comservice4,run,0.0009
+149,"('comservice3', 'comservice4', 'comservice5')",a1.large,comservice5,run,0.0009
+336,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice1,run,0.001
+336,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice2,run,0.001
+336,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice3,run,0.001
+336,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice4,run,0.002
+337,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice1,run,0.001
+337,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice2,run,0.0
+337,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice3,run,0.0018
+337,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice5,run,0.0
+213,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.large,comservice1,run,0.0008
+213,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.large,comservice2,run,0.001
+213,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.large,comservice3,run,0.0018
+213,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.large,comservice5,run,0.001
+34,"('comservice3',)",t3.small,comservice3,run,0.001
+60,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice1,run,0.001
+60,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice3,run,0.001
+60,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.0008
+60,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.001
+341,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice1,run,0.001
+341,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice2,run,0.0008
+341,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice3,run,0.001
+341,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice4,run,0.001
+341,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice5,run,0.0008
+61,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice2,run,0.001
+61,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice3,run,0.001
+61,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.001
+61,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.002
+30,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice2,run,0.001
+30,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice3,run,0.0047
+30,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.0
+30,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.001
+216,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice2,run,0.001
+216,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice3,run,0.001
+216,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice4,run,0.001
+216,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice5,run,0.001
+247,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice2,run,0.001
+247,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice3,run,0.001
+247,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice4,run,0.0008
+247,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice5,run,0.001
+184,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice1,run,0.0
+184,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice3,run,0.0027
+184,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.001
+184,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.001
+215,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice1,run,0.0008
+215,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice3,run,0.0047
+215,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice4,run,0.001
+215,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.large,comservice5,run,0.0
+153,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice1,run,0.0009
+153,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice3,run,0.001
+153,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice4,run,0.0029
+153,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice5,run,0.0019
+183,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.large,comservice1,run,0.0018
+183,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.large,comservice2,run,0.001
+183,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.001
+183,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.001
+90,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.medium,comservice1,run,0.0099
+90,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.medium,comservice2,run,0.0
+90,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.0079
+90,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.0009
+59,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.small,comservice1,run,0.0084
+59,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.small,comservice2,run,0.001
+59,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.0019
+59,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.001
+245,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice1,run,0.002
+245,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice2,run,0.001
+245,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice4,run,0.001
+245,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.xlarge,comservice5,run,0.001
+214,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.large,comservice1,run,0.001
+214,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.large,comservice2,run,0.001
+214,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.large,comservice4,run,0.0
+214,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.large,comservice5,run,0.0009
+91,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice1,run,0.001
+91,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice3,run,0.0129
+91,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.0048
+91,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.0
+246,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice1,run,0.002
+246,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice3,run,0.001
+246,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice4,run,0.001
+246,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.xlarge,comservice5,run,0.001
+182,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.large,comservice1,run,0.0
+182,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.large,comservice2,run,0.0
+182,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.large,comservice3,run,0.001
+182,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.large,comservice5,run,0.0009
+89,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.medium,comservice1,run,0.0
+89,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.medium,comservice2,run,0.0
+89,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.medium,comservice3,run,0.0
+89,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.medium,comservice5,run,0.0
+57,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.small,comservice1,run,0.0
+57,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.small,comservice2,run,0.0
+57,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.small,comservice3,run,0.0
+57,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.small,comservice4,run,0.0
+25,"('comservice3', 'comservice4', 'comservice5')",t3.micro,comservice3,run,0.0
+25,"('comservice3', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.0
+25,"('comservice3', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.0
+275,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.xlarge,comservice1,run,0.0009
+275,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.xlarge,comservice2,run,0.0008
+275,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.xlarge,comservice3,run,0.0008
+275,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.xlarge,comservice5,run,0.0
+7,"('comservice1', 'comservice3')",t3.micro,comservice1,run,0.001
+7,"('comservice1', 'comservice3')",t3.micro,comservice3,run,0.001
+151,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.large,comservice1,run,0.0008
+151,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.large,comservice2,run,0.0018
+151,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.large,comservice3,run,0.001
+151,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.large,comservice5,run,0.001
+116,"('comservice2', 'comservice3', 'comservice5')",M6.medium,comservice2,run,0.0044
+116,"('comservice2', 'comservice3', 'comservice5')",M6.medium,comservice3,run,0.0087
+116,"('comservice2', 'comservice3', 'comservice5')",M6.medium,comservice5,run,0.0085
+16,"('comservice1', 'comservice2', 'comservice3')",t3.micro,comservice1,run,0.001
+16,"('comservice1', 'comservice2', 'comservice3')",t3.micro,comservice2,run,0.001
+16,"('comservice1', 'comservice2', 'comservice3')",t3.micro,comservice3,run,0.001
+62,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice1,run,0.0027
+62,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice2,run,0.0
+62,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice3,run,0.0144
+62,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.0008
+62,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.0
+339,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice1,run,0.001
+339,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice3,run,0.001
+339,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice4,run,0.001
+339,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+338,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice1,run,0.001
+338,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice2,run,0.0009
+338,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice4,run,0.001
+338,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.2xlarge,comservice5,run,0.0018
+28,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.micro,comservice1,run,0.0018
+28,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.micro,comservice2,run,0.001
+28,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.001
+28,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.0
+58,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.small,comservice1,run,0.0011
+58,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.small,comservice2,run,0.001
+58,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.small,comservice3,run,0.001
+58,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.small,comservice5,run,0.0
+212,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.large,comservice1,run,0.001
+212,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.large,comservice2,run,0.0025
+212,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.large,comservice3,run,0.0027
+212,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",t3.large,comservice4,run,0.001
+86,"('comservice2', 'comservice4', 'comservice5')",a1.medium,comservice2,run,0.0027
+86,"('comservice2', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.0
+86,"('comservice2', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.005
+55,"('comservice2', 'comservice4', 'comservice5')",t3.small,comservice2,run,0.0009
+55,"('comservice2', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.001
+55,"('comservice2', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.001
+209,"('comservice2', 'comservice3', 'comservice5')",t3.large,comservice2,run,0.0019
+209,"('comservice2', 'comservice3', 'comservice5')",t3.large,comservice3,run,0.0009
+209,"('comservice2', 'comservice3', 'comservice5')",t3.large,comservice5,run,0.0009
+54,"('comservice2', 'comservice3', 'comservice5')",t3.small,comservice2,run,0.001
+54,"('comservice2', 'comservice3', 'comservice5')",t3.small,comservice3,run,0.0
+54,"('comservice2', 'comservice3', 'comservice5')",t3.small,comservice5,run,0.001
+208,"('comservice2', 'comservice3', 'comservice4')",t3.large,comservice2,run,0.001
+208,"('comservice2', 'comservice3', 'comservice4')",t3.large,comservice3,run,0.0008
+208,"('comservice2', 'comservice3', 'comservice4')",t3.large,comservice4,run,0.001
+283,"('comservice4',)",a1.2xlarge,comservice4,run,0.0
+298,"('comservice1', 'comservice3', 'comservice4')",a1.2xlarge,comservice1,run,0.001
+298,"('comservice1', 'comservice3', 'comservice4')",a1.2xlarge,comservice3,run,0.001
+298,"('comservice1', 'comservice3', 'comservice4')",a1.2xlarge,comservice4,run,0.001
+171,"('comservice1', 'comservice2', 'comservice3')",M6.large,comservice1,run,0.0068
+171,"('comservice1', 'comservice2', 'comservice3')",M6.large,comservice2,run,0.001
+171,"('comservice1', 'comservice2', 'comservice3')",M6.large,comservice3,run,0.0018
+47,"('comservice1', 'comservice2', 'comservice3')",t3.small,comservice1,run,0.0018
+47,"('comservice1', 'comservice2', 'comservice3')",t3.small,comservice2,run,0.001
+47,"('comservice1', 'comservice2', 'comservice3')",t3.small,comservice3,run,0.0035
+202,"('comservice1', 'comservice2', 'comservice3')",t3.large,comservice1,run,0.0037
+202,"('comservice1', 'comservice2', 'comservice3')",t3.large,comservice2,run,0.001
+202,"('comservice1', 'comservice2', 'comservice3')",t3.large,comservice3,run,0.001
+15,"('comservice4', 'comservice5')",t3.micro,comservice4,run,0.0021
+15,"('comservice4', 'comservice5')",t3.micro,comservice5,run,0.0022
+201,"('comservice4', 'comservice5')",t3.large,comservice4,run,0.0008
+201,"('comservice4', 'comservice5')",t3.large,comservice5,run,0.001
+198,"('comservice2', 'comservice5')",t3.large,comservice2,run,0.0008
+198,"('comservice2', 'comservice5')",t3.large,comservice5,run,0.001
+228,"('comservice2', 'comservice4')",a1.xlarge,comservice2,run,0.001
+228,"('comservice2', 'comservice4')",a1.xlarge,comservice4,run,0.001
+288,"('comservice1', 'comservice5')",a1.2xlarge,comservice1,run,0.001
+288,"('comservice1', 'comservice5')",a1.2xlarge,comservice5,run,0.001
+287,"('comservice1', 'comservice4')",a1.2xlarge,comservice1,run,0.001
+287,"('comservice1', 'comservice4')",a1.2xlarge,comservice4,run,0.0008
+38,"('comservice1', 'comservice3')",t3.small,comservice1,run,0.001
+38,"('comservice1', 'comservice3')",t3.small,comservice3,run,0.001
+223,"('comservice1', 'comservice2')",a1.xlarge,comservice1,run,0.0008
+223,"('comservice1', 'comservice2')",a1.xlarge,comservice2,run,0.001
+310,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice1,run,0.0009
+310,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice2,run,0.001
+310,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice3,run,0.0
+310,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice4,run,0.0
+310,"('comservice1', 'comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice5,run,0.0019
+308,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice1,run,0.001
+308,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice3,run,0.001
+308,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice4,run,0.002
+308,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice5,run,0.0
+181,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.large,comservice1,run,0.001
+181,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.large,comservice2,run,0.0008
+181,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.large,comservice3,run,0.0008
+181,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.large,comservice4,run,0.0008
+154,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice2,run,0.0056
+154,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice3,run,0.001
+154,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice4,run,0.001
+154,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.large,comservice5,run,0.001
+92,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice2,run,0.0047
+92,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice3,run,0.0098
+92,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.001
+92,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.0029
+83,"('comservice1', 'comservice4', 'comservice5')",a1.medium,comservice1,run,0.001
+83,"('comservice1', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.0008
+83,"('comservice1', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.0035
+145,"('comservice1', 'comservice4', 'comservice5')",a1.large,comservice1,run,0.001
+145,"('comservice1', 'comservice4', 'comservice5')",a1.large,comservice4,run,0.001
+145,"('comservice1', 'comservice4', 'comservice5')",a1.large,comservice5,run,0.001
+120,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.medium,comservice1,run,0.001
+120,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.medium,comservice2,run,0.0028
+120,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.medium,comservice3,run,0.001
+120,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",M6.medium,comservice5,run,0.0
+150,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.large,comservice1,run,0.0027
+150,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.large,comservice2,run,0.0029
+150,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.large,comservice3,run,0.0062
+150,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",a1.large,comservice4,run,0.001
+143,"('comservice1', 'comservice3', 'comservice4')",a1.large,comservice1,run,0.001
+143,"('comservice1', 'comservice3', 'comservice4')",a1.large,comservice3,run,0.001
+143,"('comservice1', 'comservice3', 'comservice4')",a1.large,comservice4,run,0.001
+18,"('comservice1', 'comservice2', 'comservice5')",t3.micro,comservice1,run,0.001
+18,"('comservice1', 'comservice2', 'comservice5')",t3.micro,comservice2,run,0.0008
+18,"('comservice1', 'comservice2', 'comservice5')",t3.micro,comservice5,run,0.0
+87,"('comservice3', 'comservice4', 'comservice5')",a1.medium,comservice3,run,0.0105
+87,"('comservice3', 'comservice4', 'comservice5')",a1.medium,comservice4,run,0.0138
+87,"('comservice3', 'comservice4', 'comservice5')",a1.medium,comservice5,run,0.001
+77,"('comservice4', 'comservice5')",a1.medium,comservice4,run,0.001
+77,"('comservice4', 'comservice5')",a1.medium,comservice5,run,0.0
+46,"('comservice4', 'comservice5')",t3.small,comservice4,run,0.0027
+46,"('comservice4', 'comservice5')",t3.small,comservice5,run,0.001
+146,"('comservice2', 'comservice3', 'comservice4')",a1.large,comservice2,run,0.001
+146,"('comservice2', 'comservice3', 'comservice4')",a1.large,comservice3,run,0.0027
+146,"('comservice2', 'comservice3', 'comservice4')",a1.large,comservice4,run,0.001
+84,"('comservice2', 'comservice3', 'comservice4')",a1.medium,comservice2,run,0.0052
+84,"('comservice2', 'comservice3', 'comservice4')",a1.medium,comservice3,run,0.0054
+84,"('comservice2', 'comservice3', 'comservice4')",a1.medium,comservice4,run,0.0008
+73,"('comservice2', 'comservice4')",a1.medium,comservice2,run,0.0045
+73,"('comservice2', 'comservice4')",a1.medium,comservice4,run,0.004
+8,"('comservice1', 'comservice4')",t3.micro,comservice1,run,0.0008
+8,"('comservice1', 'comservice4')",t3.micro,comservice4,run,0.0017
+69,"('comservice1', 'comservice3')",a1.medium,comservice1,run,0.0111
+69,"('comservice1', 'comservice3')",a1.medium,comservice3,run,0.0008
+254,"('comservice1', 'comservice2')",M6.xlarge,comservice1,run,0.001
+254,"('comservice1', 'comservice2')",M6.xlarge,comservice2,run,0.001
+192,"('comservice1', 'comservice2')",t3.large,comservice1,run,0.001
+192,"('comservice1', 'comservice2')",t3.large,comservice2,run,0.001
+162,"('comservice1', 'comservice3')",M6.large,comservice1,run,0.0018
+162,"('comservice1', 'comservice3')",M6.large,comservice3,run,0.0008
+255,"('comservice1', 'comservice3')",M6.xlarge,comservice1,run,0.002
+255,"('comservice1', 'comservice3')",M6.xlarge,comservice3,run,0.001
+163,"('comservice1', 'comservice4')",M6.large,comservice1,run,0.0
+163,"('comservice1', 'comservice4')",M6.large,comservice4,run,0.001
+70,"('comservice1', 'comservice4')",a1.medium,comservice1,run,0.0028
+70,"('comservice1', 'comservice4')",a1.medium,comservice4,run,0.001
+132,"('comservice1', 'comservice4')",a1.large,comservice1,run,0.0018
+132,"('comservice1', 'comservice4')",a1.large,comservice4,run,0.001
+164,"('comservice1', 'comservice5')",M6.large,comservice1,run,0.001
+164,"('comservice1', 'comservice5')",M6.large,comservice5,run,0.0009
+71,"('comservice1', 'comservice5')",a1.medium,comservice1,run,0.0
+71,"('comservice1', 'comservice5')",a1.medium,comservice5,run,0.0008
+9,"('comservice1', 'comservice5')",t3.micro,comservice1,run,0.0008
+9,"('comservice1', 'comservice5')",t3.micro,comservice5,run,0.0008
+165,"('comservice2', 'comservice3')",M6.large,comservice2,run,0.0018
+165,"('comservice2', 'comservice3')",M6.large,comservice3,run,0.001
+196,"('comservice2', 'comservice3')",t3.large,comservice2,run,0.001
+196,"('comservice2', 'comservice3')",t3.large,comservice3,run,0.001
+167,"('comservice2', 'comservice5')",M6.large,comservice2,run,0.0035
+167,"('comservice2', 'comservice5')",M6.large,comservice5,run,0.0018
+292,"('comservice3', 'comservice4')",a1.2xlarge,comservice3,run,0.0
+292,"('comservice3', 'comservice4')",a1.2xlarge,comservice4,run,0.001
+169,"('comservice3', 'comservice5')",M6.large,comservice3,run,0.0019
+169,"('comservice3', 'comservice5')",M6.large,comservice5,run,0.001
+170,"('comservice4', 'comservice5')",M6.large,comservice4,run,0.0
+170,"('comservice4', 'comservice5')",M6.large,comservice5,run,0.0008
+326,"('comservice1', 'comservice2', 'comservice3')",M6.2xlarge,comservice1,run,0.001
+326,"('comservice1', 'comservice2', 'comservice3')",M6.2xlarge,comservice2,run,0.0019
+326,"('comservice1', 'comservice2', 'comservice3')",M6.2xlarge,comservice3,run,0.0009
+327,"('comservice1', 'comservice2', 'comservice4')",M6.2xlarge,comservice1,run,0.001
+327,"('comservice1', 'comservice2', 'comservice4')",M6.2xlarge,comservice2,run,0.001
+327,"('comservice1', 'comservice2', 'comservice4')",M6.2xlarge,comservice4,run,0.001
+328,"('comservice1', 'comservice2', 'comservice5')",M6.2xlarge,comservice1,run,0.001
+328,"('comservice1', 'comservice2', 'comservice5')",M6.2xlarge,comservice2,run,0.0011
+328,"('comservice1', 'comservice2', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+299,"('comservice1', 'comservice3', 'comservice5')",a1.2xlarge,comservice1,run,0.001
+299,"('comservice1', 'comservice3', 'comservice5')",a1.2xlarge,comservice3,run,0.0
+299,"('comservice1', 'comservice3', 'comservice5')",a1.2xlarge,comservice5,run,0.001
+332,"('comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice2,run,0.0009
+332,"('comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice3,run,0.001
+332,"('comservice2', 'comservice3', 'comservice4')",M6.2xlarge,comservice4,run,0.001
+333,"('comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice2,run,0.001
+333,"('comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice3,run,0.002
+333,"('comservice2', 'comservice3', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+304,"('comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice3,run,0.001
+304,"('comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice4,run,0.001
+304,"('comservice3', 'comservice4', 'comservice5')",a1.2xlarge,comservice5,run,0.0
+123,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice2,run,0.001
+123,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice3,run,0.0039
+123,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice4,run,0.001
+123,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice5,run,0.001
+68,"('comservice1', 'comservice2')",a1.medium,comservice1,run,0.0068
+68,"('comservice1', 'comservice2')",a1.medium,comservice2,run,0.0028
+185,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice2,run,0.001
+185,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice3,run,0.001
+185,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.001
+185,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.001
+180,"('comservice3', 'comservice4', 'comservice5')",M6.large,comservice3,run,0.001
+180,"('comservice3', 'comservice4', 'comservice5')",M6.large,comservice4,run,0.001
+180,"('comservice3', 'comservice4', 'comservice5')",M6.large,comservice5,run,0.0009
+177,"('comservice2', 'comservice3', 'comservice4')",M6.large,comservice2,run,0.0036
+177,"('comservice2', 'comservice3', 'comservice4')",M6.large,comservice3,run,0.001
+177,"('comservice2', 'comservice3', 'comservice4')",M6.large,comservice4,run,0.0
+174,"('comservice1', 'comservice3', 'comservice4')",M6.large,comservice1,run,0.001
+174,"('comservice1', 'comservice3', 'comservice4')",M6.large,comservice3,run,0.0027
+174,"('comservice1', 'comservice3', 'comservice4')",M6.large,comservice4,run,0.001
+173,"('comservice1', 'comservice2', 'comservice5')",M6.large,comservice1,run,0.001
+173,"('comservice1', 'comservice2', 'comservice5')",M6.large,comservice2,run,0.0028
+173,"('comservice1', 'comservice2', 'comservice5')",M6.large,comservice5,run,0.001
+172,"('comservice1', 'comservice2', 'comservice4')",M6.large,comservice1,run,0.001
+172,"('comservice1', 'comservice2', 'comservice4')",M6.large,comservice2,run,0.001
+172,"('comservice1', 'comservice2', 'comservice4')",M6.large,comservice4,run,0.001
+29,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice1,run,0.0009
+29,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice3,run,0.0019
+29,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.0008
+29,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.0037
+10,"('comservice2', 'comservice3')",t3.micro,comservice2,run,0.0
+10,"('comservice2', 'comservice3')",t3.micro,comservice3,run,0.001
+11,"('comservice2', 'comservice4')",t3.micro,comservice2,run,0.001
+11,"('comservice2', 'comservice4')",t3.micro,comservice4,run,0.0019
+14,"('comservice3', 'comservice5')",t3.micro,comservice3,run,0.001
+14,"('comservice3', 'comservice5')",t3.micro,comservice5,run,0.0019
+45,"('comservice3', 'comservice5')",t3.small,comservice3,run,0.001
+45,"('comservice3', 'comservice5')",t3.small,comservice5,run,0.001
+204,"('comservice1', 'comservice2', 'comservice5')",t3.large,comservice1,run,0.001
+204,"('comservice1', 'comservice2', 'comservice5')",t3.large,comservice2,run,0.0
+204,"('comservice1', 'comservice2', 'comservice5')",t3.large,comservice5,run,0.001
+50,"('comservice1', 'comservice3', 'comservice4')",t3.small,comservice1,run,0.001
+50,"('comservice1', 'comservice3', 'comservice4')",t3.small,comservice3,run,0.0008
+50,"('comservice1', 'comservice3', 'comservice4')",t3.small,comservice4,run,0.001
+51,"('comservice1', 'comservice3', 'comservice5')",t3.small,comservice1,run,0.001
+51,"('comservice1', 'comservice3', 'comservice5')",t3.small,comservice3,run,0.001
+51,"('comservice1', 'comservice3', 'comservice5')",t3.small,comservice5,run,0.001
+53,"('comservice2', 'comservice3', 'comservice4')",t3.small,comservice2,run,0.0009
+53,"('comservice2', 'comservice3', 'comservice4')",t3.small,comservice3,run,0.0009
+53,"('comservice2', 'comservice3', 'comservice4')",t3.small,comservice4,run,0.001
+27,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.micro,comservice1,run,0.001
+27,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.micro,comservice2,run,0.001
+27,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.micro,comservice3,run,0.001
+27,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",t3.micro,comservice5,run,0.0019
+24,"('comservice2', 'comservice4', 'comservice5')",t3.micro,comservice2,run,0.0019
+24,"('comservice2', 'comservice4', 'comservice5')",t3.micro,comservice4,run,0.001
+24,"('comservice2', 'comservice4', 'comservice5')",t3.micro,comservice5,run,0.0009
+23,"('comservice2', 'comservice3', 'comservice5')",t3.micro,comservice2,run,0.0009
+23,"('comservice2', 'comservice3', 'comservice5')",t3.micro,comservice3,run,0.001
+23,"('comservice2', 'comservice3', 'comservice5')",t3.micro,comservice5,run,0.0019
+52,"('comservice1', 'comservice4', 'comservice5')",t3.small,comservice1,run,0.001
+52,"('comservice1', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.001
+52,"('comservice1', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.001
+20,"('comservice1', 'comservice3', 'comservice5')",t3.micro,comservice1,run,0.0009
+20,"('comservice1', 'comservice3', 'comservice5')",t3.micro,comservice3,run,0.0
+20,"('comservice1', 'comservice3', 'comservice5')",t3.micro,comservice5,run,0.001
+100,"('comservice1', 'comservice3')",M6.medium,comservice1,run,0.0019
+100,"('comservice1', 'comservice3')",M6.medium,comservice3,run,0.001
+131,"('comservice1', 'comservice3')",a1.large,comservice1,run,0.001
+131,"('comservice1', 'comservice3')",a1.large,comservice3,run,0.001
+137,"('comservice3', 'comservice4')",a1.large,comservice3,run,0.001
+137,"('comservice3', 'comservice4')",a1.large,comservice4,run,0.001
+107,"('comservice3', 'comservice5')",M6.medium,comservice3,run,0.0037
+107,"('comservice3', 'comservice5')",M6.medium,comservice5,run,0.0027
+138,"('comservice3', 'comservice5')",a1.large,comservice3,run,0.001
+138,"('comservice3', 'comservice5')",a1.large,comservice5,run,0.001
+205,"('comservice1', 'comservice3', 'comservice4')",t3.large,comservice1,run,0.0019
+205,"('comservice1', 'comservice3', 'comservice4')",t3.large,comservice3,run,0.0009
+205,"('comservice1', 'comservice3', 'comservice4')",t3.large,comservice4,run,0.001
+37,"('comservice1', 'comservice2')",t3.small,comservice1,run,0.001
+37,"('comservice1', 'comservice2')",t3.small,comservice2,run,0.001
+226,"('comservice1', 'comservice5')",a1.xlarge,comservice1,run,0.001
+226,"('comservice1', 'comservice5')",a1.xlarge,comservice5,run,0.001
+197,"('comservice2', 'comservice4')",t3.large,comservice2,run,0.001
+197,"('comservice2', 'comservice4')",t3.large,comservice4,run,0.001
+206,"('comservice1', 'comservice3', 'comservice5')",t3.large,comservice1,run,0.001
+206,"('comservice1', 'comservice3', 'comservice5')",t3.large,comservice3,run,0.001
+206,"('comservice1', 'comservice3', 'comservice5')",t3.large,comservice5,run,0.001
+331,"('comservice1', 'comservice4', 'comservice5')",M6.2xlarge,comservice1,run,0.001
+331,"('comservice1', 'comservice4', 'comservice5')",M6.2xlarge,comservice4,run,0.001
+331,"('comservice1', 'comservice4', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+121,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.medium,comservice1,run,0.0106
+121,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.medium,comservice2,run,0.0042
+121,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.medium,comservice4,run,0.007
+121,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",M6.medium,comservice5,run,0.0028
+40,"('comservice1', 'comservice5')",t3.small,comservice1,run,0.001
+40,"('comservice1', 'comservice5')",t3.small,comservice5,run,0.001
+119,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.medium,comservice1,run,0.0043
+119,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.medium,comservice2,run,0.0043
+119,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.medium,comservice3,run,0.001
+119,"('comservice1', 'comservice2', 'comservice3', 'comservice4')",M6.medium,comservice4,run,0.001
+340,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice2,run,0.0
+340,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice3,run,0.0019
+340,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice4,run,0.0009
+340,"('comservice2', 'comservice3', 'comservice4', 'comservice5')",M6.2xlarge,comservice5,run,0.0009
+323,"('comservice3', 'comservice4')",M6.2xlarge,comservice3,run,0.001
+323,"('comservice3', 'comservice4')",M6.2xlarge,comservice4,run,0.001
+316,"('comservice1', 'comservice2')",M6.2xlarge,comservice1,run,0.001
+316,"('comservice1', 'comservice2')",M6.2xlarge,comservice2,run,0.0008
+317,"('comservice1', 'comservice3')",M6.2xlarge,comservice1,run,0.001
+317,"('comservice1', 'comservice3')",M6.2xlarge,comservice3,run,0.0
+318,"('comservice1', 'comservice4')",M6.2xlarge,comservice1,run,0.001
+318,"('comservice1', 'comservice4')",M6.2xlarge,comservice4,run,0.001
+324,"('comservice3', 'comservice5')",M6.2xlarge,comservice3,run,0.001
+324,"('comservice3', 'comservice5')",M6.2xlarge,comservice5,run,0.001
+232,"('comservice4', 'comservice5')",a1.xlarge,comservice4,run,0.001
+232,"('comservice4', 'comservice5')",a1.xlarge,comservice5,run,0.001
+152,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.large,comservice1,run,0.001
+152,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.large,comservice2,run,0.0018
+152,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.large,comservice4,run,0.0018
+152,"('comservice1', 'comservice2', 'comservice4', 'comservice5')",a1.large,comservice5,run,0.0008
+122,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice1,run,0.0133
+122,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice3,run,0.0052
+122,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice4,run,0.0
+122,"('comservice1', 'comservice3', 'comservice4', 'comservice5')",M6.medium,comservice5,run,0.001
+306,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.2xlarge,comservice1,run,0.002
+306,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.2xlarge,comservice2,run,0.001
+306,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.2xlarge,comservice3,run,0.001
+306,"('comservice1', 'comservice2', 'comservice3', 'comservice5')",a1.2xlarge,comservice5,run,0.001
+80,"('comservice1', 'comservice2', 'comservice5')",a1.medium,comservice1,run,0.0
+80,"('comservice1', 'comservice2', 'comservice5')",a1.medium,comservice2,run,0.0027
+80,"('comservice1', 'comservice2', 'comservice5')",a1.medium,comservice5,run,0.001
+82,"('comservice1', 'comservice3', 'comservice5')",a1.medium,comservice1,run,0.0
+82,"('comservice1', 'comservice3', 'comservice5')",a1.medium,comservice3,run,0.0008
+82,"('comservice1', 'comservice3', 'comservice5')",a1.medium,comservice5,run,0.0099
+111,"('comservice1', 'comservice2', 'comservice5')",M6.medium,comservice1,run,0.0042
+111,"('comservice1', 'comservice2', 'comservice5')",M6.medium,comservice2,run,0.0042
+111,"('comservice1', 'comservice2', 'comservice5')",M6.medium,comservice5,run,0.001
+109,"('comservice1', 'comservice2', 'comservice3')",M6.medium,comservice1,run,0.0008
+109,"('comservice1', 'comservice2', 'comservice3')",M6.medium,comservice2,run,0.0018
+109,"('comservice1', 'comservice2', 'comservice3')",M6.medium,comservice3,run,0.0066
+78,"('comservice1', 'comservice2', 'comservice3')",a1.medium,comservice1,run,0.0069
+78,"('comservice1', 'comservice2', 'comservice3')",a1.medium,comservice2,run,0.0091
+78,"('comservice1', 'comservice2', 'comservice3')",a1.medium,comservice3,run,0.001
+102,"('comservice1', 'comservice5')",M6.medium,comservice1,run,0.0092
+102,"('comservice1', 'comservice5')",M6.medium,comservice5,run,0.0044
+41,"('comservice2', 'comservice3')",t3.small,comservice2,run,0.001
+41,"('comservice2', 'comservice3')",t3.small,comservice3,run,0.001
+56,"('comservice3', 'comservice4', 'comservice5')",t3.small,comservice3,run,0.001
+56,"('comservice3', 'comservice4', 'comservice5')",t3.small,comservice4,run,0.001
+56,"('comservice3', 'comservice4', 'comservice5')",t3.small,comservice5,run,0.0008

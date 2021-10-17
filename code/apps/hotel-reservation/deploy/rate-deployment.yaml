@@ -1,0 +1,35 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose.yml
+    kompose.version: 1.19.0 (f63a961c)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: rate
+  name: rate
+spec:
+  replicas: 1
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert -f docker-compose.yml
+        kompose.version: 1.19.0 (f63a961c)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: rate
+    spec:
+      containers:
+      - command:
+        - rate
+        image: khv129/hotel_reserv_rate_single_node
+        name: hotel-reserv-rate
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8084
+        resources: {}
+      restartPolicy: Always
+      imagePullSecrets:
+      - name: regcred
+status: {}

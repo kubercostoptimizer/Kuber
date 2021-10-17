@@ -1,0 +1,10 @@
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/cart/UnitCartResource.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/repositories/ITItemRepository.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/item/UnitFoundItem.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/controllers/UnitHealthCheckController.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/controllers/UnitCartsController.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/repositories/ITCartRepository.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/action/UnitFirstResultOrDefault.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/item/UnitItemResource.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/cart/UnitCartContentsResource.java
+/root/2020_Kuber/code/apps/sock-shop/code/carts/src/test/java/works/weave/socks/cart/controllers/UnitItemsController.java

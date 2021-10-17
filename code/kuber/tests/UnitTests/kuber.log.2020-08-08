@@ -1,0 +1,14 @@
+2020-08-08 00:27:06,017 : experiment_state : 162 : INFO : [Experiment] Initializing experiment state
+2020-08-08 00:27:06,018 : experiment_state : 129 : INFO : [Experiment] loading experiments from /wd/code/apps/hotel-reservation/state/experiments.json
+2020-08-08 00:27:06,104 : experiment_state : 144 : INFO : [Experiment] loading experiment state from /wd/code/apps/hotel-reservation/state/experiment_ids.json
+2020-08-08 00:27:06,119 : BO_run : 38 : INFO : [BO] Running VM type with 8 gen 16
+2020-08-08 00:27:06,129 : results_controller : 161 : INFO : [Results Controller] getting best VM (u'reservation', u'profile', u'frontend', u'rate') a1.xlarge
+2020-08-08 00:27:06,139 : results_controller : 161 : INFO : [Results Controller] getting best VM (u'reservation', u'profile', u'frontend', u'rate') a1.xlarge
+2020-08-08 00:27:06,140 : BO_run : 43 : INFO : ------------------------------------------ Returning bad value or from cache --------------------------------------------
+2020-08-08 00:28:13,288 : experiment_state : 162 : INFO : [Experiment] Initializing experiment state
+2020-08-08 00:28:13,289 : experiment_state : 129 : INFO : [Experiment] loading experiments from /wd/code/apps/hotel-reservation/state/experiments.json
+2020-08-08 00:28:13,364 : experiment_state : 144 : INFO : [Experiment] loading experiment state from /wd/code/apps/hotel-reservation/state/experiment_ids.json
+2020-08-08 00:28:13,385 : BO_run : 38 : INFO : [BO] Running VM type with 4 gen 8
+2020-08-08 00:28:13,386 : BO_run : 75 : INFO : [BO] already ran a1.xlarge
+2020-08-08 00:28:13,396 : results_controller : 161 : INFO : [Results Controller] getting best VM (u'reservation', u'profile', u'frontend', u'rate') a1.xlarge
+2020-08-08 00:28:13,397 : BO_run : 43 : INFO : ------------------------------------------ Returning bad value or from cache --------------------------------------------

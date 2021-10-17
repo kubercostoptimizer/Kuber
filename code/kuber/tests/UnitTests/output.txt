@@ -1,0 +1,8 @@
+2021-08-17 08:51:45,119 - root - INFO - [Experiment] Initializing experiment state
+2021-08-17 08:51:45,120 - root - INFO - [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 08:51:45,878 - root - INFO - [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.009s
+
+OK

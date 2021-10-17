@@ -1,0 +1,126 @@
+
+{
+  "Application": 
+      {
+          "name": "hotel-reservation",
+          "services": ["reservation","profile","frontend","rate","recommendation"],
+          "front-end": "frontend",
+          "port": "5000"
+      },
+  "Profiling":
+      {
+        "load_gen":
+          {
+           "time_limit":"1m",
+           "concurrent":"10",
+           "throughput": "1"
+          },
+          "analysis":
+          {
+            "percentile":"50",
+            "precision":"4",
+            "outliers_removal": "1"
+          }
+      },
+  "Infrastructure":
+      {
+        "Cloud_provider": "opennebula",
+        "vm_types":[
+                {
+                  "name"          : "m4.large",
+                  "cpu_count"     : "2",
+                  "ram"           : "8",
+                  "computer"      : "leibnitz",
+                  "speed"         : "slow",
+                  "price"         : 0.10
+                },
+                {
+                  "name"          : "m4.xlarge",
+                  "cpu_count"     : "4",
+                  "ram"           : "16",
+                  "computer"      : "leibnitz",
+                  "speed"         : "slow",
+                  "price"         : 0.20
+                },
+                {
+                  "name"          : "m4.2xlarge",
+                  "cpu_count"     : "8",
+                  "ram"           : "32",
+                  "computer"      : "leibnitz",
+                  "speed"         : "slow",
+                  "price"         : 0.40
+                },
+                {
+                  "name"          : "m4.4xlarge",
+                  "cpu_count"     : "16",
+                  "ram"           : "64",
+                  "computer"      : "leibnitz",
+                  "speed"         : "slow",
+                  "price"         : 0.80
+                },
+                {   
+                  "name"          : "c4.large",
+                  "cpu_count"     : "2",
+                  "ram"           : "3.75",
+                  "speed"         : "fast",
+                  "computer"      : "galileo",
+                  "price"         : 0.10
+                },   {   
+                  "name"          : "c4.xlarge",
+                  "cpu_count"     : "4",
+                  "ram"           : "7.5",
+                  "speed"         : "fast",
+                  "computer"      : "galileo",
+                  "price"         : 0.199
+                },  
+                {   
+                  "name"          : "c4.2xlarge",
+                  "cpu_count"     : "8",
+                  "ram"           : "15",
+                  "speed"         : "fast",
+                  "computer"      : "galileo",
+                  "price"         : 0.398
+                },  
+                {   
+                  "name"          : "c4.4xlarge",
+                  "cpu_count"     : "16",
+                  "ram"           : "30",
+                  "speed"         : "fast",
+                  "computer"      : "galileo",
+                  "price"         : 0.796
+                },
+                {   
+                  "name"          : "r4.large",
+                  "cpu_count"     : "2",
+                  "ram"           : "15.25",
+                  "speed"         : "slow",
+                  "computer"      : "newton",
+                  "price"         : 0.133
+                },  
+                {   
+                  "name"          : "r4.xlarge",
+                  "cpu_count"     : "4",
+                  "ram"           : "30.5",
+                  "speed"         : "slow",
+                  "computer"      : "newton",
+                  "price"         : 0.266
+                },  
+                {   
+                  "name"          : "r4.2xlarge",
+                  "cpu_count"     : "8",
+                  "ram"           : "61.0",
+                  "speed"         : "slow",
+                  "computer"      : "newton",
+                  "price"         : 0.532
+                },  
+                {   
+                  "name"          : "r4.4xlarge",
+                  "cpu_count"     : "16",
+                  "ram"           : "122.0",
+                  "speed"         : "slow",
+                  "computer"      : "newton",
+                  "price"         : 1.064
+                }
+              ]
+      }
+}

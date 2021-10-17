@@ -1,0 +1,366 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: micro-benchmark
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: comservice1
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-service
+    app-name: comservice1
+spec:
+  ports:
+  - port: 8080
+  selector:
+    benchmark: compute-pod
+    app-name: comservice1
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: comservice1
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-deployment
+    app-name: comservice1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+         benchmark: compute-pod
+         app-name: comservice1
+  template:
+    metadata:
+      labels: 
+        benchmark: compute-pod
+        app-name: comservice1
+      name: micro-benchmark
+    spec:
+      containers:
+      - name: micro-benchmark
+        image: khv129/micro-benchmark
+        ports: 
+        - containerPort: 8080
+        imagePullPolicy: Always
+        env:
+         - name: JAEGER_SERVICE_NAME
+           value: "comservice1"
+         - name: JAEGER_AGENT_HOST
+           value: "jaeger-agent.istio-system.svc.cluster.local"
+         - name: JAEGER_AGENT_PORT
+           value: "5775"
+         - name: JAEGER_SAMPLER_TYPE
+           value: "const"
+         - name: JAEGER_SAMPLER_PARAM
+           value: "1" 
+         - name: JAVA_OPTS
+           value: -Xms64m -Xmx128m -XX:PermSize=32m -XX:MaxPermSize=64m -XX:+UseG1GC -Djava.security.egd=file:/dev/urandom
+      restartPolicy: Always
+      imagePullSecrets:
+        - name: regcred
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: comservice2
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-service2
+    app-name: comservice2
+spec:
+  ports:
+  - port: 8080
+  selector:
+    benchmark: compute-pod2
+    app-name: comservice2
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: comservice2
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-deployment2
+    app-name: comservice2
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+         benchmark: compute-pod2
+         app-name: comservice2
+  template:
+    metadata:
+      labels: 
+        benchmark: compute-pod2
+        app-name: comservice2
+      name: micro-benchmark
+    spec:
+      containers:
+      - name: micro-benchmark
+        image: khv129/micro-benchmark
+        ports: 
+        - containerPort: 8080
+        imagePullPolicy: Always
+        env:
+         - name: JAEGER_SERVICE_NAME
+           value: "comservice2"
+         - name: JAEGER_AGENT_HOST
+           value: "jaeger-agent.istio-system.svc.cluster.local"
+         - name: JAEGER_AGENT_PORT
+           value: "5775"
+         - name: JAEGER_SAMPLER_TYPE
+           value: "const"
+         - name: JAEGER_SAMPLER_PARAM
+           value: "1" 
+         - name: JAVA_OPTS
+           value: -Xms64m -Xmx128m -XX:PermSize=32m -XX:MaxPermSize=64m -XX:+UseG1GC -Djava.security.egd=file:/dev/urandom
+      restartPolicy: Always
+      imagePullSecrets:
+        - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: comservice3
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-service3
+    app-name: comservice3
+spec:
+  ports:
+  - port: 8080
+  selector:
+    benchmark: compute-pod3
+    app-name: comservice3
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: comservice3
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-deployment3
+    app-name: comservice3
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+         benchmark: compute-pod3
+         app-name: comservice3
+  template:
+    metadata:
+      labels: 
+        benchmark: compute-pod3
+        app-name: comservice3
+      name: micro-benchmark
+    spec:
+      containers:
+      - name: micro-benchmark
+        image: khv129/micro-benchmark
+        ports: 
+        - containerPort: 8080
+        imagePullPolicy: Always
+        env:
+         - name: JAEGER_SERVICE_NAME
+           value: "comservice3"
+         - name: JAEGER_AGENT_HOST
+           value: "jaeger-agent.istio-system.svc.cluster.local"
+         - name: JAEGER_AGENT_PORT
+           value: "5775"
+         - name: JAEGER_SAMPLER_TYPE
+           value: "const"
+         - name: JAEGER_SAMPLER_PARAM
+           value: "1" 
+         - name: JAVA_OPTS
+           value: -Xms64m -Xmx128m -XX:PermSize=32m -XX:MaxPermSize=64m -XX:+UseG1GC -Djava.security.egd=file:/dev/urandom
+      restartPolicy: Always
+      imagePullSecrets:
+        - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: comservice4
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-service4
+    app-name: comservice4
+spec:
+  ports:
+  - port: 8080
+  selector:
+    benchmark: compute-pod4
+    app-name: comservice4
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: comservice4
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-deployment4
+    app-name: comservice4
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+         benchmark: compute-pod4
+         app-name: comservice4
+  template:
+    metadata:
+      labels: 
+        benchmark: compute-pod4
+        app-name: comservice4
+      name: micro-benchmark
+    spec:
+      containers:
+      - name: micro-benchmark
+        image: khv129/micro-benchmark
+        ports: 
+        - containerPort: 8080
+        imagePullPolicy: Always
+        env:
+         - name: JAEGER_SERVICE_NAME
+           value: "comservice4"
+         - name: JAEGER_AGENT_HOST
+           value: "jaeger-agent.istio-system.svc.cluster.local"
+         - name: JAEGER_AGENT_PORT
+           value: "5775"
+         - name: JAEGER_SAMPLER_TYPE
+           value: "const"
+         - name: JAEGER_SAMPLER_PARAM
+           value: "1" 
+         - name: JAVA_OPTS
+           value: -Xms64m -Xmx128m -XX:PermSize=32m -XX:MaxPermSize=64m -XX:+UseG1GC -Djava.security.egd=file:/dev/urandom
+      restartPolicy: Always
+      imagePullSecrets:
+        - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: comservice5
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-service5
+    app-name: comservice5
+spec:
+  ports:
+  - port: 8080
+  selector:
+    benchmark: compute-pod5
+    app-name: comservice5
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: comservice5
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-deployment5
+    app-name: comservice5
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+         benchmark: compute-pod5
+         app-name: comservice5
+  template:
+    metadata:
+      labels: 
+        benchmark: compute-pod5
+        app-name: comservice5
+      name: micro-benchmark
+    spec:
+      containers:
+      - name: micro-benchmark
+        image: khv129/micro-benchmark
+        ports: 
+        - containerPort: 8080
+        imagePullPolicy: Always
+        env:
+         - name: JAEGER_SERVICE_NAME
+           value: "comservice5"
+         - name: JAEGER_AGENT_HOST
+           value: "jaeger-agent.istio-system.svc.cluster.local"
+         - name: JAEGER_AGENT_PORT
+           value: "5775"
+         - name: JAEGER_SAMPLER_TYPE
+           value: "const"
+         - name: JAEGER_SAMPLER_PARAM
+           value: "1" 
+         - name: JAVA_OPTS
+           value: -Xms64m -Xmx128m -XX:PermSize=32m -XX:MaxPermSize=64m -XX:+UseG1GC -Djava.security.egd=file:/dev/urandom
+      restartPolicy: Always
+      imagePullSecrets:
+        - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: comservice-frontend
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-service-frontend
+    app-name: comservice-frontend
+spec:
+  ports:
+  - port: 8081
+  selector:
+    benchmark: compute-pod-frontend
+    app-name: comservice-frontend
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: comservice-frontend
+  namespace: micro-benchmark-intensive
+  labels:
+    benchmark: compute-deployment-frontend
+    app-name: comservice-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+         benchmark: compute-pod-frontend
+         app-name: comservice-frontend
+  template:
+    metadata:
+      labels: 
+        benchmark: compute-pod-frontend
+        app-name: comservice-frontend
+      name: micro-benchmark
+    spec:
+      containers:
+      - name: micro-benchmark
+        image: khv129/micro-benchmark-frontend
+        command: ["node","frontend_svc.js"]
+        ports: 
+        - containerPort: 8081
+        imagePullPolicy: Always
+        env:
+         - name: JAEGER_SERVICE_NAME
+           value: "comservice-frontend"
+         - name: JAEGER_AGENT_HOST
+           value: "jaeger-agent.istio-system.svc.cluster.local"
+         - name: JAEGER_AGENT_PORT
+           value: "5775"
+         - name: JAEGER_SAMPLER_TYPE
+           value: "const"
+         - name: JAEGER_SAMPLER_PARAM
+           value: "1" 
+         - name: JAVA_OPTS
+           value: -Xms64m -Xmx128m -XX:PermSize=32m -XX:MaxPermSize=64m -XX:+UseG1GC -Djava.security.egd=file:/dev/urandom
+      restartPolicy: Always
+      imagePullSecrets:
+        - name: regcred

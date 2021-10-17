@@ -1,0 +1,9 @@
+R_T,0.0832,0.9,8,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_T,0.0832,0.8,8,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_T,0.0832,0.7000000000000001,8,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_T,0.0832,0.6000000000000001,8,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_T,0.0832,0.5,8,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_T,0.0832,0.4,6,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM1_80p_5
+R_T,0.09259999999999999,0.30000000000000004,4,"set(['comservice5', 'comservice4', 'comservice3', 'comservice1'])",VM1_80p_5,set([u'comservice2']),VM2_80p_5
+R_T,0.102,0.2,2,"set([u'comservice5', u'comservice4', u'comservice3', u'comservice2', u'comservice1'])",VM5_80p_5
+R_T,,0.01,0

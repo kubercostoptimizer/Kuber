@@ -1,0 +1,45 @@
+True,"(u'user-service',)",a1.medium,False
+True,"(u'user-service',)",M6.medium,True
+True,"(u'social-graph-service',)",a1.medium,True
+True,"(u'compose-post-service',)",a1.medium,False
+True,"(u'compose-post-service',)",M6.medium,False
+True,"(u'compose-post-service',)",a1.large,False
+True,"(u'compose-post-service',)",M6.large,False
+True,"(u'compose-post-service',)",a1.xlarge,False
+True,"(u'compose-post-service',)",t3.micro,False
+True,"(u'compose-post-service',)",t3.small,False
+True,"(u'compose-post-service',)",M6.xlarge,False
+True,"(u'compose-post-service',)",t3.large,True
+True,"(u'compose-post-service',)",a1.2xlarge,False
+True,"(u'compose-post-service',)",M6.2xlarge,True
+True,"(u'post-storage-service',)",a1.medium,True
+True,"(u'user-timeline-service',)",a1.medium,True
+True,"(u'write-home-timeline-service',)",a1.medium,True
+True,"(u'home-timeline-service',)",a1.medium,False
+True,"(u'home-timeline-service',)",M6.medium,False
+True,"(u'home-timeline-service',)",a1.large,True
+True,"(u'media-service',)",a1.medium,True
+True,"(u'text-service',)",a1.medium,True
+True,"(u'unique-id-service',)",a1.medium,True
+True,"(u'url-shorten-service',)",a1.medium,False
+True,"(u'url-shorten-service',)",M6.medium,False
+True,"(u'url-shorten-service',)",a1.large,True
+True,"(u'user-mention-service',)",a1.medium,False
+True,"(u'user-mention-service',)",M6.medium,False
+True,"(u'user-mention-service',)",a1.large,True
+True,"(u'user-service', u'social-graph-service')",a1.medium,False
+True,"(u'user-service', u'social-graph-service')",M6.medium,True
+True,"(u'user-service', u'compose-post-service')",a1.medium,False
+True,"(u'user-service', u'compose-post-service')",M6.medium,False
+True,"(u'user-service', u'compose-post-service')",a1.large,False
+True,"(u'user-service', u'compose-post-service')",M6.large,False
+True,"(u'user-service', u'compose-post-service')",a1.xlarge,False
+True,"(u'user-service', u'compose-post-service')",t3.micro,False
+True,"(u'user-service', u'compose-post-service')",t3.small,False
+True,"(u'user-service', u'compose-post-service')",M6.xlarge,False
+True,"(u'user-service', u'compose-post-service')",t3.large,False
+True,"(u'user-service', u'compose-post-service')",a1.2xlarge,False
+True,"(u'user-service', u'compose-post-service')",M6.2xlarge,False
+True,"(u'user-service', u'post-storage-service')",a1.medium,False
+True,"(u'user-service', u'post-storage-service')",M6.medium,True
+True,"(u'user-service', u'user-timeline-service')",a1.medium,False

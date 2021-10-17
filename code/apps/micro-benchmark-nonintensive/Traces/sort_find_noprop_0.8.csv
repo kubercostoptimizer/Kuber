@@ -1,0 +1,31 @@
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice2', u'comservice3', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice3', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice2', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice2', u'comservice3', u'comservice4')",t3.medium,True
+True,"(u'comservice3', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice2', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice2', u'comservice3', u'comservice5')",t3.medium,True
+True,"(u'comservice2', u'comservice3', u'comservice4')",t3.medium,True
+True,"(u'comservice1', u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice3', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice3', u'comservice4')",t3.medium,True
+True,"(u'comservice1', u'comservice2', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice2', u'comservice4')",t3.medium,True
+True,"(u'comservice1', u'comservice2', u'comservice3')",t3.medium,True
+True,"(u'comservice4', u'comservice5')",t3.medium,True
+True,"(u'comservice3', u'comservice5')",t3.medium,True
+True,"(u'comservice3', u'comservice4')",t3.medium,True
+True,"(u'comservice2', u'comservice5')",t3.medium,True
+True,"(u'comservice2', u'comservice4')",t3.medium,True
+True,"(u'comservice2', u'comservice3')",t3.medium,True
+True,"(u'comservice1', u'comservice5')",t3.medium,True
+True,"(u'comservice1', u'comservice4')",t3.medium,True
+True,"(u'comservice1', u'comservice3')",t3.medium,True
+True,"(u'comservice1', u'comservice2')",t3.medium,True
+True,"(u'comservice5',)",t3.medium,True
+True,"(u'comservice4',)",t3.medium,True
+True,"(u'comservice3',)",t3.medium,True
+True,"(u'comservice2',)",t3.medium,True
+True,"(u'comservice1',)",t3.medium,True

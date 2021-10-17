@@ -1,0 +1,245 @@
+2021-08-16 05:49:32,404 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 05:49:32,406 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 05:49:33,182 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 05:51:52,089 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 05:51:52,091 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 05:51:52,771 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 05:52:37,684 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 05:52:37,690 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 05:52:38,341 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:21:56,472 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:21:56,479 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:21:57,187 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:22:59,701 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:22:59,707 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:23:00,403 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:24:30,489 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:24:30,496 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:24:31,174 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:27:32,141 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:27:32,149 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:27:32,848 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:28:25,859 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:28:25,860 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:28:26,498 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:30:09,935 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:30:09,941 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:30:10,619 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:31:46,997 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:31:47,003 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:31:47,672 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:34:12,425 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:34:12,431 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:34:13,110 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:35:55,064 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:35:55,070 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:35:55,793 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:42:28,077 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:42:28,083 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:42:28,813 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:48:58,392 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:48:58,397 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:48:59,103 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:49:49,469 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:49:49,476 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:49:50,149 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:50:35,093 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:50:35,099 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:50:35,772 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 07:51:13,097 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 07:51:13,104 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 07:51:13,729 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 22:34:53,165 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 22:34:53,167 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 22:34:53,896 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 22:35:56,858 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 22:35:56,865 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 22:35:57,542 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 22:38:00,042 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 22:38:00,048 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 22:38:00,784 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 22:57:12,452 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 22:57:12,456 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 22:57:13,184 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 23:09:06,585 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 23:09:06,592 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 23:09:07,305 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-16 23:58:53,565 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-16 23:58:53,566 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-16 23:58:54,283 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 00:00:58,159 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 00:00:58,159 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 00:00:58,865 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 00:02:20,617 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 00:02:20,617 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 00:02:21,296 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 00:04:25,990 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 00:04:25,991 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 00:04:26,829 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 00:05:53,012 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 00:05:53,012 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 00:05:53,743 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 00:20:30,160 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 00:20:30,160 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 00:20:30,905 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 00:22:18,146 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 00:22:18,147 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 00:22:18,860 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 08:32:15,743 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 08:32:15,744 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 08:32:16,505 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 08:40:42,067 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 08:40:42,068 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 08:40:42,828 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 08:49:36,734 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 08:49:36,734 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 08:49:37,496 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 08:51:45,119 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 08:51:45,120 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 08:51:45,878 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 19:05:06,021 : experiment_state : 160 : INFO : [Experiment] Initializing experiment state
+2021-08-17 19:05:06,025 : experiment_state : 127 : INFO : [Experiment] loading experiments from /wd/code/apps/social-network/state/experiments.json
+2021-08-17 19:05:06,962 : experiment_state : 142 : INFO : [Experiment] loading experiment state from /wd/code/apps/social-network/state/experiment_ids.json
+2021-08-17 19:05:28,212 : kuber : 31 : INFO : ######################################## Kuber log ##################################
+2021-08-17 19:05:28,212 : kuber : 32 : INFO : VM selector: sort_find
+2021-08-17 19:05:28,212 : kuber : 33 : INFO : Mode: bottom
+2021-08-17 19:05:28,212 : kuber : 34 : INFO : Budget: 1000
+2021-08-17 19:05:28,245 : kuber : 80 : INFO : #==================================== ('s1',) ====================================#
+2021-08-17 19:05:28,246 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,246 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1',) on a1.medium
+2021-08-17 19:05:28,246 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,246 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,246 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,249 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,272 : results_cache_client : 148 : INFO : True
+2021-08-17 19:05:28,272 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.medium
+2021-08-17 19:05:28,274 : results_controller : 389 : WARNING : Budget decreased: 999.9745
+2021-08-17 19:05:28,274 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,274 : sort_find : 20 : INFO : [Sort Find] Got result True
+2021-08-17 19:05:28,275 : kuber : 90 : INFO : ======================================================================================
+2021-08-17 19:05:28,275 : kuber : 80 : INFO : #==================================== ('s2',) ====================================#
+2021-08-17 19:05:28,275 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,275 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s2',) on a1.medium
+2021-08-17 19:05:28,275 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,275 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,275 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,279 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,281 : results_cache_client : 148 : INFO : True
+2021-08-17 19:05:28,281 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.medium
+2021-08-17 19:05:28,282 : results_controller : 389 : WARNING : Budget decreased: 999.949
+2021-08-17 19:05:28,282 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,282 : sort_find : 20 : INFO : [Sort Find] Got result True
+2021-08-17 19:05:28,283 : kuber : 90 : INFO : ======================================================================================
+2021-08-17 19:05:28,283 : kuber : 80 : INFO : #==================================== ('s3',) ====================================#
+2021-08-17 19:05:28,283 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,283 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s3',) on a1.medium
+2021-08-17 19:05:28,284 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,284 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,284 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,284 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,287 : results_cache_client : 148 : INFO : True
+2021-08-17 19:05:28,287 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.medium
+2021-08-17 19:05:28,288 : results_controller : 389 : WARNING : Budget decreased: 999.9235
+2021-08-17 19:05:28,288 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,288 : sort_find : 20 : INFO : [Sort Find] Got result True
+2021-08-17 19:05:28,289 : kuber : 90 : INFO : ======================================================================================
+2021-08-17 19:05:28,289 : kuber : 80 : INFO : #==================================== ('s4',) ====================================#
+2021-08-17 19:05:28,289 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,289 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s4',) on a1.medium
+2021-08-17 19:05:28,289 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,289 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,289 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,290 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,295 : results_cache_client : 148 : INFO : None
+2021-08-17 19:05:28,295 : results_controller : 447 : INFO : [Results Controller] Executing on a1.medium
+2021-08-17 19:05:28,316 : results_controller : 389 : WARNING : Budget decreased: 999.898
+2021-08-17 19:05:28,316 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,316 : sort_find : 20 : INFO : [Sort Find] Got result True
+2021-08-17 19:05:28,317 : kuber : 90 : INFO : ======================================================================================
+2021-08-17 19:05:28,317 : kuber : 80 : INFO : #==================================== ('s1', 's2') ====================================#
+2021-08-17 19:05:28,317 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,317 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's2') on a1.medium
+2021-08-17 19:05:28,320 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,320 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,320 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,321 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,321 : results_cache_client : 148 : INFO : False
+2021-08-17 19:05:28,321 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.medium
+2021-08-17 19:05:28,322 : results_controller : 389 : WARNING : Budget decreased: 999.8725
+2021-08-17 19:05:28,322 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,322 : sort_find : 20 : INFO : [Sort Find] Got result False
+2021-08-17 19:05:28,323 : sort_find : 27 : INFO : -------------------------------------------------------------------
+2021-08-17 19:05:28,323 : sort_find : 18 : INFO : ---------------------------- M6.medium -------------------------------------
+2021-08-17 19:05:28,323 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's2') on M6.medium
+2021-08-17 19:05:28,323 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,323 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,323 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,324 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,324 : results_cache_client : 148 : INFO : False
+2021-08-17 19:05:28,324 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on M6.medium
+2021-08-17 19:05:28,325 : results_controller : 389 : WARNING : Budget decreased: 999.834
+2021-08-17 19:05:28,325 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,325 : sort_find : 20 : INFO : [Sort Find] Got result False
+2021-08-17 19:05:28,325 : sort_find : 27 : INFO : -------------------------------------------------------------------
+2021-08-17 19:05:28,326 : sort_find : 18 : INFO : ---------------------------- a1.large -------------------------------------
+2021-08-17 19:05:28,326 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's2') on a1.large
+2021-08-17 19:05:28,326 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,326 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,326 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,326 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,329 : results_cache_client : 148 : INFO : True
+2021-08-17 19:05:28,329 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.large
+2021-08-17 19:05:28,330 : results_controller : 389 : WARNING : Budget decreased: 999.783
+2021-08-17 19:05:28,330 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,330 : sort_find : 20 : INFO : [Sort Find] Got result True
+2021-08-17 19:05:28,331 : kuber : 90 : INFO : ======================================================================================
+2021-08-17 19:05:28,331 : kuber : 80 : INFO : #==================================== ('s1', 's3') ====================================#
+2021-08-17 19:05:28,331 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,331 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's3') on a1.medium
+2021-08-17 19:05:28,334 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,335 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,335 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,335 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,336 : results_cache_client : 148 : INFO : False
+2021-08-17 19:05:28,336 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.medium
+2021-08-17 19:05:28,337 : results_controller : 389 : WARNING : Budget decreased: 999.7575
+2021-08-17 19:05:28,337 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,337 : sort_find : 20 : INFO : [Sort Find] Got result False
+2021-08-17 19:05:28,337 : sort_find : 27 : INFO : -------------------------------------------------------------------
+2021-08-17 19:05:28,337 : sort_find : 18 : INFO : ---------------------------- M6.medium -------------------------------------
+2021-08-17 19:05:28,337 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's3') on M6.medium
+2021-08-17 19:05:28,338 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,338 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,338 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,338 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,339 : results_cache_client : 148 : INFO : False
+2021-08-17 19:05:28,339 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on M6.medium
+2021-08-17 19:05:28,340 : results_controller : 389 : WARNING : Budget decreased: 999.719
+2021-08-17 19:05:28,340 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,340 : sort_find : 20 : INFO : [Sort Find] Got result False
+2021-08-17 19:05:28,340 : sort_find : 27 : INFO : -------------------------------------------------------------------
+2021-08-17 19:05:28,340 : sort_find : 18 : INFO : ---------------------------- a1.large -------------------------------------
+2021-08-17 19:05:28,340 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's3') on a1.large
+2021-08-17 19:05:28,341 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,341 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,341 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,341 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,345 : results_cache_client : 148 : INFO : True
+2021-08-17 19:05:28,345 : results_controller : 450 : INFO : [Results Controller] getting result from existing base on a1.large
+2021-08-17 19:05:28,346 : results_controller : 389 : WARNING : Budget decreased: 999.668
+2021-08-17 19:05:28,346 : results_controller : 455 : INFO : end
+2021-08-17 19:05:28,346 : sort_find : 20 : INFO : [Sort Find] Got result True
+2021-08-17 19:05:28,347 : kuber : 90 : INFO : ======================================================================================
+2021-08-17 19:05:28,347 : kuber : 80 : INFO : #==================================== ('s1', 's4') ====================================#
+2021-08-17 19:05:28,347 : sort_find : 18 : INFO : ---------------------------- a1.medium -------------------------------------
+2021-08-17 19:05:28,347 : results_controller : 422 : INFO : [Results Controller] Getting result for ('s1', 's4') on a1.medium
+2021-08-17 19:05:28,348 : results_controller : 409 : INFO : [Results Controller] can not propagate with existing data
+2021-08-17 19:05:28,348 : results_controller : 427 : INFO : propagated None
+2021-08-17 19:05:28,348 : results_controller : 443 : INFO : [Results Controller] reading existing results
+2021-08-17 19:05:28,349 : results_cache_client : 141 : INFO : [Results Cache Client] can not propagate
+2021-08-17 19:05:28,353 : results_cache_client : 148 : INFO : None
+2021-08-17 19:05:28,353 : results_controller : 447 : INFO : [Results Controller] Executing on a1.medium
+2021-08-17 19:05:28,360 : experiment : 374 : INFO : [Experiment] Executing for a1.medium ('s1', 's4') 0
+2021-08-17 19:05:28,361 : opennebula : 152 : INFO : [create_master] create master
+2021-08-17 19:05:28,378 : opennebula : 148 : INFO : line
+2021-08-17 19:05:28,475 : opennebula : 174 : INFO : [create_master] create master done, start to wait

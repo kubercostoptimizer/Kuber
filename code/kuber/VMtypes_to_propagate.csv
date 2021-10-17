@@ -1,0 +1,12 @@
+cpu,computer,ram
+2,gen,1
+2,gen,2
+1,gen,2
+1,mem,4
+2,gen,4
+2,mem,8
+2,gen,8
+4,gen,8
+4,mem,16
+8,gen,16
+8,mem,32

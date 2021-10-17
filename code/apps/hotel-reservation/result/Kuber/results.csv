@@ -1,0 +1,8 @@
+S_B,91.8,21.037000000000006,220.0,0,"set([u'profile', u'geo'])",VM1_50p,"set([u'reservation', u'rate'])",VM1_50p,"set([u'search', u'recommendation'])",VM1_50p,"set([u'frontend', u'user'])",VM3_50p
+KUBERO1_B,91.8,2.850200000000002,60.0,0,"set([u'search', u'recommendation'])",VM1_50p,"set([u'reservation', u'rate'])",VM1_50p,"set([u'profile', u'geo'])",VM1_50p,"set([u'frontend', u'user'])",VM3_50p
+S_B,91.8,41.05840000000001,350.0,0,"set(['reservation', 'geo', 'recommendation'])",VM1_50p,"set(['rate', 'search'])",VM1_50p,set(['profile']),VM1_50p,"set([u'frontend', u'user'])",VM3_50p
+S_B,91.8,46.957000000000015,380.0,0,"set(['reservation', 'recommendation'])",VM1_50p,"set(['profile', 'geo'])",VM1_50p,"set(['rate', 'search'])",VM1_50p,"set([u'frontend', u'user'])",VM3_50p
+PRE_B,91.8,15.840399999999986,160.0,0,"set([u'reservation', u'geo', u'recommendation'])",VM1_50p,"set([u'rate', u'search'])",VM1_50p,set([u'profile']),VM1_50p,"set([u'frontend', u'user'])",VM3_50p
+S_B,174.6,0.33199999999999996,10.0,0,set(['user']),VM2_50p,set(['profile']),VM1_50p,set(['reservation']),VM1_50p,set(['geo']),VM1_50p,set(['recommendation']),VM1_50p,set(['frontend']),VM3_50p,set(['rate']),VM1_50p,set([u'search']),VM1_50p
+KUBERO1C2_B,91.8,7.227600000000004,100.0,0,"set([u'search', u'recommendation'])",VM1_50p,"set([u'reservation', u'rate'])",VM1_50p,"set([u'profile', u'geo'])",VM1_50p,"set([u'frontend', u'user'])",VM3_50p
+S_N,91.8,150.04739999999924,1590.0,0,"set([u'reservation', u'geo', u'recommendation'])",VM1_50p,"set([u'rate', u'search', u'user'])",VM3_50p,"set([u'profile', u'frontend'])",VM3_50p
