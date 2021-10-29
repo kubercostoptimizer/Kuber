@@ -1,112 +1,91 @@
 
 # Kuber
 
-### Contents
+### Configuration
 
-- [Installation](#Installation)
-- [Configuration](#system-component)
-- [Experiments](#system-dataflow)
-- [Application format](#system-component)
-- [Kuber](#how-to-start)
-- [Results](#installation)
+Kuber needs the following information from the application developer:
 
-## Installation
+#### Data about the application
 
-Store OpenNebula password, username, and userid at enviroment variables USERNAME, PASSWORD, USERID
+1. We need Kubernetes deployment files (.yamls) for deploying services and their dependencies.
+   - place all the deployment files in /apps/app_name/deploy folder.
+2. Load test that needs to be executed to test a combination
+   - Copy existing load_test folder from /apps/sock-shop/load_test
+   - update /apps/app_name/load_test/locustfile.py with required test scenario.
+3. Initial configuration such as loading databases
+   - Create a folder apps/app_name/load_test/init_scripts/
+   - place the required code and invoke it with script run.sh
 
-## system-component 
+#### SSOT: Single Source Of Truth
 
-![dataflow](https://raw.githubusercontent.com/resess/athena_paper/master/kali_code/img/dataflow.jpg?token=AGLP5QT3LY4FZHKDYZCYCPS5IYETI)
+Application developers have to configure VM types and services that need to be tested in file SSOT/config.json.
+Example config.json file in SSOT folder:
 
-The system consists of two main modules: *Spearmint and SDK*. </br>
-<b>Spearmint</b> is responsible for using Bayesian optimization to calculate the next configuration when given an input(last configuration's cost). </br>
-<b>SDK</b> Refer to the configuration file for virtual machine creation and micro service deployment.
-
-## system-dataflow
-1.Each loop the Spearmint will execute the main function in SDK/start.py and send the new configuration to get the cost.<br>
-
-```
-	BO -> main(job_id, params)
-``` 
-
-2.The SDK gets the configuration then it refers to the config file in SDK/conf to verify the configuration is validate or not.  <br>
-e.g. the input: cpu_count = 1,disk =10,ram=4 is a invalid type 
-
-```json
+``` json
 {
-  "vms":[
-    {
-      "name"          : "r5.large",
-      "cpu_count"     : "2",
-      "disk"          : "10",
-      "ram"           : "16",
-      "computer"      : "newton",
-      "price"         : 0.126
-    },
-    {
-      "name"          : "r5.xlarge",
-      "cpu_count"     : "4",
-      "disk"          : "10",
-      "ram"           : "32",
-      "computer"      : "newton",
-      "price"         : 0.252
-    }
-  ]
+  "Application": 
+      {
+          "name": "app_name",
+          "services": ["service1", "service2"],
+          "front-end": "service1",
+          "port": "5000"
+      },
+  "Profiling":
+      {
+        "load_gen":
+          {
+           "time_limit":"2m",
+           "concurrent":"100"
+          }
+      },
+  "Infrastructure":
+      {
+        "Cloud_provider": "opennebula",
+        "vm_types":[
+                {
+                  "name"          : "m4.large",
+                  "cpu_count"     : "2",
+                  "ram"           : "8",
+                  "computer"      : "leibnitz",
+                  "price"         : 0.10
+                },
+                {
+                  "name"          : "m4.xlarge",
+                  "cpu_count"     : "4",
+                  "ram"           : "16",
+                  "computer"      : "leibnitz",
+                  "price"         : 0.20
+                },
+              ]
+      }
 }
 ```
-
-3.Then the SDK uses **deploy Method** Module to create the correspond VM and deploy the microservice which has already been described in the configuration file. 
-
-```json
-{ 
-    "deploy":{
-        "method":"ECEnew",
-        "task":"flaskDemo"
-    }
-}
+Below we explain in detail each of the config options:
+1. Application
+   - name: Name of the application, should be same as the namespace given in Kubernetes deployment files, and folder name in /apps.
+   - services: names of each microservice, should be the same as Kubernetes services in /apps/app_name/deploy.
+   - front-end: service that receives external traffic into the application.
+   - port: port exposed by front-end.
+2. Profiling 
+   - time_limit: the amount of time to run a load test.
+   - concurrent: number of concurrent users that run the test.
+3. VM types
+   - Each entry in this list corresponds to a VM type
+   - name: user-given name for the VM type
+   - cpu_count: number of CPU cores
+   - ram: RAM size in GB
+   - computer: physical machine to place the VM type in.
+   - price: cost per hour in $.
+   
+---
+### Running the Kuber with Docker container
+1. Download the docker container from the DockerHub repo and the code from Github.
+2. Run the docker container with code using the following command:
+```sh
+docker run -it -v /code:/wd/code kuberload/kuber:latest /bin/bash
 ```
-
-4.Finally, it uses the **cost detection** module to send a certain number of concurrent request to the API which written in the config file and get the response time. If the response time is under 5s(example), it will send the configuration's cost back to BO.<br>
-
+3. Then execute the Kuber inside the container:
+```sh
+cd /wd/code/kuber
+python run.py
 ```
-{
-  "apis": [
-    {
-        "url": ":5000/hello",
-        "method": "GET",
-        "parameter":[],
-        "weight": 1
-    },
-    {
-        "url": ":5000/compute",
-        "method": "GET",
-        "parameter":[],
-        "weight": 1
-    }
-   ]
-}
-```
-Then the system will start a loop to caculate the new configration until find the best configuration.
-
-
-## how-to-start
-
-Just run the start.sh on leibnitz newton or other machine.<br>
-notes: you can uncomment those comments to install dependencies
-
-```bash
-#!/usr/bin/env bash
-#pip install protobuf==2.6.1
-#pip install wave
-#sudo apt-get install python-protobuf
-#pip install --user cryptography --upgrade
-#sudo python -m easy_install --upgrade pyOpenSSL
-python2.7 spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 SDK/sdk.pb
-
-```
-
-notes: After finish the experiment, you are supposed to run the **cleanup.sh** to clean all the out file.
-
-## testing
-
-now we can use the system to find the best configuration for the flaskDemo task in six types of VMs. 
